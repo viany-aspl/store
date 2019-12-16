@@ -1,0 +1,84 @@
+2019-09-03 11:28:09 - updatequantity called
+2019-09-03 11:28:09 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [quantity] => b7aefdb84de75f2c2fe57124859c2cad
+    [product_id] => fcf68307e50f5f16fd6f644c8d810d4d
+)
+
+2019-09-03 11:28:09 - Array
+(
+    [username] => 851
+    [store_id] => 541
+    [quantity] => 1
+    [product_id] => 3531
+)
+
+2019-09-03 11:28:09 - Array
+(
+    [quantity] => 1
+)
+
+2019-09-03 11:28:09 - stdClass Object
+(
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+            [n] => 1
+            [nModified] => 1
+            [ok] => 1
+            [err] => 
+            [errmsg] => 
+            [updatedExisting] => 1
+        )
+
+    [num_rows] => 6
+    [total_rows] => 0
+)
+
+2019-09-03 11:28:23 - updatequantity called
+2019-09-03 11:28:23 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [quantity] => 5e9470fc68748c382703f50d60900d5a
+    [product_id] => fcf68307e50f5f16fd6f644c8d810d4d
+)
+
+2019-09-03 11:28:23 - Array
+(
+    [username] => 851
+    [store_id] => 541
+    [quantity] => 2
+    [product_id] => 3531
+)
+
+2019-09-03 11:28:23 - Array
+(
+    [quantity] => 2
+)
+
+2019-09-03 11:28:23 - stdClass Object
+(
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+            [n] => 1
+            [nModified] => 1
+            [ok] => 1
+            [err] => 
+            [errmsg] => 
+            [updatedExisting] => 1
+        )
+
+    [num_rows] => 6
+    [total_rows] => 0
+)
+

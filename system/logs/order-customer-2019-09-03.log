@@ -1,0 +1,128 @@
+2019-09-03 10:03:26 - 7056196342
+2019-09-03 10:03:26 - 541
+2019-09-03 10:03:26 - stdClass Object
+(
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+    [num_rows] => 0
+    [total_rows] => 0
+)
+
+2019-09-03 10:03:26 - 7056196342
+2019-09-03 10:03:26 - 541
+2019-09-03 10:03:26 - stdClass Object
+(
+    [row] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5d6e3a6e7f8b9aa91c320b7a
+                )
+
+            [customer_id] => 108958
+            [customer_group_id] => 1
+            [firstname] => TUSHAR
+            [lastname] => 
+            [email] => 7056196342
+            [telephone] => 7056196342
+            [fax] => 7056196342
+            [custom_field] => 
+            [newsletter] => 0
+            [salt] => b0c1463e3
+            [password] => d80c94f547b98d3e939fe5e6d82bf24f1ccebeb5
+            [status] => 1
+            [approved] => 1
+            [safe] => 1
+            [store_id] => Array
+                (
+                    [0] => 541
+                )
+
+            [card] => 0
+            [date_added] => MongoDate Object
+                (
+                    [sec] => 1567505006
+                    [usec] => 0
+                )
+
+            [addedby] => 
+            [aadhar] => 000000000000
+            [otp] => 
+            [ip] => 
+            [imei] => 
+            [scheme] => 
+            [state_code] => 
+            [state_name] => 
+            [dist_code] => 
+            [dist_name] => 
+            [village] => 
+            [card_number] => 
+            [unnati_mitra] => 0
+            [reward] => 0
+            [credit] => 0
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5d6e3a6e7f8b9aa91c320b7a
+                        )
+
+                    [customer_id] => 108958
+                    [customer_group_id] => 1
+                    [firstname] => TUSHAR
+                    [lastname] => 
+                    [email] => 7056196342
+                    [telephone] => 7056196342
+                    [fax] => 7056196342
+                    [custom_field] => 
+                    [newsletter] => 0
+                    [salt] => b0c1463e3
+                    [password] => d80c94f547b98d3e939fe5e6d82bf24f1ccebeb5
+                    [status] => 1
+                    [approved] => 1
+                    [safe] => 1
+                    [store_id] => Array
+                        (
+                            [0] => 541
+                        )
+
+                    [card] => 0
+                    [date_added] => MongoDate Object
+                        (
+                            [sec] => 1567505006
+                            [usec] => 0
+                        )
+
+                    [addedby] => 
+                    [aadhar] => 000000000000
+                    [otp] => 
+                    [ip] => 
+                    [imei] => 
+                    [scheme] => 
+                    [state_code] => 
+                    [state_name] => 
+                    [dist_code] => 
+                    [dist_name] => 
+                    [village] => 
+                    [card_number] => 
+                    [unnati_mitra] => 0
+                    [reward] => 0
+                    [credit] => 0
+                )
+
+        )
+
+    [num_rows] => 1
+    [total_rows] => 0
+)
+

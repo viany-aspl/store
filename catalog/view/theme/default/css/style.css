@@ -1,0 +1,116 @@
+
+body{
+	background:#e6e6e6;
+	color:#111111;
+	margin:0px;
+	padding:0px;
+}
+a {
+	color:#215784;
+	text-decoration: none;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+
+a:hover , a:active, a:focus{
+	text-decoration: none;
+	outline:none;
+	color:#215784;
+}
+.inner_space{
+	width:100%;
+	display:block;
+	background:#fff;
+	margin-top:40px;
+	padding:30px 15px 0px;
+	box-shadow:1px 3px 5px 4px rgba(0,0,0,0.1);
+	-webkit-box-shadow:1px 3px 5px 4px rgba(0,0,0,0.1);
+	-moz-box-shadow:1px 3px 5px 4px rgba(0,0,0,0.1);
+	-o-box-shadow:1px 3px 5px 4px rgba(0,0,0,0.1);
+}
+.invoice_from{
+	text-align:right;
+}
+.invoice_to{
+	text-align:left;
+}
+.invoice_box{
+	width:100%;
+	display:block;
+	padding:30px 0px;
+}
+.grey_box{
+background:#efefef;
+display:block;
+text-align:center;
+padding: 15px 0px;
+margin-bottom:20px;
+}
+
+
+.product_table{
+	width:100%;
+	display:block;
+}
+.tax_des{
+	width:100%;
+}
+.invoice_footer{
+	width:100%;
+	display:block;
+	border-top:1px solid #cdcdcd;
+	padding:20px 0;
+}
+.invoice_footer span .icon{
+	transform: scale(0.8);
+}
+
+.m_20{
+	margin:20px 0;
+}
+
+@media (max-width:992px){
+	.invoice_from{
+	text-align:center;
+	padding:20px 0;
+}
+.invoice_to{
+	text-align:center;
+	padding:20px 0;
+}
+.grey_box h3{
+	font-size: 20px;
+}
+}
+
+@media (max-width:767px){
+	.invoice_from{
+	text-align:center;
+	padding:20px 0;
+}
+.invoice_to{
+	text-align:center;
+	padding:20px 0;
+}
+.invoice_box {
+    padding: 10px 15px;
+}
+}
+
+
+@media (max-width:480px){
+	.invoice_from{
+	text-align:center;
+	padding:20px 0;
+}
+.invoice_to{
+	text-align:center;
+	padding:20px 0;
+}
+.invoice_box {
+    padding: 10px 15px;
+}
+}

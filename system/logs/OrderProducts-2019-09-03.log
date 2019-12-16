@@ -1,0 +1,239 @@
+2019-09-03 10:03:28 - Array
+(
+    [_id] => MongoId Object
+        (
+            [$id] => 5d6e3a6e7f8b9aa91c320b7d
+        )
+
+    [order_id] => 14221
+    [card_no] => 
+    [invoice_prefix] => INV-2019-00
+    [invoice_no] => 1
+    [store_id] => 541
+    [store_name] => MYSTORE
+    [store_url] => http://localhost/stores/
+    [customer_id] => 108958
+    [customer_group_id] => 1
+    [firstname] => TUSHAR
+    [lastname] => 
+    [email] => 7056196342
+    [telephone] => 7056196342
+    [fax] => 7056196342
+    [payment_firstname] => tushar
+    [payment_lastname] => 000000000000
+    [payment_company] => 
+    [payment_address_1] => 
+    [payment_address_2] => 
+    [payment_city] => 
+    [payment_postcode] => 
+    [payment_country] => 
+    [payment_country_id] => 0
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => {firstname} {lastname}\n{company}\n{address_1}\n{address_2}\n{city} {postcode}\n{zone}\n{country}
+    [payment_method] => Cash
+    [payment_code] => in_store
+    [shipping_firstname] => 
+    [shipping_lastname] => 
+    [shipping_company] => 
+    [shipping_address_1] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_postcode] => 
+    [shipping_country] => 
+    [shipping_country_id] => 0
+    [shipping_zone_id] => 0
+    [shipping_zone] => 
+    [shipping_address_format] => {firstname} {lastname}\n{company}\n{address_1}\n{address_2}\n{city} {postcode}\n{zone}\n{country}
+    [shipping_code] => pickup.pickup
+    [shipping_method] => Pickup From Store
+    [subsidy_category] => 
+    [comment] => 
+    [user_id] => 851
+    [total] => 999
+    [credit] => 11
+    [cash] => 988
+    [reward] => 0
+    [tax] => 0
+    [commission] => 0
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [language_id] => 1
+    [currency_id] => 0
+    [currency_code] => INR
+    [currency_value] => 1
+    [date_added] => MongoDate Object
+        (
+            [sec] => 1567505006
+            [usec] => 0
+        )
+
+    [date_modified] => MongoDate Object
+        (
+            [sec] => 1567505006
+            [usec] => 0
+        )
+
+    [order_product] => Array
+        (
+            [0] => Array
+                (
+                    [subtract] => 1
+                    [product_id] => 3534
+                    [name] => MY
+                    [model] => MY
+                    [quantity] => 1
+                    [product_mitra] => 0
+                    [price] => 951.42857142857
+                    [total] => 951.42857142857
+                    [tax] => 47.571428571428
+                    [reward] => 0
+                    [tax_class_id] => 14
+                    [tax_class_name] => GST@5%
+                    [tax_class_rate] => 5.0
+                    [order_option] => Array
+                        (
+                        )
+
+                    [category_id] => 44
+                )
+
+        )
+
+    [order_total] => Array
+        (
+            [0] => Array
+                (
+                    [text] => 951
+                    [code] => sub_total
+                    [title] => Sub total
+                    [value] => 951.43
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [text] => 0
+                    [code] => discount
+                    [title] => Discount
+                    [value] => 0
+                    [sort_order] => 6
+                )
+
+            [2] => Array
+                (
+                    [text] => 951
+                    [code] => total
+                    [title] => Total
+                    [value] => 951.42857142857
+                    [sort_order] => 9
+                )
+
+        )
+
+    [billtype] => 1
+    [transid] => d1abe66c-2a2c-4ae2-8229-7778f59269a0
+    [discount] => 0
+    [pay_method] => Cash Credit
+)
+
+2019-09-03 10:03:28 - Array
+(
+    [subtract] => 1
+    [product_id] => 3534
+    [name] => MY
+    [model] => MY
+    [quantity] => 1
+    [product_mitra] => 0
+    [price] => 951.42857142857
+    [total] => 951.42857142857
+    [tax] => 47.571428571428
+    [reward] => 0
+    [tax_class_id] => 14
+    [tax_class_name] => GST@5%
+    [tax_class_rate] => 5.0
+    [order_option] => Array
+        (
+        )
+
+    [category_id] => 44
+)
+
+2019-09-03 10:03:28 - Array
+(
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [product_id] => da7012655330c51c17fc0d3b21786d1a
+                    [subsidy] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [name] => 086ec4ae22fb0a58dc12222ecead7b8e
+                    [model] => 086ec4ae22fb0a58dc12222ecead7b8e
+                    [quantity] => b7aefdb84de75f2c2fe57124859c2cad
+                    [price] => b6c5c14cfcde8aa014300d0a5ebea19d
+                    [total] => f4e8cdb3dd323e0bd016748e24e3aa0e
+                    [tax] => 94abd23c0d4032a33cc1958ffc450c89
+                    [hstn] => 34de2e9614cbc82426362be2cf846a6a
+                )
+
+        )
+
+    [total] => b6c5c14cfcde8aa014300d0a5ebea19d
+    [tax] => e6d1fddb49fe8ec10b97972c354f18ac
+    [subtotal] => 72e83d3609607333399d9c650c201662
+    [discount] => e6d1fddb49fe8ec10b97972c354f18ac
+    [cash] => 988
+)
+
+2019-09-03 10:03:28 - Array
+(
+    [_id] => MongoId Object
+        (
+            [$id] => 5d6e0ffc7f8b9a060e320be1
+        )
+
+    [user_id] => 851
+    [username] => 7065196342
+    [user_group_id] => 11
+    [salt] => e213eb02d
+    [password] => 8dec12c985d9b767e875152cecbea46be80e184f
+    [firstname] => MYSTORE
+    [lastname] => 
+    [email] => sharma.13tushar@gmail.com
+    [company_id] => 
+    [image] => profile/949-1.jpg
+    [images] => Array
+        (
+            [0] => profile/949-1.jpg
+            [1] => profile/949-2.jpg
+        )
+
+    [status] => 1
+    [store_id] => 541
+    [State_Code] => 9
+    [State_Name] => UTTAR PRADESH
+    [Dist_Code] => 121
+    [Dist_Name] => AMBEDKAR NAGAR
+    [token] => eBRVZNNNJgw:APA91bEnBTNW2LdjyeHeYkhojo3uPzfiJMvyHDIYbMsCwLhXQexsllJgzb10KcqFZFeh5weV9E93hd_DwM8XiWQhAvPJreDbfJ-G_ZHTR6BZ16592XqGCnbE-2PrS9a15lChej7AZFHH
+    [date_added] => MongoDate Object
+        (
+            [sec] => 1567494140
+            [usec] => 0
+        )
+
+    [cash] => 951.42857142857
+    [user_group] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5b16674ee13823201e16af2a
+                )
+
+            [user_group_id] => 11
+            [name] => POS User
+            [permission] => a:2:{s:6:"access";a:8:{i:0;s:18:"dashboard/activity";i:1;s:15:"dashboard/chart";i:2;s:18:"dashboard/customer";i:3;s:13:"dashboard/map";i:4;s:16:"dashboard/online";i:5;s:15:"dashboard/order";i:6;s:16:"dashboard/recent";i:7;s:14:"dashboard/sale";}s:6:"modify";a:1:{i:0;s:19:"marketing/affiliate";}}
+        )
+
+)
+

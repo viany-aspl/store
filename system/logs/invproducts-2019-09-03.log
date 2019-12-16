@@ -1,0 +1,786 @@
+2019-09-03 9:42:19 - invproducts called 
+2019-09-03 9:42:19 - Array
+(
+    [route] => mpos/product/invproducts
+)
+
+2019-09-03 9:42:19 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => 829e1168ad3eaac93c4b5a160bf0ca19
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 9:42:19 - 541
+2019-09-03 9:42:19 - 851
+2019-09-03 9:42:19 - in model getInventoryProducts for inventory
+2019-09-03 9:42:19 - Array
+(
+    [start] => -1
+    [limit] => 20
+    [service_type] => inventory
+    [invtype] => 
+)
+
+2019-09-03 9:42:19 - in if  service_type is inventory 
+2019-09-03 9:42:19 - generated where in model
+2019-09-03 9:42:19 - Array
+(
+    [pd.store_id] => 541
+)
+
+2019-09-03 9:42:19 - {"pd.store_id":541}
+2019-09-03 9:42:19 - in model for getTotalInventoryAmount
+2019-09-03 9:42:19 - generated where 
+2019-09-03 9:42:19 - Array
+(
+    [store_id] => 541
+    [mitra_quantity] => Array
+        (
+            [$gt] => 0
+        )
+
+)
+
+2019-09-03 9:42:19 - gettotal
+2019-09-03 9:42:19 - 0
+2019-09-03 9:42:19 - get_mitra_total
+2019-09-03 9:42:19 - 0
+2019-09-03 9:42:19 - ttotal
+2019-09-03 9:42:19 - 0.00
+2019-09-03 9:42:19 - mtotal
+2019-09-03 9:42:19 - 0.00
+2019-09-03 9:42:19 - in if action is view
+2019-09-03 9:42:19 - 1234
+2019-09-03 9:42:19 - return totalcount
+2019-09-03 9:42:19 - 1
+2019-09-03 9:45:45 - invproducts called 
+2019-09-03 9:45:45 - Array
+(
+    [route] => mpos/product/invproducts
+)
+
+2019-09-03 9:45:45 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 9:45:45 - 541
+2019-09-03 9:45:45 - 851
+2019-09-03 9:45:45 - in model getInventoryProducts for inventory
+2019-09-03 9:45:45 - Array
+(
+    [start] => 0
+    [limit] => 20
+    [service_type] => inventory
+    [invtype] => 
+)
+
+2019-09-03 9:45:45 - in if  service_type is inventory 
+2019-09-03 9:45:45 - generated where in model
+2019-09-03 9:45:45 - Array
+(
+    [pd.store_id] => 541
+)
+
+2019-09-03 9:45:45 - {"pd.store_id":541}
+2019-09-03 9:45:45 - in model for getTotalInventoryAmount
+2019-09-03 9:45:45 - generated where 
+2019-09-03 9:45:45 - Array
+(
+    [store_id] => 541
+    [mitra_quantity] => Array
+        (
+            [$gt] => 0
+        )
+
+)
+
+2019-09-03 9:45:45 - gettotal
+2019-09-03 9:45:45 - 0
+2019-09-03 9:45:45 - get_mitra_total
+2019-09-03 9:45:45 - 0
+2019-09-03 9:45:45 - ttotal
+2019-09-03 9:45:45 - 0.00
+2019-09-03 9:45:45 - mtotal
+2019-09-03 9:45:45 - 0.00
+2019-09-03 9:45:45 - in if action is view
+2019-09-03 9:45:45 - 1234
+2019-09-03 9:45:45 - return totalcount
+2019-09-03 9:45:45 - 1
+2019-09-03 9:52:31 - invproducts called 
+2019-09-03 9:52:31 - Array
+(
+    [route] => mpos/product/invproducts
+)
+
+2019-09-03 9:52:31 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 9:52:31 - 541
+2019-09-03 9:52:31 - 851
+2019-09-03 9:52:31 - in model getInventoryProducts for inventory
+2019-09-03 9:52:31 - Array
+(
+    [start] => 0
+    [limit] => 20
+    [service_type] => inventory
+    [invtype] => 
+)
+
+2019-09-03 9:52:31 - in if  service_type is inventory 
+2019-09-03 9:52:31 - generated where in model
+2019-09-03 9:52:31 - Array
+(
+    [pd.store_id] => 541
+)
+
+2019-09-03 9:52:31 - {"pd.store_id":541}
+2019-09-03 9:52:31 - in model for getTotalInventoryAmount
+2019-09-03 9:52:31 - generated where 
+2019-09-03 9:52:31 - Array
+(
+    [store_id] => 541
+    [mitra_quantity] => Array
+        (
+            [$gt] => 0
+        )
+
+)
+
+2019-09-03 9:52:31 - gettotal
+2019-09-03 9:52:31 - 0
+2019-09-03 9:52:31 - get_mitra_total
+2019-09-03 9:52:31 - 0
+2019-09-03 9:52:31 - ttotal
+2019-09-03 9:52:31 - 0.00
+2019-09-03 9:52:31 - mtotal
+2019-09-03 9:52:31 - 0.00
+2019-09-03 9:52:31 - in if action is view
+2019-09-03 9:52:31 - 1234
+2019-09-03 9:52:31 - 3999
+2019-09-03 9:52:31 - return totalcount
+2019-09-03 9:52:31 - 2
+2019-09-03 9:55:49 - invproducts called 
+2019-09-03 9:55:49 - Array
+(
+    [route] => mpos/product/invproducts
+)
+
+2019-09-03 9:55:49 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => 829e1168ad3eaac93c4b5a160bf0ca19
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 9:55:49 - 541
+2019-09-03 9:55:49 - 851
+2019-09-03 9:55:49 - in model getInventoryProducts for inventory
+2019-09-03 9:55:49 - Array
+(
+    [start] => -1
+    [limit] => 20
+    [service_type] => inventory
+    [invtype] => 
+)
+
+2019-09-03 9:55:49 - in if  service_type is inventory 
+2019-09-03 9:55:49 - generated where in model
+2019-09-03 9:55:49 - Array
+(
+    [pd.store_id] => 541
+)
+
+2019-09-03 9:55:49 - {"pd.store_id":541}
+2019-09-03 9:55:49 - in model for getTotalInventoryAmount
+2019-09-03 9:55:49 - generated where 
+2019-09-03 9:55:49 - Array
+(
+    [store_id] => 541
+    [mitra_quantity] => Array
+        (
+            [$gt] => 0
+        )
+
+)
+
+2019-09-03 9:55:49 - gettotal
+2019-09-03 9:55:49 - 0
+2019-09-03 9:55:49 - get_mitra_total
+2019-09-03 9:55:49 - 0
+2019-09-03 9:55:49 - ttotal
+2019-09-03 9:55:49 - 0.00
+2019-09-03 9:55:49 - mtotal
+2019-09-03 9:55:49 - 0.00
+2019-09-03 9:55:49 - in if action is view
+2019-09-03 9:55:49 - 1234
+2019-09-03 9:55:49 - 3999
+2019-09-03 9:55:49 - 3000
+2019-09-03 9:55:49 - return totalcount
+2019-09-03 9:55:49 - 3
+2019-09-03 9:57:46 - invproducts called 
+2019-09-03 9:57:46 - Array
+(
+    [route] => mpos/product/invproducts
+)
+
+2019-09-03 9:57:46 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 9:57:46 - 541
+2019-09-03 9:57:46 - 851
+2019-09-03 9:57:46 - in model getInventoryProducts for inventory
+2019-09-03 9:57:46 - Array
+(
+    [start] => 0
+    [limit] => 20
+    [service_type] => inventory
+    [invtype] => 
+)
+
+2019-09-03 9:57:46 - in if  service_type is inventory 
+2019-09-03 9:57:46 - generated where in model
+2019-09-03 9:57:46 - Array
+(
+    [pd.store_id] => 541
+)
+
+2019-09-03 9:57:46 - {"pd.store_id":541}
+2019-09-03 9:57:46 - in model for getTotalInventoryAmount
+2019-09-03 9:57:46 - generated where 
+2019-09-03 9:57:46 - Array
+(
+    [store_id] => 541
+    [mitra_quantity] => Array
+        (
+            [$gt] => 0
+        )
+
+)
+
+2019-09-03 9:57:46 - gettotal
+2019-09-03 9:57:46 - 0
+2019-09-03 9:57:46 - get_mitra_total
+2019-09-03 9:57:46 - 0
+2019-09-03 9:57:46 - ttotal
+2019-09-03 9:57:46 - 0.00
+2019-09-03 9:57:46 - mtotal
+2019-09-03 9:57:46 - 0.00
+2019-09-03 9:57:46 - in if action is view
+2019-09-03 9:57:46 - 1234
+2019-09-03 9:57:46 - 3999
+2019-09-03 9:57:46 - 3000
+2019-09-03 9:57:46 - return totalcount
+2019-09-03 9:57:46 - 3
+2019-09-03 9:59:50 - invproducts called 
+2019-09-03 9:59:50 - Array
+(
+    [route] => mpos/product/invproducts
+)
+
+2019-09-03 9:59:50 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => 829e1168ad3eaac93c4b5a160bf0ca19
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 9:59:50 - 541
+2019-09-03 9:59:50 - 851
+2019-09-03 9:59:50 - in model getInventoryProducts for inventory
+2019-09-03 9:59:50 - Array
+(
+    [start] => -1
+    [limit] => 20
+    [service_type] => inventory
+    [invtype] => 
+)
+
+2019-09-03 9:59:50 - in if  service_type is inventory 
+2019-09-03 9:59:50 - generated where in model
+2019-09-03 9:59:50 - Array
+(
+    [pd.store_id] => 541
+)
+
+2019-09-03 9:59:50 - {"pd.store_id":541}
+2019-09-03 9:59:50 - in model for getTotalInventoryAmount
+2019-09-03 9:59:50 - generated where 
+2019-09-03 9:59:50 - Array
+(
+    [store_id] => 541
+    [mitra_quantity] => Array
+        (
+            [$gt] => 0
+        )
+
+)
+
+2019-09-03 9:59:50 - gettotal
+2019-09-03 9:59:50 - 0
+2019-09-03 9:59:50 - get_mitra_total
+2019-09-03 9:59:50 - 0
+2019-09-03 9:59:50 - ttotal
+2019-09-03 9:59:50 - 0.00
+2019-09-03 9:59:50 - mtotal
+2019-09-03 9:59:50 - 0.00
+2019-09-03 9:59:50 - in if action is view
+2019-09-03 9:59:50 - 1234
+2019-09-03 9:59:50 - 3999
+2019-09-03 9:59:50 - 951.42857142857
+2019-09-03 9:59:50 - 3000
+2019-09-03 9:59:50 - return totalcount
+2019-09-03 9:59:50 - 4
+2019-09-03 10:14:39 - invproducts called 
+2019-09-03 10:14:39 - Array
+(
+    [route] => mpos/product/invproducts
+)
+
+2019-09-03 10:14:39 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 10:14:39 - 541
+2019-09-03 10:14:39 - 851
+2019-09-03 10:14:39 - in model getInventoryProducts for inventory
+2019-09-03 10:14:39 - Array
+(
+    [start] => 0
+    [limit] => 20
+    [service_type] => inventory
+    [invtype] => 
+)
+
+2019-09-03 10:14:39 - in if  service_type is inventory 
+2019-09-03 10:14:39 - generated where in model
+2019-09-03 10:14:39 - Array
+(
+    [pd.store_id] => 541
+)
+
+2019-09-03 10:14:39 - {"pd.store_id":541}
+2019-09-03 10:14:39 - in model for getTotalInventoryAmount
+2019-09-03 10:14:39 - generated where 
+2019-09-03 10:14:39 - Array
+(
+    [store_id] => 541
+    [mitra_quantity] => Array
+        (
+            [$gt] => 0
+        )
+
+)
+
+2019-09-03 10:14:39 - gettotal
+2019-09-03 10:14:39 - 0
+2019-09-03 10:14:39 - get_mitra_total
+2019-09-03 10:14:39 - 0
+2019-09-03 10:14:39 - ttotal
+2019-09-03 10:14:39 - 0.00
+2019-09-03 10:14:39 - mtotal
+2019-09-03 10:14:39 - 0.00
+2019-09-03 10:14:39 - in if action is view
+2019-09-03 10:14:39 - 1234
+2019-09-03 10:14:39 - 3999
+2019-09-03 10:14:39 - 951.42857142857
+2019-09-03 10:14:39 - 3000
+2019-09-03 10:14:39 - return totalcount
+2019-09-03 10:14:39 - 4
+2019-09-03 10:14:43 - invproducts called 
+2019-09-03 10:14:43 - Array
+(
+    [route] => mpos/product/invproducts
+)
+
+2019-09-03 10:14:43 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => 829e1168ad3eaac93c4b5a160bf0ca19
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 10:14:43 - 541
+2019-09-03 10:14:43 - 851
+2019-09-03 10:14:43 - in model getInventoryProducts for inventory
+2019-09-03 10:14:43 - Array
+(
+    [start] => -1
+    [limit] => 20
+    [service_type] => inventory
+    [invtype] => 
+)
+
+2019-09-03 10:14:43 - in if  service_type is inventory 
+2019-09-03 10:14:43 - generated where in model
+2019-09-03 10:14:43 - Array
+(
+    [pd.store_id] => 541
+)
+
+2019-09-03 10:14:43 - {"pd.store_id":541}
+2019-09-03 10:14:43 - in model for getTotalInventoryAmount
+2019-09-03 10:14:43 - generated where 
+2019-09-03 10:14:43 - Array
+(
+    [store_id] => 541
+    [mitra_quantity] => Array
+        (
+            [$gt] => 0
+        )
+
+)
+
+2019-09-03 10:14:43 - gettotal
+2019-09-03 10:14:43 - 0
+2019-09-03 10:14:43 - get_mitra_total
+2019-09-03 10:14:43 - 0
+2019-09-03 10:14:43 - ttotal
+2019-09-03 10:14:43 - 0.00
+2019-09-03 10:14:43 - mtotal
+2019-09-03 10:14:43 - 0.00
+2019-09-03 10:14:43 - in if action is view
+2019-09-03 10:14:43 - 1234
+2019-09-03 10:14:43 - 3999
+2019-09-03 10:14:43 - 951.42857142857
+2019-09-03 10:14:43 - 3000
+2019-09-03 10:14:43 - return totalcount
+2019-09-03 10:14:43 - 4
+2019-09-03 10:14:46 - invproducts called 
+2019-09-03 10:14:46 - Array
+(
+    [route] => mpos/product/invproducts
+)
+
+2019-09-03 10:14:46 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => 829e1168ad3eaac93c4b5a160bf0ca19
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 10:14:46 - 541
+2019-09-03 10:14:46 - 851
+2019-09-03 10:14:46 - in model getInventoryProducts for inventory
+2019-09-03 10:14:46 - Array
+(
+    [start] => -1
+    [limit] => 20
+    [service_type] => inventory
+    [invtype] => 
+)
+
+2019-09-03 10:14:46 - in if  service_type is inventory 
+2019-09-03 10:14:46 - generated where in model
+2019-09-03 10:14:46 - Array
+(
+    [pd.store_id] => 541
+)
+
+2019-09-03 10:14:46 - {"pd.store_id":541}
+2019-09-03 10:14:46 - in model for getTotalInventoryAmount
+2019-09-03 10:14:46 - generated where 
+2019-09-03 10:14:46 - Array
+(
+    [store_id] => 541
+    [mitra_quantity] => Array
+        (
+            [$gt] => 0
+        )
+
+)
+
+2019-09-03 10:14:46 - gettotal
+2019-09-03 10:14:46 - 0
+2019-09-03 10:14:46 - get_mitra_total
+2019-09-03 10:14:46 - 0
+2019-09-03 10:14:46 - ttotal
+2019-09-03 10:14:46 - 0.00
+2019-09-03 10:14:46 - mtotal
+2019-09-03 10:14:46 - 0.00
+2019-09-03 10:14:46 - in if action is view
+2019-09-03 10:14:46 - 1234
+2019-09-03 10:14:46 - 3999
+2019-09-03 10:14:46 - 951.42857142857
+2019-09-03 10:14:46 - 3000
+2019-09-03 10:14:46 - return totalcount
+2019-09-03 10:14:46 - 4
+2019-09-03 11:22:55 - invproducts called 
+2019-09-03 11:22:55 - Array
+(
+    [route] => mpos/product/invproducts
+)
+
+2019-09-03 11:22:55 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 11:22:55 - 541
+2019-09-03 11:22:55 - 851
+2019-09-03 11:22:55 - in model getInventoryProducts for inventory
+2019-09-03 11:22:55 - Array
+(
+    [start] => 0
+    [limit] => 20
+    [service_type] => inventory
+    [invtype] => 
+)
+
+2019-09-03 11:22:55 - in if  service_type is inventory 
+2019-09-03 11:22:55 - generated where in model
+2019-09-03 11:22:55 - Array
+(
+    [pd.store_id] => 541
+)
+
+2019-09-03 11:22:55 - {"pd.store_id":541}
+2019-09-03 11:22:55 - in model for getTotalInventoryAmount
+2019-09-03 11:22:55 - generated where 
+2019-09-03 11:22:55 - Array
+(
+    [store_id] => 541
+    [mitra_quantity] => Array
+        (
+            [$gt] => 0
+        )
+
+)
+
+2019-09-03 11:22:55 - gettotal
+2019-09-03 11:22:55 - 0
+2019-09-03 11:22:55 - get_mitra_total
+2019-09-03 11:22:55 - 0
+2019-09-03 11:22:55 - ttotal
+2019-09-03 11:22:55 - 0.00
+2019-09-03 11:22:55 - mtotal
+2019-09-03 11:22:55 - 0.00
+2019-09-03 11:22:55 - in if action is view
+2019-09-03 11:22:55 - 1234
+2019-09-03 11:22:55 - 3999
+2019-09-03 11:22:55 - 951.42857142857
+2019-09-03 11:22:55 - 3000
+2019-09-03 11:22:55 - return totalcount
+2019-09-03 11:22:55 - 4
+2019-09-03 11:23:34 - invproducts called 
+2019-09-03 11:23:34 - Array
+(
+    [route] => mpos/product/invproducts
+)
+
+2019-09-03 11:23:34 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => 829e1168ad3eaac93c4b5a160bf0ca19
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 11:23:34 - 541
+2019-09-03 11:23:34 - 851
+2019-09-03 11:23:34 - in model getInventoryProducts for inventory
+2019-09-03 11:23:34 - Array
+(
+    [start] => -1
+    [limit] => 20
+    [service_type] => inventory
+    [invtype] => 
+)
+
+2019-09-03 11:23:34 - in if  service_type is inventory 
+2019-09-03 11:23:34 - generated where in model
+2019-09-03 11:23:34 - Array
+(
+    [pd.store_id] => 541
+)
+
+2019-09-03 11:23:34 - {"pd.store_id":541}
+2019-09-03 11:23:34 - in model for getTotalInventoryAmount
+2019-09-03 11:23:34 - generated where 
+2019-09-03 11:23:34 - Array
+(
+    [store_id] => 541
+    [mitra_quantity] => Array
+        (
+            [$gt] => 0
+        )
+
+)
+
+2019-09-03 11:23:34 - gettotal
+2019-09-03 11:23:34 - 0
+2019-09-03 11:23:34 - get_mitra_total
+2019-09-03 11:23:34 - 0
+2019-09-03 11:23:34 - ttotal
+2019-09-03 11:23:34 - 0.00
+2019-09-03 11:23:34 - mtotal
+2019-09-03 11:23:34 - 0.00
+2019-09-03 11:23:34 - in if action is view
+2019-09-03 11:23:34 - 432.38095238095
+2019-09-03 11:23:34 - 1234
+2019-09-03 11:23:34 - 3999
+2019-09-03 11:23:34 - 951.42857142857
+2019-09-03 11:23:34 - 3000
+2019-09-03 11:23:34 - return totalcount
+2019-09-03 11:23:34 - 5
+2019-09-03 11:34:13 - invproducts called 
+2019-09-03 11:34:13 - Array
+(
+    [route] => mpos/product/invproducts
+)
+
+2019-09-03 11:34:13 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 11:34:13 - 541
+2019-09-03 11:34:13 - 851
+2019-09-03 11:34:13 - in model getInventoryProducts for inventory
+2019-09-03 11:34:13 - Array
+(
+    [start] => 0
+    [limit] => 20
+    [service_type] => inventory
+    [invtype] => 
+)
+
+2019-09-03 11:34:13 - in if  service_type is inventory 
+2019-09-03 11:34:13 - generated where in model
+2019-09-03 11:34:13 - Array
+(
+    [pd.store_id] => 541
+)
+
+2019-09-03 11:34:13 - {"pd.store_id":541}
+2019-09-03 11:34:13 - in model for getTotalInventoryAmount
+2019-09-03 11:34:13 - generated where 
+2019-09-03 11:34:13 - Array
+(
+    [store_id] => 541
+    [mitra_quantity] => Array
+        (
+            [$gt] => 0
+        )
+
+)
+
+2019-09-03 11:34:13 - gettotal
+2019-09-03 11:34:13 - 2468
+2019-09-03 11:34:13 - get_mitra_total
+2019-09-03 11:34:13 - 0
+2019-09-03 11:34:13 - ttotal
+2019-09-03 11:34:13 - 2468.00
+2019-09-03 11:34:13 - mtotal
+2019-09-03 11:34:13 - 0.00
+2019-09-03 11:34:13 - in if action is view
+2019-09-03 11:34:13 - 432.38095238095
+2019-09-03 11:34:13 - 1234
+2019-09-03 11:34:13 - 3999
+2019-09-03 11:34:13 - 951.42857142857
+2019-09-03 11:34:13 - 3000
+2019-09-03 11:34:13 - return totalcount
+2019-09-03 11:34:13 - 5
+2019-09-03 11:58:16 - invproducts called 
+2019-09-03 11:58:16 - Array
+(
+    [route] => mpos/product/invproducts
+)
+
+2019-09-03 11:58:16 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 11:58:16 - 541
+2019-09-03 11:58:16 - 851
+2019-09-03 11:58:16 - in model getInventoryProducts for inventory
+2019-09-03 11:58:16 - Array
+(
+    [start] => 0
+    [limit] => 20
+    [service_type] => inventory
+    [invtype] => 
+)
+
+2019-09-03 11:58:16 - in if  service_type is inventory 
+2019-09-03 11:58:16 - generated where in model
+2019-09-03 11:58:16 - Array
+(
+    [pd.store_id] => 541
+)
+
+2019-09-03 11:58:16 - {"pd.store_id":541}
+2019-09-03 11:58:16 - in model for getTotalInventoryAmount
+2019-09-03 11:58:16 - generated where 
+2019-09-03 11:58:16 - Array
+(
+    [store_id] => 541
+    [mitra_quantity] => Array
+        (
+            [$gt] => 0
+        )
+
+)
+
+2019-09-03 11:58:16 - gettotal
+2019-09-03 11:58:16 - 2468
+2019-09-03 11:58:16 - get_mitra_total
+2019-09-03 11:58:16 - 0
+2019-09-03 11:58:16 - ttotal
+2019-09-03 11:58:16 - 2468.00
+2019-09-03 11:58:16 - mtotal
+2019-09-03 11:58:16 - 0.00
+2019-09-03 11:58:16 - in if action is view
+2019-09-03 11:58:16 - 432.38095238095
+2019-09-03 11:58:16 - 1234
+2019-09-03 11:58:16 - 3999
+2019-09-03 11:58:16 - 951.42857142857
+2019-09-03 11:58:16 - 3000
+2019-09-03 11:58:16 - return totalcount
+2019-09-03 11:58:16 - 5

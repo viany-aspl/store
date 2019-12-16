@@ -1,0 +1,2400 @@
+2019-09-03 9:44:59 - promotedproducts called in dashboard
+2019-09-03 9:44:59 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 9:44:59 - Array
+(
+)
+
+2019-09-03 9:44:59 - 541
+2019-09-03 9:44:59 - in model promotedproducts for 0
+2019-09-03 9:44:59 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 9:44:59 - generated where in model
+2019-09-03 9:44:59 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 9:44:59 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 9:44:59 - 
+2019-09-03 9:45:00 - promotedproducts called in dashboard
+2019-09-03 9:45:00 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 9:45:00 - Array
+(
+)
+
+2019-09-03 9:45:00 - 541
+2019-09-03 9:45:00 - in model promotedproducts for 0
+2019-09-03 9:45:00 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 9:45:00 - generated where in model
+2019-09-03 9:45:00 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 9:45:00 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 9:45:00 - 
+2019-09-03 9:45:37 - promotedproducts called in dashboard
+2019-09-03 9:45:37 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 9:45:37 - Array
+(
+)
+
+2019-09-03 9:45:37 - 541
+2019-09-03 9:45:37 - in model promotedproducts for 0
+2019-09-03 9:45:37 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 9:45:37 - generated where in model
+2019-09-03 9:45:37 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 9:45:37 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 9:45:37 - 
+2019-09-03 9:45:38 - promotedproducts called in dashboard
+2019-09-03 9:45:38 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 9:45:38 - Array
+(
+)
+
+2019-09-03 9:45:38 - 541
+2019-09-03 9:45:38 - in model promotedproducts for 0
+2019-09-03 9:45:38 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 9:45:38 - generated where in model
+2019-09-03 9:45:38 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 9:45:38 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 9:45:38 - 
+2019-09-03 9:52:27 - promotedproducts called in dashboard
+2019-09-03 9:52:27 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 9:52:27 - Array
+(
+)
+
+2019-09-03 9:52:27 - 541
+2019-09-03 9:52:27 - in model promotedproducts for 0
+2019-09-03 9:52:27 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 9:52:27 - generated where in model
+2019-09-03 9:52:27 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 9:52:27 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 9:52:27 - 
+2019-09-03 9:52:29 - promotedproducts called in dashboard
+2019-09-03 9:52:29 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 9:52:29 - Array
+(
+)
+
+2019-09-03 9:52:29 - 541
+2019-09-03 9:52:29 - in model promotedproducts for 0
+2019-09-03 9:52:29 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 9:52:29 - generated where in model
+2019-09-03 9:52:29 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 9:52:29 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 9:52:29 - 
+2019-09-03 9:57:37 - promotedproducts called in dashboard
+2019-09-03 9:57:37 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 9:57:37 - Array
+(
+)
+
+2019-09-03 9:57:37 - 541
+2019-09-03 9:57:37 - in model promotedproducts for 0
+2019-09-03 9:57:37 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 9:57:37 - generated where in model
+2019-09-03 9:57:37 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 9:57:37 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 9:57:37 - 
+2019-09-03 9:57:38 - promotedproducts called in dashboard
+2019-09-03 9:57:38 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 9:57:38 - Array
+(
+)
+
+2019-09-03 9:57:38 - 541
+2019-09-03 9:57:38 - in model promotedproducts for 0
+2019-09-03 9:57:38 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 9:57:38 - generated where in model
+2019-09-03 9:57:38 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 9:57:38 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 9:57:38 - 
+2019-09-03 10:03:44 - promotedproducts called in dashboard
+2019-09-03 10:03:44 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:03:44 - Array
+(
+)
+
+2019-09-03 10:03:44 - 541
+2019-09-03 10:03:44 - in model promotedproducts for 0
+2019-09-03 10:03:44 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:03:44 - generated where in model
+2019-09-03 10:03:44 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:03:44 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:03:44 - 
+2019-09-03 10:03:45 - promotedproducts called in dashboard
+2019-09-03 10:03:45 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:03:45 - Array
+(
+)
+
+2019-09-03 10:03:45 - 541
+2019-09-03 10:03:45 - in model promotedproducts for 0
+2019-09-03 10:03:45 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:03:45 - generated where in model
+2019-09-03 10:03:45 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:03:45 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:03:45 - 
+2019-09-03 10:14:35 - promotedproducts called in dashboard
+2019-09-03 10:14:35 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:14:35 - Array
+(
+)
+
+2019-09-03 10:14:35 - 541
+2019-09-03 10:14:35 - in model promotedproducts for 0
+2019-09-03 10:14:35 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:14:35 - generated where in model
+2019-09-03 10:14:35 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:14:35 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:14:35 - 
+2019-09-03 10:14:36 - promotedproducts called in dashboard
+2019-09-03 10:14:36 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:14:36 - Array
+(
+)
+
+2019-09-03 10:14:36 - 541
+2019-09-03 10:14:36 - in model promotedproducts for 0
+2019-09-03 10:14:36 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:14:36 - generated where in model
+2019-09-03 10:14:36 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:14:36 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:14:36 - 
+2019-09-03 10:15:13 - promotedproducts called in dashboard
+2019-09-03 10:15:13 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:15:13 - Array
+(
+)
+
+2019-09-03 10:15:13 - 541
+2019-09-03 10:15:13 - in model promotedproducts for 0
+2019-09-03 10:15:13 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:15:13 - generated where in model
+2019-09-03 10:15:13 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:15:13 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:15:13 - 
+2019-09-03 10:15:14 - promotedproducts called in dashboard
+2019-09-03 10:15:14 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:15:14 - Array
+(
+)
+
+2019-09-03 10:15:14 - 541
+2019-09-03 10:15:14 - in model promotedproducts for 0
+2019-09-03 10:15:14 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:15:14 - generated where in model
+2019-09-03 10:15:14 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:15:14 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:15:14 - 
+2019-09-03 10:38:47 - promotedproducts called in dashboard
+2019-09-03 10:38:47 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:38:47 - Array
+(
+)
+
+2019-09-03 10:38:47 - 541
+2019-09-03 10:38:47 - in model promotedproducts for 0
+2019-09-03 10:38:47 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:38:47 - generated where in model
+2019-09-03 10:38:47 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:38:47 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:38:47 - 
+2019-09-03 10:38:48 - promotedproducts called in dashboard
+2019-09-03 10:38:48 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:38:48 - Array
+(
+)
+
+2019-09-03 10:38:48 - 541
+2019-09-03 10:38:48 - in model promotedproducts for 0
+2019-09-03 10:38:48 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:38:48 - generated where in model
+2019-09-03 10:38:48 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:38:48 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:38:48 - 
+2019-09-03 10:39:06 - promotedproducts called in dashboard
+2019-09-03 10:39:06 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:39:06 - Array
+(
+)
+
+2019-09-03 10:39:06 - 541
+2019-09-03 10:39:06 - in model promotedproducts for 0
+2019-09-03 10:39:06 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:39:06 - generated where in model
+2019-09-03 10:39:06 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:39:06 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:39:06 - 
+2019-09-03 10:39:07 - promotedproducts called in dashboard
+2019-09-03 10:39:07 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:39:07 - Array
+(
+)
+
+2019-09-03 10:39:07 - 541
+2019-09-03 10:39:07 - in model promotedproducts for 0
+2019-09-03 10:39:07 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:39:07 - generated where in model
+2019-09-03 10:39:07 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:39:07 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:39:07 - 
+2019-09-03 10:39:41 - promotedproducts called in dashboard
+2019-09-03 10:39:41 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:39:41 - Array
+(
+)
+
+2019-09-03 10:39:41 - 541
+2019-09-03 10:39:41 - in model promotedproducts for 0
+2019-09-03 10:39:41 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:39:41 - generated where in model
+2019-09-03 10:39:41 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:39:41 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:39:41 - 
+2019-09-03 10:39:42 - promotedproducts called in dashboard
+2019-09-03 10:39:42 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:39:42 - Array
+(
+)
+
+2019-09-03 10:39:42 - 541
+2019-09-03 10:39:42 - in model promotedproducts for 0
+2019-09-03 10:39:42 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:39:42 - generated where in model
+2019-09-03 10:39:42 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:39:42 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:39:42 - 
+2019-09-03 10:45:16 - promotedproducts called in dashboard
+2019-09-03 10:45:16 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:45:16 - Array
+(
+)
+
+2019-09-03 10:45:16 - 541
+2019-09-03 10:45:16 - in model promotedproducts for 0
+2019-09-03 10:45:16 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:45:16 - generated where in model
+2019-09-03 10:45:16 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:45:16 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:45:16 - 
+2019-09-03 10:45:17 - promotedproducts called in dashboard
+2019-09-03 10:45:17 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:45:17 - Array
+(
+)
+
+2019-09-03 10:45:17 - 541
+2019-09-03 10:45:17 - in model promotedproducts for 0
+2019-09-03 10:45:17 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:45:17 - generated where in model
+2019-09-03 10:45:17 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:45:17 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:45:17 - 
+2019-09-03 10:52:13 - promotedproducts called in dashboard
+2019-09-03 10:52:13 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:52:13 - Array
+(
+)
+
+2019-09-03 10:52:13 - 541
+2019-09-03 10:52:13 - in model promotedproducts for 0
+2019-09-03 10:52:13 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:52:13 - generated where in model
+2019-09-03 10:52:13 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:52:13 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:52:13 - 
+2019-09-03 10:52:14 - promotedproducts called in dashboard
+2019-09-03 10:52:14 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 10:52:14 - Array
+(
+)
+
+2019-09-03 10:52:14 - 541
+2019-09-03 10:52:14 - in model promotedproducts for 0
+2019-09-03 10:52:14 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 10:52:14 - generated where in model
+2019-09-03 10:52:14 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 10:52:14 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 10:52:14 - 
+2019-09-03 11:16:20 - promotedproducts called in dashboard
+2019-09-03 11:16:20 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:16:20 - Array
+(
+)
+
+2019-09-03 11:16:20 - 541
+2019-09-03 11:16:20 - in model promotedproducts for 0
+2019-09-03 11:16:20 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:16:20 - generated where in model
+2019-09-03 11:16:20 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:16:20 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:16:20 - 
+2019-09-03 11:16:21 - promotedproducts called in dashboard
+2019-09-03 11:16:21 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:16:21 - Array
+(
+)
+
+2019-09-03 11:16:21 - 541
+2019-09-03 11:16:21 - in model promotedproducts for 0
+2019-09-03 11:16:21 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:16:21 - generated where in model
+2019-09-03 11:16:21 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:16:21 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:16:21 - 
+2019-09-03 11:18:52 - promotedproducts called in dashboard
+2019-09-03 11:18:52 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:18:52 - Array
+(
+)
+
+2019-09-03 11:18:52 - 541
+2019-09-03 11:18:52 - in model promotedproducts for 0
+2019-09-03 11:18:52 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:18:52 - generated where in model
+2019-09-03 11:18:52 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:18:52 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:18:53 - 
+2019-09-03 11:18:54 - promotedproducts called in dashboard
+2019-09-03 11:18:54 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:18:54 - Array
+(
+)
+
+2019-09-03 11:18:54 - 541
+2019-09-03 11:18:54 - in model promotedproducts for 0
+2019-09-03 11:18:54 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:18:54 - generated where in model
+2019-09-03 11:18:54 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:18:54 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:18:54 - 
+2019-09-03 11:19:43 - promotedproducts called in dashboard
+2019-09-03 11:19:43 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:19:43 - Array
+(
+)
+
+2019-09-03 11:19:43 - 541
+2019-09-03 11:19:43 - in model promotedproducts for 0
+2019-09-03 11:19:43 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:19:43 - generated where in model
+2019-09-03 11:19:43 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:19:43 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:19:43 - 
+2019-09-03 11:19:44 - promotedproducts called in dashboard
+2019-09-03 11:19:44 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:19:44 - Array
+(
+)
+
+2019-09-03 11:19:44 - 541
+2019-09-03 11:19:44 - in model promotedproducts for 0
+2019-09-03 11:19:44 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:19:44 - generated where in model
+2019-09-03 11:19:44 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:19:44 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:19:44 - 
+2019-09-03 11:20:08 - promotedproducts called in dashboard
+2019-09-03 11:20:08 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:20:08 - Array
+(
+)
+
+2019-09-03 11:20:08 - 541
+2019-09-03 11:20:08 - in model promotedproducts for 0
+2019-09-03 11:20:08 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:20:08 - generated where in model
+2019-09-03 11:20:08 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:20:08 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:20:08 - 
+2019-09-03 11:20:09 - promotedproducts called in dashboard
+2019-09-03 11:20:09 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:20:09 - Array
+(
+)
+
+2019-09-03 11:20:09 - 541
+2019-09-03 11:20:09 - in model promotedproducts for 0
+2019-09-03 11:20:09 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:20:09 - generated where in model
+2019-09-03 11:20:09 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:20:09 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:20:09 - 
+2019-09-03 11:22:39 - promotedproducts called in dashboard
+2019-09-03 11:22:39 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:22:39 - Array
+(
+)
+
+2019-09-03 11:22:39 - 541
+2019-09-03 11:22:39 - in model promotedproducts for 0
+2019-09-03 11:22:39 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:22:39 - generated where in model
+2019-09-03 11:22:39 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:22:39 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:22:39 - 
+2019-09-03 11:22:40 - promotedproducts called in dashboard
+2019-09-03 11:22:40 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:22:40 - Array
+(
+)
+
+2019-09-03 11:22:40 - 541
+2019-09-03 11:22:40 - in model promotedproducts for 0
+2019-09-03 11:22:40 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:22:40 - generated where in model
+2019-09-03 11:22:40 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:22:40 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:22:40 - 
+2019-09-03 11:25:34 - promotedproducts called in dashboard
+2019-09-03 11:25:34 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:25:34 - Array
+(
+)
+
+2019-09-03 11:25:34 - 541
+2019-09-03 11:25:34 - in model promotedproducts for 0
+2019-09-03 11:25:34 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:25:34 - generated where in model
+2019-09-03 11:25:34 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:25:34 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:25:34 - 
+2019-09-03 11:25:35 - promotedproducts called in dashboard
+2019-09-03 11:25:35 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:25:35 - Array
+(
+)
+
+2019-09-03 11:25:35 - 541
+2019-09-03 11:25:35 - in model promotedproducts for 0
+2019-09-03 11:25:35 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:25:35 - generated where in model
+2019-09-03 11:25:35 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:25:35 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:25:35 - 
+2019-09-03 11:27:41 - promotedproducts called in dashboard
+2019-09-03 11:27:41 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:27:41 - Array
+(
+)
+
+2019-09-03 11:27:41 - 541
+2019-09-03 11:27:41 - in model promotedproducts for 0
+2019-09-03 11:27:41 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:27:41 - generated where in model
+2019-09-03 11:27:41 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:27:41 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:27:41 - 
+2019-09-03 11:27:42 - promotedproducts called in dashboard
+2019-09-03 11:27:42 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:27:42 - Array
+(
+)
+
+2019-09-03 11:27:42 - 541
+2019-09-03 11:27:42 - in model promotedproducts for 0
+2019-09-03 11:27:42 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:27:42 - generated where in model
+2019-09-03 11:27:42 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:27:42 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:27:42 - 
+2019-09-03 11:29:11 - promotedproducts called in dashboard
+2019-09-03 11:29:11 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:29:11 - Array
+(
+)
+
+2019-09-03 11:29:11 - 541
+2019-09-03 11:29:11 - in model promotedproducts for 0
+2019-09-03 11:29:11 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:29:11 - generated where in model
+2019-09-03 11:29:11 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:29:11 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:29:11 - 
+2019-09-03 11:29:12 - promotedproducts called in dashboard
+2019-09-03 11:29:12 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:29:12 - Array
+(
+)
+
+2019-09-03 11:29:12 - 541
+2019-09-03 11:29:12 - in model promotedproducts for 0
+2019-09-03 11:29:12 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:29:12 - generated where in model
+2019-09-03 11:29:12 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:29:12 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:29:12 - 
+2019-09-03 11:29:54 - promotedproducts called in dashboard
+2019-09-03 11:29:54 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:29:54 - Array
+(
+)
+
+2019-09-03 11:29:54 - 541
+2019-09-03 11:29:54 - in model promotedproducts for 0
+2019-09-03 11:29:54 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:29:54 - generated where in model
+2019-09-03 11:29:54 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:29:54 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:29:54 - 
+2019-09-03 11:29:55 - promotedproducts called in dashboard
+2019-09-03 11:29:55 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:29:55 - Array
+(
+)
+
+2019-09-03 11:29:55 - 541
+2019-09-03 11:29:55 - in model promotedproducts for 0
+2019-09-03 11:29:55 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:29:55 - generated where in model
+2019-09-03 11:29:55 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:29:55 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:29:55 - 
+2019-09-03 11:31:10 - promotedproducts called in dashboard
+2019-09-03 11:31:10 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:31:10 - Array
+(
+)
+
+2019-09-03 11:31:10 - 541
+2019-09-03 11:31:10 - in model promotedproducts for 0
+2019-09-03 11:31:10 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:31:10 - generated where in model
+2019-09-03 11:31:10 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:31:10 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:31:10 - 
+2019-09-03 11:31:11 - promotedproducts called in dashboard
+2019-09-03 11:31:11 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:31:11 - Array
+(
+)
+
+2019-09-03 11:31:11 - 541
+2019-09-03 11:31:11 - in model promotedproducts for 0
+2019-09-03 11:31:11 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:31:11 - generated where in model
+2019-09-03 11:31:11 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:31:11 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:31:11 - 
+2019-09-03 11:32:44 - promotedproducts called in dashboard
+2019-09-03 11:32:44 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:32:44 - Array
+(
+)
+
+2019-09-03 11:32:44 - 541
+2019-09-03 11:32:44 - in model promotedproducts for 0
+2019-09-03 11:32:44 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:32:44 - generated where in model
+2019-09-03 11:32:44 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:32:44 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:32:44 - 
+2019-09-03 11:32:45 - promotedproducts called in dashboard
+2019-09-03 11:32:45 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:32:45 - Array
+(
+)
+
+2019-09-03 11:32:45 - 541
+2019-09-03 11:32:45 - in model promotedproducts for 0
+2019-09-03 11:32:45 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:32:45 - generated where in model
+2019-09-03 11:32:45 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:32:45 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:32:45 - 
+2019-09-03 11:52:10 - promotedproducts called in dashboard
+2019-09-03 11:52:10 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:52:10 - Array
+(
+)
+
+2019-09-03 11:52:10 - 541
+2019-09-03 11:52:10 - in model promotedproducts for 0
+2019-09-03 11:52:10 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:52:10 - generated where in model
+2019-09-03 11:52:10 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:52:10 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:52:10 - 
+2019-09-03 11:52:11 - promotedproducts called in dashboard
+2019-09-03 11:52:11 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:52:11 - Array
+(
+)
+
+2019-09-03 11:52:11 - 541
+2019-09-03 11:52:11 - in model promotedproducts for 0
+2019-09-03 11:52:11 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:52:11 - generated where in model
+2019-09-03 11:52:11 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:52:11 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:52:12 - 
+2019-09-03 11:54:55 - promotedproducts called in dashboard
+2019-09-03 11:54:55 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:54:55 - Array
+(
+)
+
+2019-09-03 11:54:55 - 541
+2019-09-03 11:54:55 - in model promotedproducts for 0
+2019-09-03 11:54:55 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:54:55 - generated where in model
+2019-09-03 11:54:55 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:54:55 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:54:55 - 
+2019-09-03 11:54:56 - promotedproducts called in dashboard
+2019-09-03 11:54:56 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 11:54:56 - Array
+(
+)
+
+2019-09-03 11:54:56 - 541
+2019-09-03 11:54:56 - in model promotedproducts for 0
+2019-09-03 11:54:56 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 11:54:56 - generated where in model
+2019-09-03 11:54:56 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 11:54:56 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 11:54:56 - 
+2019-09-03 12:07:23 - promotedproducts called in dashboard
+2019-09-03 12:07:23 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 12:07:23 - Array
+(
+)
+
+2019-09-03 12:07:23 - 541
+2019-09-03 12:07:23 - in model promotedproducts for 0
+2019-09-03 12:07:23 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 12:07:23 - generated where in model
+2019-09-03 12:07:23 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 12:07:23 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 12:07:23 - 
+2019-09-03 12:07:25 - promotedproducts called in dashboard
+2019-09-03 12:07:25 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 12:07:25 - Array
+(
+)
+
+2019-09-03 12:07:25 - 541
+2019-09-03 12:07:25 - in model promotedproducts for 0
+2019-09-03 12:07:25 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 12:07:25 - generated where in model
+2019-09-03 12:07:25 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 12:07:25 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 12:07:25 - 
+2019-09-03 12:08:52 - promotedproducts called in dashboard
+2019-09-03 12:08:52 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 12:08:52 - Array
+(
+)
+
+2019-09-03 12:08:52 - 541
+2019-09-03 12:08:52 - in model promotedproducts for 0
+2019-09-03 12:08:52 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 12:08:52 - generated where in model
+2019-09-03 12:08:52 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 12:08:52 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 12:08:52 - 
+2019-09-03 12:08:53 - promotedproducts called in dashboard
+2019-09-03 12:08:53 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 12:08:53 - Array
+(
+)
+
+2019-09-03 12:08:53 - 541
+2019-09-03 12:08:53 - in model promotedproducts for 0
+2019-09-03 12:08:53 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 12:08:53 - generated where in model
+2019-09-03 12:08:53 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 12:08:53 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 12:08:53 - 
+2019-09-03 12:09:19 - promotedproducts called in dashboard
+2019-09-03 12:09:19 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 12:09:19 - Array
+(
+)
+
+2019-09-03 12:09:19 - 541
+2019-09-03 12:09:19 - in model promotedproducts for 0
+2019-09-03 12:09:19 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 12:09:19 - generated where in model
+2019-09-03 12:09:19 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 12:09:19 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 12:09:19 - 
+2019-09-03 12:09:19 - promotedproducts called in dashboard
+2019-09-03 12:09:19 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 12:09:19 - Array
+(
+)
+
+2019-09-03 12:09:19 - 541
+2019-09-03 12:09:20 - in model promotedproducts for 0
+2019-09-03 12:09:20 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 12:09:20 - generated where in model
+2019-09-03 12:09:20 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 12:09:20 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 12:09:20 - 
+2019-09-03 12:10:23 - promotedproducts called in dashboard
+2019-09-03 12:10:23 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 12:10:23 - Array
+(
+)
+
+2019-09-03 12:10:23 - 541
+2019-09-03 12:10:23 - in model promotedproducts for 0
+2019-09-03 12:10:23 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 12:10:23 - generated where in model
+2019-09-03 12:10:23 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 12:10:23 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 12:10:23 - 
+2019-09-03 12:10:24 - promotedproducts called in dashboard
+2019-09-03 12:10:24 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 12:10:24 - Array
+(
+)
+
+2019-09-03 12:10:24 - 541
+2019-09-03 12:10:24 - in model promotedproducts for 0
+2019-09-03 12:10:24 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 12:10:24 - generated where in model
+2019-09-03 12:10:24 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 12:10:24 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 12:10:24 - 
+2019-09-03 12:13:44 - promotedproducts called in dashboard
+2019-09-03 12:13:44 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 12:13:44 - Array
+(
+)
+
+2019-09-03 12:13:44 - 541
+2019-09-03 12:13:44 - in model promotedproducts for 0
+2019-09-03 12:13:44 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 12:13:44 - generated where in model
+2019-09-03 12:13:44 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 12:13:44 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 12:13:44 - 
+2019-09-03 12:13:45 - promotedproducts called in dashboard
+2019-09-03 12:13:45 - Array
+(
+    [route] => mpos/dashboard/promotedproducts
+    [store_id] => 541
+)
+
+2019-09-03 12:13:45 - Array
+(
+)
+
+2019-09-03 12:13:45 - 541
+2019-09-03 12:13:45 - in model promotedproducts for 0
+2019-09-03 12:13:45 - Array
+(
+    [promotion_start_date] => 2019-09-03
+    [promotion_end_date] => 2019-09-03
+    [quantity_check] => 1
+    [store_id] => 541
+    [for_store] => 0
+)
+
+2019-09-03 12:13:45 - generated where in model
+2019-09-03 12:13:45 - Array
+(
+    [status] => 1
+    [promotion_end_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567555200
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-03 12:13:45 - {"status":true,"promotion_end_date":{"$gte":{"sec":1567555200,"usec":0}}}
+2019-09-03 12:13:45 - 

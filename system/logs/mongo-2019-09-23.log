@@ -1,0 +1,2507 @@
+2019-09-23 6:05:29 - 
+2019-09-23 6:05:29 - select call
+2019-09-23 6:05:29 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:29 - 
+2019-09-23 6:05:29 - select call
+2019-09-23 6:05:29 - Array
+(
+)
+
+2019-09-23 6:05:29 - 
+2019-09-23 6:05:29 - select call
+2019-09-23 6:05:29 - Array
+(
+)
+
+2019-09-23 6:05:29 - pass_array
+2019-09-23 6:05:29 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:05:29 - count_array
+2019-09-23 6:05:29 - []
+2019-09-23 6:05:29 - pass_array
+2019-09-23 6:05:29 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:05:29 - count_array
+2019-09-23 6:05:29 - []
+2019-09-23 6:05:29 - 
+2019-09-23 6:05:29 - select call
+2019-09-23 6:05:29 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:29 - 
+2019-09-23 6:05:29 - select call
+2019-09-23 6:05:29 - Array
+(
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+)
+
+2019-09-23 6:05:37 - pass_array
+2019-09-23 6:05:37 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:05:37 - count_array
+2019-09-23 6:05:37 - []
+2019-09-23 6:05:37 - pass_array
+2019-09-23 6:05:37 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:05:37 - count_array
+2019-09-23 6:05:37 - []
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [username] => agripos
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+    [user_group_id] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 1
+                    [1] => 1
+                    [2] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+)
+
+2019-09-23 6:05:37 - pass_array
+2019-09-23 6:05:37 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:05:37 - count_array
+2019-09-23 6:05:37 - []
+2019-09-23 6:05:37 - pass_array
+2019-09-23 6:05:37 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:05:37 - count_array
+2019-09-23 6:05:37 - []
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - select call
+2019-09-23 6:05:37 - Array
+(
+)
+
+2019-09-23 6:05:37 - pass_array
+2019-09-23 6:05:37 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:05:37 - count_array
+2019-09-23 6:05:37 - []
+2019-09-23 6:05:37 - pass_array
+2019-09-23 6:05:37 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:05:37 - count_array
+2019-09-23 6:05:37 - []
+2019-09-23 6:05:37 - pass_array
+2019-09-23 6:05:37 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:05:37 - count_array
+2019-09-23 6:05:37 - []
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - count_array
+2019-09-23 6:05:37 - {"order_status_id":5,"date_added":{"$gte":{"sec":1569110400,"usec":0}}}
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - count_array
+2019-09-23 6:05:37 - {"order_status_id":5,"date_added":{"$gte":{"sec":1569024000,"usec":0}}}
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:37 - count_array
+2019-09-23 6:05:37 - {"order_status_id":5}
+2019-09-23 6:05:37 - 
+2019-09-23 6:05:38 - 
+2019-09-23 6:05:38 - count_array
+2019-09-23 6:05:38 - []
+2019-09-23 6:05:38 - 
+2019-09-23 6:05:38 - 
+2019-09-23 6:05:38 - count_array
+2019-09-23 6:05:38 - []
+2019-09-23 6:05:38 - 
+2019-09-23 6:05:38 - 
+2019-09-23 6:05:38 - count_array
+2019-09-23 6:05:38 - []
+2019-09-23 6:05:38 - 
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+)
+
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+)
+
+2019-09-23 6:05:39 - pass_array
+2019-09-23 6:05:39 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:05:39 - count_array
+2019-09-23 6:05:39 - []
+2019-09-23 6:05:39 - pass_array
+2019-09-23 6:05:39 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:05:39 - count_array
+2019-09-23 6:05:39 - []
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+)
+
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+)
+
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+)
+
+2019-09-23 6:05:39 - pass_array
+2019-09-23 6:05:39 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:05:39 - count_array
+2019-09-23 6:05:39 - []
+2019-09-23 6:05:39 - pass_array
+2019-09-23 6:05:39 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:05:39 - count_array
+2019-09-23 6:05:39 - []
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:39 - 
+2019-09-23 6:05:39 - select call
+2019-09-23 6:05:39 - Array
+(
+)
+
+2019-09-23 6:05:53 - 
+2019-09-23 6:05:53 - select call
+2019-09-23 6:05:53 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:53 - 
+2019-09-23 6:05:53 - select call
+2019-09-23 6:05:53 - Array
+(
+)
+
+2019-09-23 6:05:53 - 
+2019-09-23 6:05:53 - select call
+2019-09-23 6:05:53 - Array
+(
+)
+
+2019-09-23 6:05:53 - pass_array
+2019-09-23 6:05:53 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:05:53 - count_array
+2019-09-23 6:05:53 - []
+2019-09-23 6:05:53 - pass_array
+2019-09-23 6:05:53 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:05:53 - count_array
+2019-09-23 6:05:53 - []
+2019-09-23 6:05:53 - 
+2019-09-23 6:05:53 - select call
+2019-09-23 6:05:53 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:53 - 
+2019-09-23 6:05:53 - select call
+2019-09-23 6:05:53 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:53 - 
+2019-09-23 6:05:53 - select call
+2019-09-23 6:05:53 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:53 - 
+2019-09-23 6:05:53 - select call
+2019-09-23 6:05:53 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:05:53 - 
+2019-09-23 6:05:53 - select call
+2019-09-23 6:05:53 - Array
+(
+)
+
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+)
+
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+)
+
+2019-09-23 6:06:01 - pass_array
+2019-09-23 6:06:01 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:06:01 - count_array
+2019-09-23 6:06:01 - []
+2019-09-23 6:06:01 - pass_array
+2019-09-23 6:06:01 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:06:01 - count_array
+2019-09-23 6:06:01 - []
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+)
+
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [username] => agripos
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+    [user_group_id] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 1
+                    [1] => 1
+                    [2] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+)
+
+2019-09-23 6:06:01 - 
+2019-09-23 6:06:01 - select call
+2019-09-23 6:06:01 - Array
+(
+)
+
+2019-09-23 6:06:02 - pass_array
+2019-09-23 6:06:02 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:06:02 - count_array
+2019-09-23 6:06:02 - []
+2019-09-23 6:06:02 - pass_array
+2019-09-23 6:06:02 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:06:02 - count_array
+2019-09-23 6:06:02 - []
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - select call
+2019-09-23 6:06:02 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - select call
+2019-09-23 6:06:02 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - select call
+2019-09-23 6:06:02 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - select call
+2019-09-23 6:06:02 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - select call
+2019-09-23 6:06:02 - Array
+(
+)
+
+2019-09-23 6:06:02 - pass_array
+2019-09-23 6:06:02 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:06:02 - count_array
+2019-09-23 6:06:02 - []
+2019-09-23 6:06:02 - pass_array
+2019-09-23 6:06:02 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:06:02 - count_array
+2019-09-23 6:06:02 - []
+2019-09-23 6:06:02 - pass_array
+2019-09-23 6:06:02 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:06:02 - count_array
+2019-09-23 6:06:02 - []
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - count_array
+2019-09-23 6:06:02 - {"order_status_id":5,"date_added":{"$gte":{"sec":1569110400,"usec":0}}}
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - count_array
+2019-09-23 6:06:02 - {"order_status_id":5,"date_added":{"$gte":{"sec":1569024000,"usec":0}}}
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - count_array
+2019-09-23 6:06:02 - {"order_status_id":5}
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - count_array
+2019-09-23 6:06:02 - []
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - count_array
+2019-09-23 6:06:02 - []
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:02 - count_array
+2019-09-23 6:06:02 - []
+2019-09-23 6:06:02 - 
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+)
+
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+)
+
+2019-09-23 6:06:03 - pass_array
+2019-09-23 6:06:03 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:06:03 - count_array
+2019-09-23 6:06:03 - []
+2019-09-23 6:06:03 - pass_array
+2019-09-23 6:06:03 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:06:03 - count_array
+2019-09-23 6:06:03 - []
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+)
+
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+)
+
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+)
+
+2019-09-23 6:06:03 - pass_array
+2019-09-23 6:06:03 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:06:03 - count_array
+2019-09-23 6:06:03 - []
+2019-09-23 6:06:03 - pass_array
+2019-09-23 6:06:03 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:06:03 - count_array
+2019-09-23 6:06:03 - []
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:06:03 - 
+2019-09-23 6:06:03 - select call
+2019-09-23 6:06:03 - Array
+(
+)
+
+2019-09-23 6:07:01 - 
+2019-09-23 6:07:01 - select call
+2019-09-23 6:07:01 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:01 - 
+2019-09-23 6:07:01 - select call
+2019-09-23 6:07:01 - Array
+(
+)
+
+2019-09-23 6:07:01 - 
+2019-09-23 6:07:01 - select call
+2019-09-23 6:07:01 - Array
+(
+)
+
+2019-09-23 6:07:01 - pass_array
+2019-09-23 6:07:01 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:01 - count_array
+2019-09-23 6:07:01 - []
+2019-09-23 6:07:01 - pass_array
+2019-09-23 6:07:01 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:01 - count_array
+2019-09-23 6:07:01 - []
+2019-09-23 6:07:01 - 
+2019-09-23 6:07:01 - select call
+2019-09-23 6:07:01 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:01 - 
+2019-09-23 6:07:01 - select call
+2019-09-23 6:07:01 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:01 - 
+2019-09-23 6:07:01 - select call
+2019-09-23 6:07:01 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:01 - 
+2019-09-23 6:07:01 - select call
+2019-09-23 6:07:01 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:01 - 
+2019-09-23 6:07:01 - select call
+2019-09-23 6:07:01 - Array
+(
+)
+
+2019-09-23 6:07:01 - 
+2019-09-23 6:07:01 - select call
+2019-09-23 6:07:01 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [submit_time] => Array
+                        (
+                            [$gte] => MongoDate Object
+                                (
+                                    [sec] => 1567296000
+                                    [usec] => 0
+                                )
+
+                            [$lte] => MongoDate Object
+                                (
+                                    [sec] => 1569283200
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:01 - 
+2019-09-23 6:07:01 - select call
+2019-09-23 6:07:01 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [name] => MongoRegex Object
+                        (
+                            [regex] => .*
+                            [flags] => i
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:01 - pass_array
+2019-09-23 6:07:01 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:07:01 - count_array
+2019-09-23 6:07:01 - []
+2019-09-23 6:07:01 - pass_array
+2019-09-23 6:07:01 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:07:01 - count_array
+2019-09-23 6:07:01 - []
+2019-09-23 6:07:23 - 
+2019-09-23 6:07:23 - select call
+2019-09-23 6:07:23 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:23 - 
+2019-09-23 6:07:23 - select call
+2019-09-23 6:07:23 - Array
+(
+)
+
+2019-09-23 6:07:23 - 
+2019-09-23 6:07:23 - select call
+2019-09-23 6:07:23 - Array
+(
+)
+
+2019-09-23 6:07:23 - pass_array
+2019-09-23 6:07:23 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:23 - count_array
+2019-09-23 6:07:23 - []
+2019-09-23 6:07:23 - pass_array
+2019-09-23 6:07:23 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:23 - count_array
+2019-09-23 6:07:23 - []
+2019-09-23 6:07:23 - 
+2019-09-23 6:07:23 - select call
+2019-09-23 6:07:23 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:23 - 
+2019-09-23 6:07:23 - select call
+2019-09-23 6:07:23 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:23 - 
+2019-09-23 6:07:23 - select call
+2019-09-23 6:07:23 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:23 - 
+2019-09-23 6:07:23 - select call
+2019-09-23 6:07:23 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:23 - 
+2019-09-23 6:07:23 - select call
+2019-09-23 6:07:23 - Array
+(
+)
+
+2019-09-23 6:07:23 - 
+2019-09-23 6:07:23 - select call
+2019-09-23 6:07:23 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [order_status_id] => 5
+                    [date_added] => Array
+                        (
+                            [$gte] => MongoDate Object
+                                (
+                                    [sec] => 1567296000
+                                    [usec] => 0
+                                )
+
+                            [$lte] => MongoDate Object
+                                (
+                                    [sec] => 1569283200
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:23 - 
+2019-09-23 6:07:23 - select call
+2019-09-23 6:07:23 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [order_status_id] => 5
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:23 - 
+2019-09-23 6:07:23 - select call
+2019-09-23 6:07:23 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [language_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:23 - 
+2019-09-23 6:07:23 - select call
+2019-09-23 6:07:23 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [name] => MongoRegex Object
+                        (
+                            [regex] => .*
+                            [flags] => i
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:23 - pass_array
+2019-09-23 6:07:23 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:07:23 - count_array
+2019-09-23 6:07:23 - []
+2019-09-23 6:07:23 - pass_array
+2019-09-23 6:07:23 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:07:23 - count_array
+2019-09-23 6:07:23 - []
+2019-09-23 6:07:36 - 
+2019-09-23 6:07:36 - select call
+2019-09-23 6:07:36 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:36 - 
+2019-09-23 6:07:36 - select call
+2019-09-23 6:07:36 - Array
+(
+)
+
+2019-09-23 6:07:36 - 
+2019-09-23 6:07:36 - select call
+2019-09-23 6:07:36 - Array
+(
+)
+
+2019-09-23 6:07:36 - pass_array
+2019-09-23 6:07:36 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:36 - count_array
+2019-09-23 6:07:36 - []
+2019-09-23 6:07:36 - pass_array
+2019-09-23 6:07:36 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:36 - count_array
+2019-09-23 6:07:36 - []
+2019-09-23 6:07:36 - 
+2019-09-23 6:07:36 - select call
+2019-09-23 6:07:36 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:36 - 
+2019-09-23 6:07:36 - select call
+2019-09-23 6:07:36 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:36 - 
+2019-09-23 6:07:36 - select call
+2019-09-23 6:07:36 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:36 - 
+2019-09-23 6:07:36 - select call
+2019-09-23 6:07:36 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:36 - 
+2019-09-23 6:07:36 - select call
+2019-09-23 6:07:36 - Array
+(
+)
+
+2019-09-23 6:07:36 - 
+2019-09-23 6:07:36 - select call
+2019-09-23 6:07:36 - Array
+(
+)
+
+2019-09-23 6:07:36 - pass_array
+2019-09-23 6:07:36 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:07:36 - count_array
+2019-09-23 6:07:36 - []
+2019-09-23 6:07:36 - pass_array
+2019-09-23 6:07:36 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:07:36 - count_array
+2019-09-23 6:07:36 - []
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - select call
+2019-09-23 6:07:49 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - select call
+2019-09-23 6:07:49 - Array
+(
+)
+
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - select call
+2019-09-23 6:07:49 - Array
+(
+)
+
+2019-09-23 6:07:49 - pass_array
+2019-09-23 6:07:49 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:49 - count_array
+2019-09-23 6:07:49 - []
+2019-09-23 6:07:49 - pass_array
+2019-09-23 6:07:49 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:49 - count_array
+2019-09-23 6:07:49 - []
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - select call
+2019-09-23 6:07:49 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - select call
+2019-09-23 6:07:49 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - select call
+2019-09-23 6:07:49 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - select call
+2019-09-23 6:07:49 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - select call
+2019-09-23 6:07:49 - Array
+(
+)
+
+2019-09-23 6:07:49 - pass_array
+2019-09-23 6:07:49 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:07:49 - count_array
+2019-09-23 6:07:49 - []
+2019-09-23 6:07:49 - pass_array
+2019-09-23 6:07:49 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:07:49 - count_array
+2019-09-23 6:07:49 - []
+2019-09-23 6:07:49 - pass_array
+2019-09-23 6:07:49 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 6:07:49 - count_array
+2019-09-23 6:07:49 - []
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - count_array
+2019-09-23 6:07:49 - {"order_status_id":5,"date_added":{"$gte":{"sec":1569110400,"usec":0}}}
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - count_array
+2019-09-23 6:07:49 - {"order_status_id":5,"date_added":{"$gte":{"sec":1569024000,"usec":0}}}
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - count_array
+2019-09-23 6:07:49 - {"order_status_id":5}
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - count_array
+2019-09-23 6:07:49 - []
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - count_array
+2019-09-23 6:07:49 - []
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:49 - count_array
+2019-09-23 6:07:49 - []
+2019-09-23 6:07:49 - 
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+)
+
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+)
+
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:50 - pass_array
+2019-09-23 6:07:50 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:50 - count_array
+2019-09-23 6:07:50 - []
+2019-09-23 6:07:50 - pass_array
+2019-09-23 6:07:50 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:50 - count_array
+2019-09-23 6:07:50 - []
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+)
+
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+)
+
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+)
+
+2019-09-23 6:07:50 - pass_array
+2019-09-23 6:07:50 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:50 - count_array
+2019-09-23 6:07:50 - []
+2019-09-23 6:07:50 - pass_array
+2019-09-23 6:07:50 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:50 - count_array
+2019-09-23 6:07:50 - []
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:50 - 
+2019-09-23 6:07:50 - select call
+2019-09-23 6:07:50 - Array
+(
+)
+
+2019-09-23 6:07:53 - 
+2019-09-23 6:07:53 - select call
+2019-09-23 6:07:53 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:53 - 
+2019-09-23 6:07:53 - select call
+2019-09-23 6:07:53 - Array
+(
+)
+
+2019-09-23 6:07:53 - 
+2019-09-23 6:07:53 - select call
+2019-09-23 6:07:53 - Array
+(
+)
+
+2019-09-23 6:07:53 - pass_array
+2019-09-23 6:07:53 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:53 - count_array
+2019-09-23 6:07:53 - []
+2019-09-23 6:07:53 - pass_array
+2019-09-23 6:07:53 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 6:07:53 - count_array
+2019-09-23 6:07:53 - []
+2019-09-23 6:07:53 - 
+2019-09-23 6:07:53 - select call
+2019-09-23 6:07:53 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:53 - 
+2019-09-23 6:07:53 - select call
+2019-09-23 6:07:53 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:53 - 
+2019-09-23 6:07:53 - select call
+2019-09-23 6:07:53 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:53 - 
+2019-09-23 6:07:53 - select call
+2019-09-23 6:07:53 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 6:07:53 - 
+2019-09-23 6:07:53 - select call
+2019-09-23 6:07:53 - Array
+(
+)
+
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - select call
+2019-09-23 7:18:49 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - select call
+2019-09-23 7:18:49 - Array
+(
+)
+
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - select call
+2019-09-23 7:18:49 - Array
+(
+)
+
+2019-09-23 7:18:49 - pass_array
+2019-09-23 7:18:49 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 7:18:49 - count_array
+2019-09-23 7:18:49 - []
+2019-09-23 7:18:49 - pass_array
+2019-09-23 7:18:49 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 7:18:49 - count_array
+2019-09-23 7:18:49 - []
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - select call
+2019-09-23 7:18:49 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - select call
+2019-09-23 7:18:49 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - select call
+2019-09-23 7:18:49 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - select call
+2019-09-23 7:18:49 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - select call
+2019-09-23 7:18:49 - Array
+(
+)
+
+2019-09-23 7:18:49 - pass_array
+2019-09-23 7:18:49 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 7:18:49 - count_array
+2019-09-23 7:18:49 - []
+2019-09-23 7:18:49 - pass_array
+2019-09-23 7:18:49 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 7:18:49 - count_array
+2019-09-23 7:18:49 - []
+2019-09-23 7:18:49 - pass_array
+2019-09-23 7:18:49 - [{"$lookup":{"from":"oc_user_group","localField":"user_group_id","foreignField":"user_group_id","as":"user_group"}},{"$unwind":"$user_group"},{"$match":{"user_id":1}}]
+2019-09-23 7:18:49 - count_array
+2019-09-23 7:18:49 - []
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - count_array
+2019-09-23 7:18:49 - {"order_status_id":5,"date_added":{"$gte":{"sec":1569110400,"usec":0}}}
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - count_array
+2019-09-23 7:18:49 - {"order_status_id":5,"date_added":{"$gte":{"sec":1569024000,"usec":0}}}
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - count_array
+2019-09-23 7:18:49 - {"order_status_id":5}
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - count_array
+2019-09-23 7:18:49 - []
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - count_array
+2019-09-23 7:18:49 - []
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:49 - count_array
+2019-09-23 7:18:49 - []
+2019-09-23 7:18:49 - 
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+)
+
+2019-09-23 7:18:51 - pass_array
+2019-09-23 7:18:51 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 7:18:51 - count_array
+2019-09-23 7:18:51 - []
+2019-09-23 7:18:51 - pass_array
+2019-09-23 7:18:51 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 7:18:51 - count_array
+2019-09-23 7:18:51 - []
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+)
+
+2019-09-23 7:18:51 - pass_array
+2019-09-23 7:18:51 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 7:18:51 - count_array
+2019-09-23 7:18:51 - []
+2019-09-23 7:18:51 - pass_array
+2019-09-23 7:18:51 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 7:18:51 - count_array
+2019-09-23 7:18:51 - []
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+)
+
+2019-09-23 7:18:51 - pass_array
+2019-09-23 7:18:51 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 7:18:51 - count_array
+2019-09-23 7:18:51 - []
+2019-09-23 7:18:51 - pass_array
+2019-09-23 7:18:51 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 7:18:51 - count_array
+2019-09-23 7:18:51 - []
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_id] => 1
+                    [status] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 46
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [user_group_id] => 1
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 7:18:51 - 
+2019-09-23 7:18:51 - select call
+2019-09-23 7:18:51 - Array
+(
+)
+
+2019-09-23 8:45:09 - 
+2019-09-23 8:45:09 - select call
+2019-09-23 8:45:09 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-23 8:45:09 - 
+2019-09-23 8:45:09 - select call
+2019-09-23 8:45:09 - Array
+(
+)
+
+2019-09-23 8:45:09 - 
+2019-09-23 8:45:09 - select call
+2019-09-23 8:45:09 - Array
+(
+)
+
+2019-09-23 8:45:09 - pass_array
+2019-09-23 8:45:09 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-23 8:45:09 - count_array
+2019-09-23 8:45:09 - []
+2019-09-23 8:45:09 - pass_array
+2019-09-23 8:45:09 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-23 8:45:09 - count_array
+2019-09-23 8:45:09 - []
+2019-09-23 8:45:09 - 
+2019-09-23 8:45:09 - select call
+2019-09-23 8:45:09 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-23 8:45:09 - 
+2019-09-23 8:45:09 - select call
+2019-09-23 8:45:09 - Array
+(
+)
+

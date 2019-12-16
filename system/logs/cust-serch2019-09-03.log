@@ -1,0 +1,36 @@
+2019-09-03 10:02:33 - 70562
+2019-09-03 10:02:33 - Array
+(
+    [telephone] => MongoRegex Object
+        (
+            [regex] => .*70562
+            [flags] => i
+        )
+
+    [store_id] => 541
+)
+
+2019-09-03 10:02:34 - 70561
+2019-09-03 10:02:34 - Array
+(
+    [telephone] => MongoRegex Object
+        (
+            [regex] => .*70561
+            [flags] => i
+        )
+
+    [store_id] => 541
+)
+
+2019-09-03 10:02:36 - 7056196342
+2019-09-03 10:02:36 - Array
+(
+    [telephone] => MongoRegex Object
+        (
+            [regex] => .*7056196342
+            [flags] => i
+        )
+
+    [store_id] => 541
+)
+

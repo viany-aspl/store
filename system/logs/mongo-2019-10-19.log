@@ -1,0 +1,112 @@
+2019-10-19 9:21:10 - 
+2019-10-19 9:21:10 - select call
+2019-10-19 9:21:10 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-10-19 9:21:10 - 
+2019-10-19 9:21:10 - select call
+2019-10-19 9:21:10 - Array
+(
+)
+
+2019-10-19 9:21:10 - 
+2019-10-19 9:21:10 - select call
+2019-10-19 9:21:10 - Array
+(
+)
+
+2019-10-19 9:21:10 - pass_array
+2019-10-19 9:21:10 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-10-19 9:21:10 - count_array
+2019-10-19 9:21:10 - []
+2019-10-19 9:21:10 - pass_array
+2019-10-19 9:21:10 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-10-19 9:21:10 - count_array
+2019-10-19 9:21:10 - []
+2019-10-19 9:21:10 - 
+2019-10-19 9:21:10 - select call
+2019-10-19 9:21:10 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-10-19 9:21:10 - 
+2019-10-19 9:21:10 - select call
+2019-10-19 9:21:10 - Array
+(
+)
+
+2019-10-19 12:42:20 - 
+2019-10-19 12:42:20 - select call
+2019-10-19 12:42:20 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-10-19 12:42:20 - 
+2019-10-19 12:42:20 - select call
+2019-10-19 12:42:20 - Array
+(
+)
+
+2019-10-19 12:42:20 - 
+2019-10-19 12:42:20 - select call
+2019-10-19 12:42:20 - Array
+(
+)
+
+2019-10-19 12:42:20 - pass_array
+2019-10-19 12:42:20 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-10-19 12:42:20 - count_array
+2019-10-19 12:42:20 - []
+2019-10-19 12:42:20 - pass_array
+2019-10-19 12:42:20 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-10-19 12:42:20 - count_array
+2019-10-19 12:42:20 - []
+2019-10-19 12:42:20 - 
+2019-10-19 12:42:20 - select call
+2019-10-19 12:42:20 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-10-19 12:42:20 - 
+2019-10-19 12:42:20 - select call
+2019-10-19 12:42:20 - Array
+(
+)
+

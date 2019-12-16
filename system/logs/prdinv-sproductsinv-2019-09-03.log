@@ -1,0 +1,159 @@
+2019-09-03 9:42:50 - sproductsinv called 
+2019-09-03 9:42:50 - Array
+(
+    [route] => mpos/product/sproductsinv
+    [q] => 81249cff65ed6719c33fe5edd64943c1
+)
+
+2019-09-03 9:42:50 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 9:42:50 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => Þ½Ä2üÂJÖkµ(
+    [page] => 
+)
+
+2019-09-03 9:42:50 - products Test
+2019-09-03 9:42:50 - before call to own_products  in product/products
+2019-09-03 9:42:50 - 0
+2019-09-03 9:42:56 - sproductsinv called 
+2019-09-03 9:42:56 - Array
+(
+    [route] => mpos/product/sproductsinv
+    [q] => 272652d0a4f299d5678e3a38b4233ded
+)
+
+2019-09-03 9:42:56 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 9:42:56 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => Þ½Ä2üÂJÖkµ(
+    [page] => 
+)
+
+2019-09-03 9:42:56 - products test
+2019-09-03 9:42:56 - before call to own_products  in product/products
+2019-09-03 9:42:56 - 0
+2019-09-03 9:43:02 - sproductsinv called 
+2019-09-03 9:43:02 - Array
+(
+    [route] => mpos/product/sproductsinv
+    [q] => 8dc0f022b43d27685e83688d62310a94
+)
+
+2019-09-03 9:43:02 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 9:43:02 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => Þ½Ä2üÂJÖkµ(
+    [page] => 
+)
+
+2019-09-03 9:43:02 - products demo
+2019-09-03 9:43:02 - before call to own_products  in product/products
+2019-09-03 9:43:02 - 0
+2019-09-03 9:43:08 - sproductsinv called 
+2019-09-03 9:43:08 - Array
+(
+    [route] => mpos/product/sproductsinv
+    [q] => b8aca23dbcb7f1d9274919092f3e9f4b
+)
+
+2019-09-03 9:43:08 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 9:43:08 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => e6d1fddb49fe8ec10b97972c354f18ac
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => Þ½Ä2üÂJÖkµ(
+    [page] => 
+)
+
+2019-09-03 9:43:08 - products Demo
+2019-09-03 9:43:08 - before call to own_products  in product/products
+2019-09-03 9:43:08 - 0
+2019-09-03 11:34:22 - sproductsinv called 
+2019-09-03 11:34:22 - Array
+(
+    [route] => mpos/product/sproductsinv
+    [q] => b8aca23dbcb7f1d9274919092f3e9f4b
+)
+
+2019-09-03 11:34:22 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => 826355d0fbe548558a7776655043c435
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => inventory
+)
+
+2019-09-03 11:34:22 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [start] => 826355d0fbe548558a7776655043c435
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [limit] => f0d2a20ab7816f411f0f0f61c03f5237
+    [service_type] => Þ½Ä2üÂJÖkµ(
+    [page] => 
+)
+
+2019-09-03 11:34:22 - products Demo
+2019-09-03 11:34:22 - before call to own_products  in product/products
+2019-09-03 11:34:22 - 1
+2019-09-03 11:34:22 - data products loop
+2019-09-03 11:34:22 - Array
+(
+    [0] => 44
+    [1] => 6
+)
+
+2019-09-03 11:34:22 - manufacturer
+2019-09-03 11:34:22 - 
+2019-09-03 11:34:22 - array_key_exists
+2019-09-03 11:34:22 - 
+2019-09-03 11:34:22 - 
+2019-09-03 11:34:22 - 1
+2019-09-03 11:34:22 - in if own_products is not empty and product_id in own_products for product_id: 3531

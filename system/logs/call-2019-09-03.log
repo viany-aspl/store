@@ -1,0 +1,1053 @@
+2019-09-03 9:44:58 - getCount called
+2019-09-03 9:44:58 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 9:44:58 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 15:14:58 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 15:14:58 - 0
+2019-09-03 15:14:58 - final output
+2019-09-03 15:14:58 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 9:45:36 - getCount called
+2019-09-03 9:45:36 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 9:45:36 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 15:15:36 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 15:15:36 - 0
+2019-09-03 15:15:36 - final output
+2019-09-03 15:15:36 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 9:52:27 - getCount called
+2019-09-03 9:52:27 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 9:52:27 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 15:22:27 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 15:22:27 - 0
+2019-09-03 15:22:27 - final output
+2019-09-03 15:22:27 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 9:57:36 - getCount called
+2019-09-03 9:57:36 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 9:57:36 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 15:27:36 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 15:27:36 - 0
+2019-09-03 15:27:36 - final output
+2019-09-03 15:27:36 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 10:14:34 - getCount called
+2019-09-03 10:14:34 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 10:14:34 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 15:44:34 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 15:44:34 - 0
+2019-09-03 15:44:34 - final output
+2019-09-03 15:44:34 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 10:38:47 - getCount called
+2019-09-03 10:38:47 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 10:38:47 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 16:08:47 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 16:08:47 - 0
+2019-09-03 16:08:47 - final output
+2019-09-03 16:08:47 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 10:39:05 - getCount called
+2019-09-03 10:39:05 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 10:39:05 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 16:09:05 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 16:09:05 - 0
+2019-09-03 16:09:05 - final output
+2019-09-03 16:09:05 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 10:39:40 - getCount called
+2019-09-03 10:39:40 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 10:39:40 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 16:09:40 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 16:09:40 - 0
+2019-09-03 16:09:40 - final output
+2019-09-03 16:09:40 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 10:45:16 - getCount called
+2019-09-03 10:45:16 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 10:45:16 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 16:15:16 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 16:15:16 - 0
+2019-09-03 16:15:16 - final output
+2019-09-03 16:15:16 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 10:52:13 - getCount called
+2019-09-03 10:52:13 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 10:52:13 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 16:22:13 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 16:22:13 - 0
+2019-09-03 16:22:13 - final output
+2019-09-03 16:22:13 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 11:16:19 - getCount called
+2019-09-03 11:16:19 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 11:16:19 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 16:46:19 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 16:46:19 - 0
+2019-09-03 16:46:19 - final output
+2019-09-03 16:46:19 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 11:18:52 - getCount called
+2019-09-03 11:18:52 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 11:18:52 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 16:48:52 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 16:48:52 - 0
+2019-09-03 16:48:52 - final output
+2019-09-03 16:48:52 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 11:19:43 - getCount called
+2019-09-03 11:19:43 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 11:19:43 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 16:49:43 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 16:49:43 - 0
+2019-09-03 16:49:43 - final output
+2019-09-03 16:49:43 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 11:22:39 - getCount called
+2019-09-03 11:22:39 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 11:22:39 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 16:52:39 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 16:52:39 - 0
+2019-09-03 16:52:39 - final output
+2019-09-03 16:52:39 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 11:25:34 - getCount called
+2019-09-03 11:25:34 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 11:25:34 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 16:55:34 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 16:55:34 - 0
+2019-09-03 16:55:34 - final output
+2019-09-03 16:55:34 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 11:27:41 - getCount called
+2019-09-03 11:27:41 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 11:27:41 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 16:57:41 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 16:57:41 - 0
+2019-09-03 16:57:41 - final output
+2019-09-03 16:57:41 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 11:29:10 - getCount called
+2019-09-03 11:29:10 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 11:29:10 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 16:59:10 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 16:59:10 - 0
+2019-09-03 16:59:10 - final output
+2019-09-03 16:59:10 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 11:29:53 - getCount called
+2019-09-03 11:29:53 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 11:29:53 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 16:59:53 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 16:59:53 - 0
+2019-09-03 16:59:53 - final output
+2019-09-03 16:59:53 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 11:31:09 - getCount called
+2019-09-03 11:31:09 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 11:31:09 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 17:01:09 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 17:01:09 - 0
+2019-09-03 17:01:09 - final output
+2019-09-03 17:01:09 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 11:32:44 - getCount called
+2019-09-03 11:32:44 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 11:32:44 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 17:02:44 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 17:02:44 - 0
+2019-09-03 17:02:44 - final output
+2019-09-03 17:02:44 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 11:52:10 - getCount called
+2019-09-03 11:52:10 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 11:52:10 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 17:22:10 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 17:22:10 - 0
+2019-09-03 17:22:10 - final output
+2019-09-03 17:22:10 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 11:54:54 - getCount called
+2019-09-03 11:54:54 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 11:54:54 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 17:24:54 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 17:24:54 - 0
+2019-09-03 17:24:54 - final output
+2019-09-03 17:24:54 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 12:07:22 - getCount called
+2019-09-03 12:07:22 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 12:07:22 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 17:37:22 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 17:37:22 - 0
+2019-09-03 17:37:22 - final output
+2019-09-03 17:37:22 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 12:08:52 - getCount called
+2019-09-03 12:08:52 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 12:08:52 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 17:38:52 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 17:38:52 - 0
+2019-09-03 17:38:52 - final output
+2019-09-03 17:38:52 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 12:09:18 - getCount called
+2019-09-03 12:09:18 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 12:09:18 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 17:39:18 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 17:39:18 - 0
+2019-09-03 17:39:18 - final output
+2019-09-03 17:39:18 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 12:10:23 - getCount called
+2019-09-03 12:10:23 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 12:10:23 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 17:40:23 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 17:40:23 - 0
+2019-09-03 17:40:23 - final output
+2019-09-03 17:40:23 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 12:13:44 - getCount called
+2019-09-03 12:13:44 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+    [mobile_number] => 04346aed77b2472f764e29db9a4ad892
+)
+
+2019-09-03 12:13:44 - Array
+(
+    [store_id] => 541
+    [mobile_number] => 7065196342
+)
+
+2019-09-03 17:43:44 - Array
+(
+    [channel] => App
+    [mobile_number] => 7065196342
+    [ticket_status] => Array
+        (
+            [$in] => Array
+                (
+                    [0] => 3
+                    [1] => 4
+                )
+
+        )
+
+    [feedbackcount] => 0
+)
+
+2019-09-03 17:43:44 - 0
+2019-09-03 17:43:44 - final output
+2019-09-03 17:43:44 - Array
+(
+    [total] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+

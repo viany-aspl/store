@@ -1,0 +1,34 @@
+2019-09-03 10:03:27 - Array
+(
+    [customer_tranaction_id] => 5104
+    [customer_id] => 108958
+    [order_id] => 14221
+    [description] => 14221
+    [amount] => -11
+    [date_added] => MongoDate Object
+        (
+            [sec] => 1567505007
+            [usec] => 0
+        )
+
+)
+
+2019-09-03 10:03:27 - stdClass Object
+(
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+            [n] => 0
+            [ok] => 1
+            [err] => 
+            [errmsg] => 
+        )
+
+    [num_rows] => 4
+    [total_rows] => 0
+)
+
+2019-09-03 10:03:27 - done

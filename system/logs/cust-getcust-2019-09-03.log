@@ -1,0 +1,805 @@
+2019-09-03 10:01:33 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:01:33 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:01:33 - IN ELSE
+2019-09-03 10:03:47 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:03:47 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:03:47 - IN ELSE
+2019-09-03 10:03:47 - 108958
+2019-09-03 10:03:47 - 541
+2019-09-03 10:03:47 - total_earn
+2019-09-03 10:03:47 - 0
+2019-09-03 10:03:47 - total_Redeem
+2019-09-03 10:03:47 - 0
+2019-09-03 10:03:58 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:03:58 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:03:58 - IN ELSE
+2019-09-03 10:03:58 - 108958
+2019-09-03 10:03:58 - 541
+2019-09-03 10:03:58 - total_earn
+2019-09-03 10:03:58 - 0
+2019-09-03 10:03:58 - total_Redeem
+2019-09-03 10:03:58 - 0
+2019-09-03 10:03:58 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:03:58 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:03:58 - IN ELSE
+2019-09-03 10:03:58 - 108958
+2019-09-03 10:03:58 - 541
+2019-09-03 10:03:58 - total_earn
+2019-09-03 10:03:58 - 0
+2019-09-03 10:03:58 - total_Redeem
+2019-09-03 10:03:58 - 0
+2019-09-03 10:05:32 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+)
+
+2019-09-03 10:05:32 - Array
+(
+    [route] => mpos/customer/getcustomer
+    [cid] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 10:05:32 - in cide
+2019-09-03 10:05:32 - in cid array
+2019-09-03 10:05:32 - Array
+(
+    [_id] => MongoId Object
+        (
+            [$id] => 5d6e3a6e7f8b9aa91c320b7a
+        )
+
+    [customer_id] => 108958
+    [customer_group_id] => 1
+    [firstname] => TUSHAR
+    [lastname] => 
+    [email] => 7056196342
+    [telephone] => 7056196342
+    [fax] => 7056196342
+    [custom_field] => 
+    [newsletter] => 0
+    [salt] => b0c1463e3
+    [password] => d80c94f547b98d3e939fe5e6d82bf24f1ccebeb5
+    [status] => 1
+    [approved] => 1
+    [safe] => 1
+    [store_id] => Array
+        (
+            [0] => 541
+        )
+
+    [card] => 0
+    [date_added] => MongoDate Object
+        (
+            [sec] => 1567505006
+            [usec] => 0
+        )
+
+    [addedby] => 
+    [aadhar] => 000000000000
+    [otp] => 
+    [ip] => 
+    [imei] => 
+    [scheme] => 
+    [state_code] => 
+    [state_name] => 
+    [dist_code] => 
+    [dist_name] => 
+    [village] => 
+    [card_number] => 
+    [unnati_mitra] => 0
+    [reward] => 0
+    [credit] => 11
+)
+
+2019-09-03 10:05:32 - in cid array after
+2019-09-03 10:05:32 - 108958
+2019-09-03 10:05:32 - total_earn
+2019-09-03 10:05:32 - 0
+2019-09-03 10:05:32 - total_Redeem
+2019-09-03 10:05:32 - 0
+2019-09-03 10:05:32 - in cid loop after
+2019-09-03 10:06:09 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:06:09 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:06:09 - IN ELSE
+2019-09-03 10:06:09 - 108958
+2019-09-03 10:06:09 - 541
+2019-09-03 10:06:09 - total_earn
+2019-09-03 10:06:09 - 0
+2019-09-03 10:06:09 - total_Redeem
+2019-09-03 10:06:09 - 0
+2019-09-03 10:06:09 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:06:09 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:06:09 - IN ELSE
+2019-09-03 10:06:09 - 108958
+2019-09-03 10:06:09 - 541
+2019-09-03 10:06:09 - total_earn
+2019-09-03 10:06:09 - 0
+2019-09-03 10:06:09 - total_Redeem
+2019-09-03 10:06:09 - 0
+2019-09-03 10:13:59 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+)
+
+2019-09-03 10:13:59 - Array
+(
+    [route] => mpos/customer/getcustomer
+    [cid] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 10:13:59 - in cide
+2019-09-03 10:13:59 - in cid array
+2019-09-03 10:13:59 - Array
+(
+    [_id] => MongoId Object
+        (
+            [$id] => 5d6e3a6e7f8b9aa91c320b7a
+        )
+
+    [customer_id] => 108958
+    [customer_group_id] => 1
+    [firstname] => TUSHAR
+    [lastname] => 
+    [email] => 7056196342
+    [telephone] => 7056196342
+    [fax] => 7056196342
+    [custom_field] => 
+    [newsletter] => 0
+    [salt] => b0c1463e3
+    [password] => d80c94f547b98d3e939fe5e6d82bf24f1ccebeb5
+    [status] => 1
+    [approved] => 1
+    [safe] => 1
+    [store_id] => Array
+        (
+            [0] => 541
+        )
+
+    [card] => 0
+    [date_added] => MongoDate Object
+        (
+            [sec] => 1567505006
+            [usec] => 0
+        )
+
+    [addedby] => 
+    [aadhar] => 000000000000
+    [otp] => 
+    [ip] => 
+    [imei] => 
+    [scheme] => 
+    [state_code] => 
+    [state_name] => 
+    [dist_code] => 
+    [dist_name] => 
+    [village] => 
+    [card_number] => 
+    [unnati_mitra] => 0
+    [reward] => 0
+    [credit] => 11
+)
+
+2019-09-03 10:13:59 - in cid array after
+2019-09-03 10:13:59 - 108958
+2019-09-03 10:13:59 - total_earn
+2019-09-03 10:13:59 - 0
+2019-09-03 10:13:59 - total_Redeem
+2019-09-03 10:13:59 - 0
+2019-09-03 10:13:59 - in cid loop after
+2019-09-03 10:14:01 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:14:01 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:14:01 - IN ELSE
+2019-09-03 10:14:01 - 108958
+2019-09-03 10:14:01 - 541
+2019-09-03 10:14:01 - total_earn
+2019-09-03 10:14:01 - 0
+2019-09-03 10:14:01 - total_Redeem
+2019-09-03 10:14:01 - 0
+2019-09-03 10:14:01 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:14:01 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:14:01 - IN ELSE
+2019-09-03 10:14:01 - 108958
+2019-09-03 10:14:01 - 541
+2019-09-03 10:14:01 - total_earn
+2019-09-03 10:14:01 - 0
+2019-09-03 10:14:01 - total_Redeem
+2019-09-03 10:14:01 - 0
+2019-09-03 10:14:07 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:14:07 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:14:07 - IN ELSE
+2019-09-03 10:14:07 - 108958
+2019-09-03 10:14:07 - 541
+2019-09-03 10:14:07 - total_earn
+2019-09-03 10:14:07 - 0
+2019-09-03 10:14:07 - total_Redeem
+2019-09-03 10:14:07 - 0
+2019-09-03 10:14:12 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:14:12 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:14:12 - IN ELSE
+2019-09-03 10:14:12 - 108958
+2019-09-03 10:14:12 - 541
+2019-09-03 10:14:12 - total_earn
+2019-09-03 10:14:12 - 0
+2019-09-03 10:14:12 - total_Redeem
+2019-09-03 10:14:12 - 0
+2019-09-03 10:14:12 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:14:12 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:14:12 - IN ELSE
+2019-09-03 10:14:12 - 108958
+2019-09-03 10:14:12 - 541
+2019-09-03 10:14:12 - total_earn
+2019-09-03 10:14:12 - 0
+2019-09-03 10:14:12 - total_Redeem
+2019-09-03 10:14:12 - 0
+2019-09-03 10:14:16 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:14:16 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:14:16 - IN ELSE
+2019-09-03 10:14:16 - 108958
+2019-09-03 10:14:16 - 541
+2019-09-03 10:14:16 - total_earn
+2019-09-03 10:14:16 - 0
+2019-09-03 10:14:16 - total_Redeem
+2019-09-03 10:14:16 - 0
+2019-09-03 10:14:49 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:14:49 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:14:49 - IN ELSE
+2019-09-03 10:14:49 - 108958
+2019-09-03 10:14:49 - 541
+2019-09-03 10:14:49 - total_earn
+2019-09-03 10:14:49 - 0
+2019-09-03 10:14:49 - total_Redeem
+2019-09-03 10:14:49 - 0
+2019-09-03 10:14:57 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+)
+
+2019-09-03 10:14:57 - Array
+(
+    [route] => mpos/customer/getcustomer
+    [cid] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 10:14:57 - in cide
+2019-09-03 10:14:57 - in cid array
+2019-09-03 10:14:57 - Array
+(
+    [_id] => MongoId Object
+        (
+            [$id] => 5d6e3a6e7f8b9aa91c320b7a
+        )
+
+    [customer_id] => 108958
+    [customer_group_id] => 1
+    [firstname] => TUSHAR
+    [lastname] => 
+    [email] => 7056196342
+    [telephone] => 7056196342
+    [fax] => 7056196342
+    [custom_field] => 
+    [newsletter] => 0
+    [salt] => b0c1463e3
+    [password] => d80c94f547b98d3e939fe5e6d82bf24f1ccebeb5
+    [status] => 1
+    [approved] => 1
+    [safe] => 1
+    [store_id] => Array
+        (
+            [0] => 541
+        )
+
+    [card] => 0
+    [date_added] => MongoDate Object
+        (
+            [sec] => 1567505006
+            [usec] => 0
+        )
+
+    [addedby] => 
+    [aadhar] => 000000000000
+    [otp] => 
+    [ip] => 
+    [imei] => 
+    [scheme] => 
+    [state_code] => 
+    [state_name] => 
+    [dist_code] => 
+    [dist_name] => 
+    [village] => 
+    [card_number] => 
+    [unnati_mitra] => 0
+    [reward] => 0
+    [credit] => 11
+)
+
+2019-09-03 10:14:57 - in cid array after
+2019-09-03 10:14:57 - 108958
+2019-09-03 10:14:57 - total_earn
+2019-09-03 10:14:57 - 0
+2019-09-03 10:14:57 - total_Redeem
+2019-09-03 10:14:57 - 0
+2019-09-03 10:14:57 - in cid loop after
+2019-09-03 10:15:01 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:15:01 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:15:01 - IN ELSE
+2019-09-03 10:15:01 - 108958
+2019-09-03 10:15:01 - 541
+2019-09-03 10:15:01 - total_earn
+2019-09-03 10:15:01 - 0
+2019-09-03 10:15:01 - total_Redeem
+2019-09-03 10:15:01 - 0
+2019-09-03 10:15:01 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:15:01 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:15:01 - IN ELSE
+2019-09-03 10:15:01 - 108958
+2019-09-03 10:15:01 - 541
+2019-09-03 10:15:01 - total_earn
+2019-09-03 10:15:01 - 0
+2019-09-03 10:15:01 - total_Redeem
+2019-09-03 10:15:01 - 0
+2019-09-03 10:15:08 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:15:08 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:15:08 - IN ELSE
+2019-09-03 10:15:08 - 108958
+2019-09-03 10:15:08 - 541
+2019-09-03 10:15:08 - total_earn
+2019-09-03 10:15:08 - 0
+2019-09-03 10:15:08 - total_Redeem
+2019-09-03 10:15:08 - 0
+2019-09-03 10:15:41 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:15:41 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:15:41 - IN ELSE
+2019-09-03 10:15:41 - 108958
+2019-09-03 10:15:41 - 541
+2019-09-03 10:15:41 - total_earn
+2019-09-03 10:15:41 - 0
+2019-09-03 10:15:41 - total_Redeem
+2019-09-03 10:15:41 - 0
+2019-09-03 10:16:16 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 10:16:16 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 10:16:16 - IN ELSE
+2019-09-03 10:16:16 - 108958
+2019-09-03 10:16:16 - 541
+2019-09-03 10:16:16 - total_earn
+2019-09-03 10:16:16 - 0
+2019-09-03 10:16:16 - total_Redeem
+2019-09-03 10:16:16 - 0
+2019-09-03 11:20:17 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 11:20:17 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 11:20:17 - IN ELSE
+2019-09-03 11:20:17 - 108958
+2019-09-03 11:20:17 - 541
+2019-09-03 11:20:17 - total_earn
+2019-09-03 11:20:17 - 0
+2019-09-03 11:20:17 - total_Redeem
+2019-09-03 11:20:17 - 0
+2019-09-03 11:20:23 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+)
+
+2019-09-03 11:20:23 - Array
+(
+    [route] => mpos/customer/getcustomer
+    [cid] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 11:20:23 - in cide
+2019-09-03 11:20:23 - in cid array
+2019-09-03 11:20:23 - Array
+(
+    [_id] => MongoId Object
+        (
+            [$id] => 5d6e3a6e7f8b9aa91c320b7a
+        )
+
+    [customer_id] => 108958
+    [customer_group_id] => 1
+    [firstname] => TUSHAR
+    [lastname] => 
+    [email] => 7056196342
+    [telephone] => 7056196342
+    [fax] => 7056196342
+    [custom_field] => 
+    [newsletter] => 0
+    [salt] => b0c1463e3
+    [password] => d80c94f547b98d3e939fe5e6d82bf24f1ccebeb5
+    [status] => 1
+    [approved] => 1
+    [safe] => 1
+    [store_id] => Array
+        (
+            [0] => 541
+        )
+
+    [card] => 0
+    [date_added] => MongoDate Object
+        (
+            [sec] => 1567505006
+            [usec] => 0
+        )
+
+    [addedby] => 
+    [aadhar] => 000000000000
+    [otp] => 
+    [ip] => 
+    [imei] => 
+    [scheme] => 
+    [state_code] => 
+    [state_name] => 
+    [dist_code] => 
+    [dist_name] => 
+    [village] => 
+    [card_number] => 
+    [unnati_mitra] => 0
+    [reward] => 0
+    [credit] => 11
+)
+
+2019-09-03 11:20:23 - in cid array after
+2019-09-03 11:20:23 - 108958
+2019-09-03 11:20:23 - total_earn
+2019-09-03 11:20:23 - 0
+2019-09-03 11:20:23 - total_Redeem
+2019-09-03 11:20:23 - 0
+2019-09-03 11:20:23 - in cid loop after
+2019-09-03 11:20:23 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 11:20:23 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 11:20:23 - IN ELSE
+2019-09-03 11:20:23 - 108958
+2019-09-03 11:20:23 - 541
+2019-09-03 11:20:23 - total_earn
+2019-09-03 11:20:23 - 0
+2019-09-03 11:20:23 - total_Redeem
+2019-09-03 11:20:23 - 0
+2019-09-03 11:20:24 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 11:20:24 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 11:20:24 - IN ELSE
+2019-09-03 11:20:24 - 108958
+2019-09-03 11:20:24 - 541
+2019-09-03 11:20:24 - total_earn
+2019-09-03 11:20:24 - 0
+2019-09-03 11:20:24 - total_Redeem
+2019-09-03 11:20:24 - 0
+2019-09-03 11:23:52 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 11:23:52 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 11:23:52 - IN ELSE
+2019-09-03 11:23:52 - 108958
+2019-09-03 11:23:52 - 541
+2019-09-03 11:23:52 - total_earn
+2019-09-03 11:23:52 - 0
+2019-09-03 11:23:52 - total_Redeem
+2019-09-03 11:23:52 - 0
+2019-09-03 11:23:57 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+)
+
+2019-09-03 11:23:57 - Array
+(
+    [route] => mpos/customer/getcustomer
+    [cid] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 11:23:57 - in cide
+2019-09-03 11:23:57 - in cid array
+2019-09-03 11:23:57 - Array
+(
+    [_id] => MongoId Object
+        (
+            [$id] => 5d6e3a6e7f8b9aa91c320b7a
+        )
+
+    [customer_id] => 108958
+    [customer_group_id] => 1
+    [firstname] => TUSHAR
+    [lastname] => 
+    [email] => 7056196342
+    [telephone] => 7056196342
+    [fax] => 7056196342
+    [custom_field] => 
+    [newsletter] => 0
+    [salt] => b0c1463e3
+    [password] => d80c94f547b98d3e939fe5e6d82bf24f1ccebeb5
+    [status] => 1
+    [approved] => 1
+    [safe] => 1
+    [store_id] => Array
+        (
+            [0] => 541
+        )
+
+    [card] => 0
+    [date_added] => MongoDate Object
+        (
+            [sec] => 1567505006
+            [usec] => 0
+        )
+
+    [addedby] => 
+    [aadhar] => 000000000000
+    [otp] => 
+    [ip] => 
+    [imei] => 
+    [scheme] => 
+    [state_code] => 
+    [state_name] => 
+    [dist_code] => 
+    [dist_name] => 
+    [village] => 
+    [card_number] => 
+    [unnati_mitra] => 0
+    [reward] => 0
+    [credit] => 11
+)
+
+2019-09-03 11:23:57 - in cid array after
+2019-09-03 11:23:57 - 108958
+2019-09-03 11:23:57 - total_earn
+2019-09-03 11:23:57 - 0
+2019-09-03 11:23:57 - total_Redeem
+2019-09-03 11:23:57 - 0
+2019-09-03 11:23:57 - in cid loop after
+2019-09-03 11:23:58 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 11:23:58 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 11:23:58 - IN ELSE
+2019-09-03 11:23:58 - 108958
+2019-09-03 11:23:58 - 541
+2019-09-03 11:23:58 - total_earn
+2019-09-03 11:23:58 - 0
+2019-09-03 11:23:58 - total_Redeem
+2019-09-03 11:23:58 - 0
+2019-09-03 11:23:58 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [type] => 6e78a6fed1ad3bc6953c0933a2617d84
+)
+
+2019-09-03 11:23:58 - Array
+(
+    [route] => mpos/customer/getcustomer
+)
+
+2019-09-03 11:23:58 - IN ELSE
+2019-09-03 11:23:58 - 108958
+2019-09-03 11:23:58 - 541
+2019-09-03 11:23:58 - total_earn
+2019-09-03 11:23:58 - 0
+2019-09-03 11:23:58 - total_Redeem
+2019-09-03 11:23:58 - 0

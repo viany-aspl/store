@@ -1,0 +1,733 @@
+body{
+	margin:0;
+	padding:0;
+	background:#bdc3c7;
+	font-size: 14px;
+	line-height: 24px;
+	font-family: 'Lato', sans-serif;
+	word-wrap:normal;
+	color:#555555;
+}
+
+p{
+	font-family: 'Lato', sans-serif;
+	margin:0 0 15px 0;
+}
+
+h1{
+	font-size:40px;
+}
+h2{
+	font-size:32px;
+}
+h3{
+	font-size:22px;
+}
+h4{
+	font-size:20px;
+}
+h5{
+	font-size:18px;
+}
+h6{
+	font-size:16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	line-height: 24px;
+	font-family: 'Lato', sans-serif;
+	font-weight:500;
+	color:#555555;
+	margin:0px;
+}
+
+a{
+	background:none;
+	text-decoration:none;
+	outline:none;
+	transition: all 0.2s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+}
+
+a:focus, a:hover{
+	text-decoration:none;
+	outline:none;
+	transition: all 0.2s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+}
+
+.mt_10{margin-top:10px;} .mt_15{margin-top:15px;} .mt_20{margin-top:20px;} .mt_30{margin-top:30px;} .mt_40{margin-top:40px;} .mt_50{margin-top:50px;} .mt_60{margin-top:60px;} 
+
+.-mt_15{margin-top:-15px;} 
+.-ml_20{margin-left:-20px;}
+
+.mb_10{margin-bottom:10px;} .mb_20{margin-bottom:20px;} .mb_30{margin-bottom:30px;} .mb_40{margin-bottom:40px;} .mb_50{margin-bottom:50px;} .mb_60{margin-bottom:60px;}
+
+.mr_10{margin-right:10px;} .mr_20{margin-right:20px;} .mr_30{margin-right:30px;} .mr_40{margin-right:40px;} .mr_50{margin-right:50px;} .mr_60{margin-right:60px;}
+
+.ml_10{margin-left:10px;} .ml_20{margin-left:20px;} .ml_30{margin-left:30px;} .ml_40{margin-left:40px;} .ml_50{margin-left:50px;} .ml_60{margin-left:60px;} 
+
+.z-index{
+	z-index:99;
+}
+
+
+.box{
+	width:100%;
+	float:left;
+	background:#fff;
+	border-radius:3px;
+	border-top:3px solid green;
+	margin-bottom:10px;
+}
+.b_border{
+	border-bottom:1px solid #efefef;
+	display:block;
+}
+.box_header{
+    display: block;
+    padding: 15px;
+	position: relative;
+}
+.box_header .box_tool{
+    position: absolute;
+    right: 10px;
+    top: 5px;
+	 margin-top: 3px;
+}
+
+.box_header h4 span{
+	color:green;
+}
+
+.box_body{
+	padding:15px 15px 0 15px;
+	width:100%;
+	height:auto;
+	/*--height: 450px;---*/
+}
+
+.box_body1{
+	padding:15px 15px 0 15px;
+	width:100%;
+	height:auto;
+	/*--height: 450px;---*/
+}
+
+.product_items{
+	width:100%;
+}
+.input-group-addon {
+    line-height: 20px;
+}
+
+.bg_red{
+	background-color: #dd4b39 !important;
+	border:1px solid #bc1350;
+}
+.bg_red:hover{
+	background-color: #ca3d2c !important;
+	border:1px solid #bc1350;
+}
+
+.bg-maroon {
+    background-color: #d81b60 !important;
+	border:1px solid #bc1350;
+}
+.bg-maroon:hover{
+    background-color:#c11956  !important;
+	border:1px solid #a80842;
+}
+
+.flat_btn:hover{
+	box-shadow:none;
+	-webkit-box-shadow: none;
+    -moz-box-shadow: none;
+	border:0px solid none;
+}
+
+.bg-navy {
+    background-color: #001f3f !important;
+	border:1px solid #0245a8;
+}
+.bg-navy:hover {
+    background-color: #001f3f !important;
+	border:1px solid #0245a8;
+}
+.navy_height{
+	font-size:20px;
+	text-align:center;
+	height:67px;
+}
+
+.select2-container--default .select2-selection--single {
+    background-color: #fff;
+    border: 1px solid #ccc !important;
+    border-radius: 0px !important;
+    width: 100% !important;
+	line-height:30px;
+    height: 34px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 26px;
+    position: absolute;
+    top: 3px !important;
+    right: 1px;
+    width: 20px;
+}
+
+.input-group-addon {
+    padding: 6px 13px !important;
+}
+
+.form-control:focus {
+    border-color:none;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.bg_none {
+    color: #333;
+    background-color:transparent;
+    border-color:none;
+	padding:1px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 3px;
+}
+.btn1 {
+    display: inline-block;
+    padding: 0px;
+}
+.btn:active {
+    background-image: none;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.input-group-addon {
+    padding: 0px 6px !important;
+}
+
+/*-.product_list_body{
+	height:420px;
+	overflow-x:hidden;
+	overflow-y:scroll;
+}-*/
+
+.w_255 {
+    width: 220px !important;
+    float: left !important;
+	margin-bottom:10px !important;
+}
+.w_206{
+	width:100%;
+}
+
+/*------------- table css start ----------------*/
+
+/*--table{
+  width:100%;
+  table-layout: fixed;
+  border:1px solid #efefef;
+}
+.table-cont{
+
+  max-height: 200px;
+  overflow: auto;
+
+  background:#fff;
+  border-radius:3px;
+  border-top:3px solid green;
+}
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    border: 1px solid #ddd;
+}
+
+table tbody {
+  background-color:transparent;
+}----*/
+/*------------- table css end ----------------*/
+
+/*-------------cart table start-----------------------*/
+
+.red-small{
+	font-size:10px;
+	font-weight:700;
+}
+.green{
+	background:green;
+}
+.item .item-block.ib-total-price span {
+    color: #555;
+}
+
+.ib-info-meta .title{
+	color:#333333;
+	font-size:13px;
+}
+
+.ib-info-meta .itemno{
+color: #252525;
+font-size: 11px;
+font-weight: 600;
+display:block;
+}
+
+.total_text{
+	font-size:12px;
+}
+
+.qty{
+  text-align: center;
+  font-size: 16px;
+  border-radius: 0;
+  outline: none;
+  border: 1px solid #ccc;
+  width: 100%;
+  height: 34px;
+  vertical-align: middle;
+  color: #555;
+  text-align: center;
+}
+.price{
+  font-size:14px;
+  width: 100%;
+  vertical-align: middle;
+  color: #555;
+  text-align: center;
+}
+
+/*-------------cart table end-------------------------*/
+
+.grey_panel{
+	background:#eee;
+	padding:15px;
+	margin: 25px 0;
+	font-size: 13px;
+	border-radius: 5px;
+}
+.side_border{
+	border-top:1px solid green;
+	border-bottom:1px solid green;
+}
+.no_space{
+	padding:0px;
+	margin:0px;
+}
+.full_width{
+	width:100%;
+}
+
+
+/*----------------Popover Start------------------------*/
+.wrapper {
+  text-transform: uppercase;
+  background:transparent;
+  color: #31708f;
+  cursor: help;
+  font-family: "Gill Sans", Impact, sans-serif;
+  font-size: 18px;
+  margin: -1px;
+  padding: 0;
+  position: relative;
+  text-align: center;
+  display:inline-block;
+  width: auto;
+  -webkit-transform: translateZ(0); /* webkit flicker fix */
+  -webkit-font-smoothing: antialiased; /* webkit text rendering fix */
+}
+
+.wrapper .tooltip {
+  background: #1496bb;
+  bottom: 100% !important;
+  color: #fff;
+  display: block;
+  right: -84px;
+  margin-bottom: 12px;
+  opacity: 0;
+  padding: 10px;
+  pointer-events: none;
+  position: absolute;
+  width: 180px;
+  -webkit-transform: translateY(10px);
+     -moz-transform: translateY(10px);
+      -ms-transform: translateY(10px);
+       -o-transform: translateY(10px);
+          transform: translateY(10px);
+  -webkit-transition: all .25s ease-out;
+     -moz-transition: all .25s ease-out;
+      -ms-transition: all .25s ease-out;
+       -o-transition: all .25s ease-out;
+          transition: all .25s ease-out;
+  -webkit-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+     -moz-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+      -ms-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+       -o-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+          box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+}
+
+/* This bridges the gap so you can mouse into the tooltip without it disappearing */
+.wrapper .tooltip:before {
+  bottom: -20px;
+  content: " ";
+  display: block;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}  
+
+/* CSS Triangles - see Trevor's post */
+.wrapper .tooltip:after {
+  border-left: solid transparent 10px;
+  border-right: solid transparent 10px;
+  border-top: solid #1496bb 10px;
+  bottom: -10px;
+  content: " ";
+  height: 0;
+  left: 50%;
+  margin-left: -13px;
+  position: absolute;
+  width: 0;
+}
+  
+.wrapper:hover .tooltip {
+  opacity: 1;
+  pointer-events: auto;
+  -webkit-transform: translateY(0px);
+     -moz-transform: translateY(0px);
+      -ms-transform: translateY(0px);
+       -o-transform: translateY(0px);
+          transform: translateY(0px);
+}
+
+/* IE can just show/hide with no transition */
+.lte8 .wrapper .tooltip {
+  display: none;
+}
+
+.lte8 .wrapper:hover .tooltip {
+  display: block;
+}
+/*----------------Popover ending-----------------------*/
+
+/*-------------new table2 stating------------------------*/
+.pos_product_div{
+	width:100%;
+	float:left;
+	height:200px;
+}
+
+table tbody { 
+   display: block;  
+}
+
+table thead, table tbody tr {       
+   display: table; 
+   width: 100%; 
+   table-layout: fixed; 
+}
+thead{
+  background-color: #eee;
+  position: relative;
+  top: 3px !important;
+  
+}
+thead span{
+	border-radius:3px;
+	border-top:3px solid green;
+	z-index:99;
+}
+
+table{
+  width:100%;
+  table-layout: fixed;
+}
+.table-cont > tbody{
+  max-height: 185px;
+  overflow: auto;
+  z-index:99;
+  background:#fff;
+   border:1px solid #efefef;
+}
+
+.table > thead > tr > th {
+    padding: 6px;
+    line-height: 1.42857143;
+    vertical-align: top !important;
+    border-top: 1px solid #ddd;
+    font-size: 13px;
+}
+/*-------------------new table2 ending--------------------*/
+
+/*-------------------------- side toggle start----------*/
+
+.closed .vertical {
+  transition: all 0.5s ease-in-out;
+  transform: rotate(-90deg);
+   opacity: 1;
+}
+.closed .horizontal {
+  transition: all 0.5s ease-in-out;
+  transform: rotate(-90deg);
+  opacity: 0;
+}
+
+.opened {
+  opacity: 1;
+}
+.opened .vertical {
+  transition: all 0.5s ease-in-out;
+  transform: rotate(90deg);
+}
+.opened .horizontal {
+  transition: all 0.5s ease-in-out;
+  transform: rotate(90deg);
+  opacity: 0;
+}
+
+.circle-plus {
+  height: 20px;
+  width: 20px;
+  font-size: 1em;
+  opacity: .7;
+  position: relative;
+top: 0px;
+left: 95%;
+}
+.circle-plus:hover {
+	cursor:pointer;
+}
+
+.circle-plus .circle {
+  position: relative;
+  width: 2.55em;
+  height: 2.5em;
+  border-radius: 100%;
+  border:0px solid #DFDAD7;
+}
+
+.circle-plus .circle .horizontal {
+  position: absolute;
+  background-color: red;
+  width: 20px;
+  height: 3px;
+  left: 27px !important;
+  margin-left: -15px;
+  top: 9px !important;
+  margin-top: -2.5px;
+}
+
+.circle-plus .circle .vertical {
+  position: absolute;
+  background-color: red;
+  width: 3px;
+  height: 20px;
+  left: 22px;
+  margin-left: -2.5px;
+  top: 14px;
+  margin-top: -15px;
+}
+/*---------------------side toggle end----------------------*/
+ 
+
+ 
+/*-------------------- product_item start -----------------*/
+.fix_hight_pro_box{
+	width:100%;
+	height:375px;
+	overflow-x:auto;
+	overflow-y:scroll;
+	display:block;
+}
+
+.pro_equal_box{
+	display:table;
+  width: 100%;
+}
+
+ .product_item{
+	 width:20%;
+	 float:left;
+	 background:#efefef;
+	 border: 1px solid #ccc;
+	 margin-right:24px;
+	 margin-bottom:20px;
+	 display:table-cell;
+ }
+.pro_image_div {
+    width: 60%;
+    height: 65px;
+    margin: 3px auto 0;
+}
+
+.text {
+    width: 100%;
+	display":block;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	line-height: 10px;
+	color: #fff;
+	font-size: 10px;
+	padding: 3px;
+	text-transform: uppercase;
+	text-align: center;
+	cursor: pointer;
+	background: #5f5f5f;
+}
+.small_text{
+	width:100%;
+	display:block;
+	text-align:center;
+	text-transform:lowercase;
+}
+
+
+
+@media all and (max-width: 900px) {
+.article {
+    width: 48%
+  }
+ /*-------------------- product_item end ---------------------*/
+ 
+/*---------------------- Tooltip text start ------------------*/
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 100px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  margin-left:25%;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+/*---------------------- Tooltip text end ----------------------*/
+
+ /*---------------------fix_hight_pro_box start-----------------------*/
+ .fix_hight_pro_box{
+	width:100%;
+	float:left;
+	overflow-x:hidden;
+	overflow-y:scroll;
+	height:350px;
+	margin-bottom:15px;
+ }
+ 
+/*---------------------fix_hight_pro_box end-----------------------*/
+
+@media(max-width:1024px){
+.product_item {
+    width: 26% !important;
+	margin-right: 18px;
+	margin-bottom: 10px;
+}
+.pro_image_div {
+    width: 86%;
+}
+.w_255 {
+    width:95px !important;
+    float: left !important;
+}
+}
+
+@media(max-width:768px){
+	.product_item {
+    width: 31% !important;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.pro_image_div {
+    width: 30%;
+}
+.w_255 {
+    width:185px !important;
+    float: left !important;
+}
+}
+
+/*------------------ph media query-----------------------*/
+@media(max-width:480px){
+.select_m{
+	width:230px;
+}
+
+.table-cont > tbody{
+  max-height: 348px;
+  overflow: auto;
+  z-index:99;
+  background:#fff;
+   border:1px solid #efefef;
+}
+	
+.qty{
+  font-size: 13px;
+  border: 1px solid #ccc;
+}
+
+.grey_panel {
+    margin: 216px 0;
+}
+
+.table > thead > tr > th {
+    vertical-align: top !important;
+    border-top: 1px solid #ddd;
+    font-size: 11px;
+}
+.ib-info-meta .title {
+    font-size: 10px;
+	line-height:6px;
+}
+.wrapper .tooltip {
+    right: -44px;
+}
+.qty {
+    font-size: 10px;
+    border: 1px solid #ccc;
+}
+.price {
+    font-size: 13px;
+}
+.w_206{
+	width:206px;
+}
+.w_255 {
+    width:185px !important;
+    float: left !important;
+}
+.product_item {
+    width: 43% !important;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.pro_image_div {
+    width: 48%;
+}
+.box_header h4{
+	font-size:16px;
+}
+.box_header span{
+	font-size:16px;
+}
+.circle-plus {
+    left: 90%;
+}
+}

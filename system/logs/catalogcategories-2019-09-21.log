@@ -1,0 +1,426 @@
+2019-09-21 7:14:43 - in model
+2019-09-21 7:14:43 - Array
+(
+    [sort] => name
+    [order] => ASC
+    [start] => 0
+    [limit] => 20
+)
+
+2019-09-21 7:14:43 - in else
+2019-09-21 7:14:43 - {"status":true}
+2019-09-21 7:14:43 - stdClass Object
+(
+    [row] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5c026f8449171db5798b45ad
+                )
+
+            [category_id] => 3
+            [image] => 
+            [parent_id] => 0
+            [top] => 1
+            [column] => 1
+            [sort_order] => 0
+            [status] => 1
+            [date_modified] => MongoDate Object
+                (
+                    [sec] => 1556348544
+                    [usec] => 0
+                )
+
+            [date_added] => MongoDate Object
+                (
+                    [sec] => 1543620292
+                    [usec] => 0
+                )
+
+            [category_description] => Array
+                (
+                    [1] => Array
+                        (
+                            [name] => Featured Products
+                            [description] => &lt;p&gt;Promoted Products&lt;br&gt;&lt;/p&gt;
+                            [meta_title] => Promoted Products
+                            [child_url] => mpos/dashboard/promotedproducts
+                            [meta_description] => 
+                            [meta_keyword] => 
+                        )
+
+                )
+
+            [category_store] => Array
+                (
+                    [0] => 0
+                )
+
+            [child_url] => 
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5c026f8449171db5798b45ad
+                        )
+
+                    [category_id] => 3
+                    [image] => 
+                    [parent_id] => 0
+                    [top] => 1
+                    [column] => 1
+                    [sort_order] => 0
+                    [status] => 1
+                    [date_modified] => MongoDate Object
+                        (
+                            [sec] => 1556348544
+                            [usec] => 0
+                        )
+
+                    [date_added] => MongoDate Object
+                        (
+                            [sec] => 1543620292
+                            [usec] => 0
+                        )
+
+                    [category_description] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [name] => Featured Products
+                                    [description] => &lt;p&gt;Promoted Products&lt;br&gt;&lt;/p&gt;
+                                    [meta_title] => Promoted Products
+                                    [child_url] => mpos/dashboard/promotedproducts
+                                    [meta_description] => 
+                                    [meta_keyword] => 
+                                )
+
+                        )
+
+                    [category_store] => Array
+                        (
+                            [0] => 0
+                        )
+
+                    [child_url] => 
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5bffbee649171de4798b4568
+                        )
+
+                    [category_id] => 2
+                    [image] => 
+                    [parent_id] => 0
+                    [top] => 0
+                    [column] => 1
+                    [sort_order] => 1
+                    [status] => 1
+                    [date_modified] => MongoDate Object
+                        (
+                            [sec] => 1555655353
+                            [usec] => 0
+                        )
+
+                    [date_added] => MongoDate Object
+                        (
+                            [sec] => 1543444006
+                            [usec] => 0
+                        )
+
+                    [category_description] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [name] => Companies
+                                    [description] => &lt;p&gt;Browse by Company&lt;br&gt;&lt;/p&gt;
+                                    [meta_title] => Browse by Company
+                                    [child_url] => mpos/product/manufacturers
+                                    [meta_description] => 
+                                    [meta_keyword] => 
+                                )
+
+                        )
+
+                    [category_store] => Array
+                        (
+                            [0] => 0
+                        )
+
+                    [child_url] => 
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5bffab3f49171d52768b4584
+                        )
+
+                    [category_id] => 1
+                    [image] => 
+                    [parent_id] => 0
+                    [top] => 0
+                    [column] => 1
+                    [sort_order] => 2
+                    [status] => 1
+                    [date_modified] => MongoDate Object
+                        (
+                            [sec] => 1555655365
+                            [usec] => 0
+                        )
+
+                    [date_added] => MongoDate Object
+                        (
+                            [sec] => 1543438975
+                            [usec] => 0
+                        )
+
+                    [category_description] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [name] => Categories
+                                    [description] => Browse by Category
+                                    [meta_title] => Browse by Category
+                                    [child_url] => mpos/product/categories
+                                    [meta_description] => 
+                                    [meta_keyword] => 
+                                )
+
+                        )
+
+                    [category_store] => Array
+                        (
+                            [0] => 0
+                        )
+
+                    [child_url] => 
+                )
+
+        )
+
+    [num_rows] => 3
+    [total_rows] => 0
+)
+
+2019-09-21 7:23:42 - in model
+2019-09-21 7:23:42 - Array
+(
+    [sort] => name
+    [order] => ASC
+    [start] => 0
+    [limit] => 20
+)
+
+2019-09-21 7:23:42 - in else
+2019-09-21 7:23:42 - {"status":true}
+2019-09-21 7:23:42 - stdClass Object
+(
+    [row] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5c026f8449171db5798b45ad
+                )
+
+            [category_id] => 3
+            [image] => 
+            [parent_id] => 0
+            [top] => 1
+            [column] => 1
+            [sort_order] => 0
+            [status] => 1
+            [date_modified] => MongoDate Object
+                (
+                    [sec] => 1556348544
+                    [usec] => 0
+                )
+
+            [date_added] => MongoDate Object
+                (
+                    [sec] => 1543620292
+                    [usec] => 0
+                )
+
+            [category_description] => Array
+                (
+                    [1] => Array
+                        (
+                            [name] => Featured Products
+                            [description] => &lt;p&gt;Promoted Products&lt;br&gt;&lt;/p&gt;
+                            [meta_title] => Promoted Products
+                            [child_url] => mpos/dashboard/promotedproducts
+                            [meta_description] => 
+                            [meta_keyword] => 
+                        )
+
+                )
+
+            [category_store] => Array
+                (
+                    [0] => 0
+                )
+
+            [child_url] => 
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5c026f8449171db5798b45ad
+                        )
+
+                    [category_id] => 3
+                    [image] => 
+                    [parent_id] => 0
+                    [top] => 1
+                    [column] => 1
+                    [sort_order] => 0
+                    [status] => 1
+                    [date_modified] => MongoDate Object
+                        (
+                            [sec] => 1556348544
+                            [usec] => 0
+                        )
+
+                    [date_added] => MongoDate Object
+                        (
+                            [sec] => 1543620292
+                            [usec] => 0
+                        )
+
+                    [category_description] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [name] => Featured Products
+                                    [description] => &lt;p&gt;Promoted Products&lt;br&gt;&lt;/p&gt;
+                                    [meta_title] => Promoted Products
+                                    [child_url] => mpos/dashboard/promotedproducts
+                                    [meta_description] => 
+                                    [meta_keyword] => 
+                                )
+
+                        )
+
+                    [category_store] => Array
+                        (
+                            [0] => 0
+                        )
+
+                    [child_url] => 
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5bffbee649171de4798b4568
+                        )
+
+                    [category_id] => 2
+                    [image] => 
+                    [parent_id] => 0
+                    [top] => 0
+                    [column] => 1
+                    [sort_order] => 1
+                    [status] => 1
+                    [date_modified] => MongoDate Object
+                        (
+                            [sec] => 1555655353
+                            [usec] => 0
+                        )
+
+                    [date_added] => MongoDate Object
+                        (
+                            [sec] => 1543444006
+                            [usec] => 0
+                        )
+
+                    [category_description] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [name] => Companies
+                                    [description] => &lt;p&gt;Browse by Company&lt;br&gt;&lt;/p&gt;
+                                    [meta_title] => Browse by Company
+                                    [child_url] => mpos/product/manufacturers
+                                    [meta_description] => 
+                                    [meta_keyword] => 
+                                )
+
+                        )
+
+                    [category_store] => Array
+                        (
+                            [0] => 0
+                        )
+
+                    [child_url] => 
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5bffab3f49171d52768b4584
+                        )
+
+                    [category_id] => 1
+                    [image] => 
+                    [parent_id] => 0
+                    [top] => 0
+                    [column] => 1
+                    [sort_order] => 2
+                    [status] => 1
+                    [date_modified] => MongoDate Object
+                        (
+                            [sec] => 1555655365
+                            [usec] => 0
+                        )
+
+                    [date_added] => MongoDate Object
+                        (
+                            [sec] => 1543438975
+                            [usec] => 0
+                        )
+
+                    [category_description] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [name] => Categories
+                                    [description] => Browse by Category
+                                    [meta_title] => Browse by Category
+                                    [child_url] => mpos/product/categories
+                                    [meta_description] => 
+                                    [meta_keyword] => 
+                                )
+
+                        )
+
+                    [category_store] => Array
+                        (
+                            [0] => 0
+                        )
+
+                    [child_url] => 
+                )
+
+        )
+
+    [num_rows] => 3
+    [total_rows] => 0
+)
+

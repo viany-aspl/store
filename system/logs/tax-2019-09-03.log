@@ -1,0 +1,19 @@
+2019-09-03 10:03:26 - getTotal called in pos/tax
+2019-09-03 10:03:26 - Array
+(
+    [0] => Array
+        (
+            [code] => sub_total
+            [title] => Sub total
+            [text] => 951
+            [value] => 951.43
+            [sort_order] => 1
+        )
+
+)
+
+2019-09-03 10:03:26 - 951.42857142857
+2019-09-03 10:03:26 - Array
+(
+)
+

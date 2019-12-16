@@ -1,0 +1,374 @@
+2019-09-03 9:52:08 - addproductunverified called
+2019-09-03 9:52:08 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [ImageCount] => e6d1fddb49fe8ec10b97972c354f18ac
+    [Categoryid] => 819822f3303731fc83bb6ed610478c31
+    [Batch] => 13773d99df13fbd0e016cd9fbf861d26
+    [userId] => 6718f9dd327f24bf625ad466343773ac
+    [gst_change] => e6d1fddb49fe8ec10b97972c354f18ac
+    [ProductName] => ebfc727b03d62962f75e4f6be34f3db9
+    [manage_inv] => fcb9185886bc35ace8ee1e9ccfabf59f
+    [ProductQuantity] => e6d1fddb49fe8ec10b97972c354f18ac
+    [GstType] => 197c6ca8b5ca45b951332ca1cd32094f
+    [SKU] => 1b0941fdf4c21163a962365d1d87636e
+    [product_base_price] => 0c9b7f90ca46741560d7287800c833cf
+    [product_full_price] => 9a0db9c931432b53a887a087fd77a355
+    [P_Categoryid] => be958741deecb5ceb32b755d1dc88e43
+    [HstnCode] => 2fd9b6f3efae6e4ce98855ac0e0eb0b3
+)
+
+2019-09-03 9:52:08 - Array
+(
+    [route] => mpos/openretailer/addproductunverified
+)
+
+2019-09-03 9:52:08 - model
+2019-09-03 9:52:08 - Array
+(
+    [manage_inv] => false
+    [subtract] => 1
+    [PostedBy] => 851
+    [productname] => DemoProduct
+    [sku] => 199
+    [hstncode] => 30809910
+    [gsttype] => 16
+    [ImageCount] => 0
+    [category_id] => 44
+    [p_category_id] => 8
+    [store_id] => 541
+    [gst_change] => 0
+    [ProductQuantity] => 0
+    [product_full_price] => 3999.0
+    [product_base_price] => 3999
+    [user_category_id] => 0
+    [user_category_name] => 
+    [company_name] => 
+    [company_id] => 
+)
+
+2019-09-03 9:52:08 - in if
+2019-09-03 9:52:08 - Array
+(
+    [manage_inv] => false
+    [subtract] => 1
+    [PostedBy] => 851
+    [productname] => DemoProduct
+    [sku] => 199
+    [hstncode] => 30809910
+    [gsttype] => 16
+    [ImageCount] => 0
+    [category_id] => 44
+    [p_category_id] => 8
+    [store_id] => 541
+    [gst_change] => 0
+    [ProductQuantity] => 0
+    [product_full_price] => 3999.0
+    [product_base_price] => 3999
+    [user_category_id] => 0
+    [user_category_name] => 
+    [company_name] => 
+    [company_id] => 
+    [status] => 1
+)
+
+2019-09-03 9:52:08 - 3532
+2019-09-03 9:52:08 - input_array4
+2019-09-03 9:52:08 - Array
+(
+    [product_id] => 3532
+    [store_id] => 541
+    [manage_inv] => 1
+    [quantity] => 0
+    [store_price] => 3999
+    [store_tax_type] => 
+    [store_tax_amt] => 0
+    [MOD_DATE] => MongoDate Object
+        (
+            [sec] => 1567504328
+            [usec] => 0
+        )
+
+)
+
+2019-09-03 9:55:42 - addproductunverified called
+2019-09-03 9:55:42 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [ImageCount] => e6d1fddb49fe8ec10b97972c354f18ac
+    [Categoryid] => 819822f3303731fc83bb6ed610478c31
+    [Batch] => 13773d99df13fbd0e016cd9fbf861d26
+    [userId] => 6718f9dd327f24bf625ad466343773ac
+    [gst_change] => b7aefdb84de75f2c2fe57124859c2cad
+    [ProductName] => dc7d9e80757057b702c4f9c9b6d83e86
+    [manage_inv] => fcb9185886bc35ace8ee1e9ccfabf59f
+    [ProductQuantity] => e6d1fddb49fe8ec10b97972c354f18ac
+    [GstType] => 1392f4431dc4b2d247070a6d63af90d0
+    [SKU] => d4342cf4ad80b9bec66b266bdb6c73fa
+    [product_base_price] => f35378bcb3c6ed1d258eeb7456ab47ee
+    [product_full_price] => 501eca361d94a5d0afd4f078e4a05613
+    [P_Categoryid] => d4a800dc5b9375ef49824d5cf96480fb
+    [HstnCode] => 34de2e9614cbc82426362be2cf846a6a
+)
+
+2019-09-03 9:55:42 - Array
+(
+    [route] => mpos/openretailer/addproductunverified
+)
+
+2019-09-03 9:55:42 - model
+2019-09-03 9:55:42 - Array
+(
+    [manage_inv] => false
+    [subtract] => 1
+    [PostedBy] => 851
+    [productname] => MyProduct
+    [sku] => 90
+    [hstncode] => 31023000
+    [gsttype] => 12
+    [ImageCount] => 0
+    [category_id] => 44
+    [p_category_id] => 23
+    [store_id] => 541
+    [gst_change] => 1
+    [ProductQuantity] => 0
+    [product_full_price] => 3000.0
+    [product_base_price] => 3000
+    [user_category_id] => 0
+    [user_category_name] => 
+    [gsttypename] => GST@12%
+    [company_name] => 
+    [company_id] => 
+)
+
+2019-09-03 9:55:42 - in if
+2019-09-03 9:55:42 - Array
+(
+    [manage_inv] => false
+    [subtract] => 1
+    [PostedBy] => 851
+    [productname] => MyProduct
+    [sku] => 90
+    [hstncode] => 31023000
+    [gsttype] => 12
+    [ImageCount] => 0
+    [category_id] => 44
+    [p_category_id] => 23
+    [store_id] => 541
+    [gst_change] => 1
+    [ProductQuantity] => 0
+    [product_full_price] => 3000.0
+    [product_base_price] => 3000
+    [user_category_id] => 0
+    [user_category_name] => 
+    [gsttypename] => GST@12%
+    [company_name] => 
+    [company_id] => 
+    [status] => 1
+)
+
+2019-09-03 9:55:42 - 3533
+2019-09-03 9:55:42 - input_array4
+2019-09-03 9:55:42 - Array
+(
+    [product_id] => 3533
+    [store_id] => 541
+    [manage_inv] => 1
+    [quantity] => 0
+    [store_price] => 3000
+    [store_tax_type] => GST@12%
+    [store_tax_amt] => 0
+    [MOD_DATE] => MongoDate Object
+        (
+            [sec] => 1567504542
+            [usec] => 0
+        )
+
+)
+
+2019-09-03 9:59:44 - addproductunverified called
+2019-09-03 9:59:44 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [ImageCount] => e6d1fddb49fe8ec10b97972c354f18ac
+    [Categoryid] => 819822f3303731fc83bb6ed610478c31
+    [Batch] => 13773d99df13fbd0e016cd9fbf861d26
+    [userId] => 6718f9dd327f24bf625ad466343773ac
+    [gst_change] => e6d1fddb49fe8ec10b97972c354f18ac
+    [ProductName] => 036508373284bc0abe6bb82535b21a78
+    [manage_inv] => fcb9185886bc35ace8ee1e9ccfabf59f
+    [ProductQuantity] => e6d1fddb49fe8ec10b97972c354f18ac
+    [GstType] => 2adf745071110d5124fa70ade5ef86bb
+    [SKU] => 809a0691453cf8b19a5b2a2ca7c5fe6f
+    [product_base_price] => 75f1e48c6f7ad024e9970a0f4c1ced807199512bcf85166559f5f0032368051e
+    [product_full_price] => 8a3faaa1b61eece67fd3061f80d76f51
+    [P_Categoryid] => cb30f75b94cebe5761065bf0ba51b268
+    [HstnCode] => 34de2e9614cbc82426362be2cf846a6a
+)
+
+2019-09-03 9:59:44 - Array
+(
+    [route] => mpos/openretailer/addproductunverified
+)
+
+2019-09-03 9:59:44 - model
+2019-09-03 9:59:44 - Array
+(
+    [manage_inv] => false
+    [subtract] => 1
+    [PostedBy] => 851
+    [productname] => my
+    [sku] => 99
+    [hstncode] => 31023000
+    [gsttype] => 14
+    [ImageCount] => 0
+    [category_id] => 44
+    [p_category_id] => 22
+    [store_id] => 541
+    [gst_change] => 0
+    [ProductQuantity] => 0
+    [product_full_price] => 999.0
+    [product_base_price] => 951.4285714285714
+    [user_category_id] => 0
+    [user_category_name] => 
+    [company_name] => 
+    [company_id] => 
+)
+
+2019-09-03 9:59:44 - in if
+2019-09-03 9:59:44 - Array
+(
+    [manage_inv] => false
+    [subtract] => 1
+    [PostedBy] => 851
+    [productname] => my
+    [sku] => 99
+    [hstncode] => 31023000
+    [gsttype] => 14
+    [ImageCount] => 0
+    [category_id] => 44
+    [p_category_id] => 22
+    [store_id] => 541
+    [gst_change] => 0
+    [ProductQuantity] => 0
+    [product_full_price] => 999.0
+    [product_base_price] => 951.4285714285714
+    [user_category_id] => 0
+    [user_category_name] => 
+    [company_name] => 
+    [company_id] => 
+    [status] => 1
+)
+
+2019-09-03 9:59:44 - 3534
+2019-09-03 9:59:44 - input_array4
+2019-09-03 9:59:44 - Array
+(
+    [product_id] => 3534
+    [store_id] => 541
+    [manage_inv] => 1
+    [quantity] => 0
+    [store_price] => 951.42857142857
+    [store_tax_type] => 
+    [store_tax_amt] => 47.571428571429
+    [MOD_DATE] => MongoDate Object
+        (
+            [sec] => 1567504784
+            [usec] => 0
+        )
+
+)
+
+2019-09-03 11:23:32 - addproductunverified called
+2019-09-03 11:23:32 - Array
+(
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [ImageCount] => e6d1fddb49fe8ec10b97972c354f18ac
+    [Categoryid] => 819822f3303731fc83bb6ed610478c31
+    [Batch] => 13773d99df13fbd0e016cd9fbf861d26
+    [userId] => 6718f9dd327f24bf625ad466343773ac
+    [gst_change] => e6d1fddb49fe8ec10b97972c354f18ac
+    [ProductName] => b8aca23dbcb7f1d9274919092f3e9f4b
+    [manage_inv] => fcb9185886bc35ace8ee1e9ccfabf59f
+    [ProductQuantity] => e6d1fddb49fe8ec10b97972c354f18ac
+    [GstType] => 2adf745071110d5124fa70ade5ef86bb
+    [SKU] => a3a972864405c4e579929e22e19d9b73
+    [product_base_price] => 42b8371dd15b762922b04dd1a4c3dede62af7650c25964041a1f83d29e1c4852
+    [product_full_price] => e5387aa8c8bf77c077f4aed781cef48c
+    [P_Categoryid] => b877fef0ff3df29920ef7f9ee3567395
+    [HstnCode] => 34de2e9614cbc82426362be2cf846a6a
+)
+
+2019-09-03 11:23:32 - Array
+(
+    [route] => mpos/openretailer/addproductunverified
+)
+
+2019-09-03 11:23:32 - model
+2019-09-03 11:23:32 - Array
+(
+    [manage_inv] => false
+    [subtract] => 1
+    [PostedBy] => 851
+    [productname] => Demo
+    [sku] => W
+    [hstncode] => 31023000
+    [gsttype] => 14
+    [ImageCount] => 0
+    [category_id] => 44
+    [p_category_id] => 6
+    [store_id] => 541
+    [gst_change] => 0
+    [ProductQuantity] => 0
+    [product_full_price] => 454.0
+    [product_base_price] => 432.3809523809524
+    [user_category_id] => 0
+    [user_category_name] => 
+    [company_name] => 
+    [company_id] => 
+)
+
+2019-09-03 11:23:32 - in if
+2019-09-03 11:23:32 - Array
+(
+    [manage_inv] => false
+    [subtract] => 1
+    [PostedBy] => 851
+    [productname] => Demo
+    [sku] => W
+    [hstncode] => 31023000
+    [gsttype] => 14
+    [ImageCount] => 0
+    [category_id] => 44
+    [p_category_id] => 6
+    [store_id] => 541
+    [gst_change] => 0
+    [ProductQuantity] => 0
+    [product_full_price] => 454.0
+    [product_base_price] => 432.3809523809524
+    [user_category_id] => 0
+    [user_category_name] => 
+    [company_name] => 
+    [company_id] => 
+    [status] => 1
+)
+
+2019-09-03 11:23:32 - 3535
+2019-09-03 11:23:32 - input_array4
+2019-09-03 11:23:32 - Array
+(
+    [product_id] => 3535
+    [store_id] => 541
+    [manage_inv] => 1
+    [quantity] => 0
+    [store_price] => 432.38095238095
+    [store_tax_type] => 
+    [store_tax_amt] => 21.619047619048
+    [MOD_DATE] => MongoDate Object
+        (
+            [sec] => 1567509812
+            [usec] => 0
+        )
+
+)
+

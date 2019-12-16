@@ -1,0 +1,168 @@
+2019-09-03 10:03:26 - Array
+(
+)
+
+2019-09-03 10:03:26 - Array
+(
+    [language] => en
+    [currency] => 
+    [cart] => Array
+        (
+            [YTo0OntzOjEwOiJwcm9kdWN0X2lkIjtpOjM1MzQ7czo4OiJiaWxsdHlwZSI7aToxO3M6NToicHJpY2UiO2Q6OTUxLjQyODU3MTQyODU2OTk3O3M6MTE6ImNhdGVnb3J5X2lkIjtpOjA7fQ==] => 1
+        )
+
+    [user_id] => 851
+    [cid] => 108958
+    [redeem_points] => 0.0
+    [customer_id] => 108958
+)
+
+2019-09-03 10:03:26 - 
+2019-09-03 10:03:26 - 3534
+2019-09-03 10:03:26 - billtype
+2019-09-03 10:03:26 - 1
+2019-09-03 10:03:26 - Array
+(
+    [product_id] => 3534
+    [opst.store_id] => 0
+)
+
+2019-09-03 10:03:26 - stdClass Object
+(
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+    [num_rows] => 2262
+    [total_rows] => 2262
+)
+
+2019-09-03 10:03:26 - Array
+(
+    [YTo0OntzOjEwOiJwcm9kdWN0X2lkIjtpOjM1MzQ7czo4OiJiaWxsdHlwZSI7aToxO3M6NToicHJpY2UiO2Q6OTUxLjQyODU3MTQyODU2OTk3O3M6MTE6ImNhdGVnb3J5X2lkIjtpOjA7fQ==] => Array
+        (
+            [key] => YTo0OntzOjEwOiJwcm9kdWN0X2lkIjtpOjM1MzQ7czo4OiJiaWxsdHlwZSI7aToxO3M6NToicHJpY2UiO2Q6OTUxLjQyODU3MTQyODU2OTk3O3M6MTE6ImNhdGVnb3J5X2lkIjtpOjA7fQ==
+            [product_id] => 
+            [name] => 
+            [model] => 
+            [shipping] => 
+            [image] => 
+            [category_id] => 0
+            [option] => Array
+                (
+                )
+
+            [download] => 
+            [quantity] => 1
+            [minimum] => 
+            [subtract] => 
+            [stock] => 
+            [price] => 951.42857142857
+            [total] => 951.42857142857
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 
+            [weight] => 0
+            [weight_class_id] => 
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 
+            [recurring] => 
+        )
+
+)
+
+2019-09-03 10:03:26 - Array
+(
+    [YTo0OntzOjEwOiJwcm9kdWN0X2lkIjtpOjM1MzQ7czo4OiJiaWxsdHlwZSI7aToxO3M6NToicHJpY2UiO2Q6OTUxLjQyODU3MTQyODU2OTk3O3M6MTE6ImNhdGVnb3J5X2lkIjtpOjA7fQ==] => Array
+        (
+            [key] => YTo0OntzOjEwOiJwcm9kdWN0X2lkIjtpOjM1MzQ7czo4OiJiaWxsdHlwZSI7aToxO3M6NToicHJpY2UiO2Q6OTUxLjQyODU3MTQyODU2OTk3O3M6MTE6ImNhdGVnb3J5X2lkIjtpOjA7fQ==
+            [product_id] => 
+            [name] => 
+            [model] => 
+            [shipping] => 
+            [image] => 
+            [category_id] => 0
+            [option] => Array
+                (
+                )
+
+            [download] => 
+            [quantity] => 1
+            [minimum] => 
+            [subtract] => 
+            [stock] => 
+            [price] => 951.42857142857
+            [total] => 951.42857142857
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 
+            [weight] => 0
+            [weight_class_id] => 
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 
+            [recurring] => 
+        )
+
+)
+
+2019-09-03 10:03:26 - Array
+(
+    [language] => en
+    [currency] => 
+    [cart] => Array
+        (
+            [YTo0OntzOjEwOiJwcm9kdWN0X2lkIjtpOjM1MzQ7czo4OiJiaWxsdHlwZSI7aToxO3M6NToicHJpY2UiO2Q6OTUxLjQyODU3MTQyODU2OTk3O3M6MTE6ImNhdGVnb3J5X2lkIjtpOjA7fQ==] => 1
+        )
+
+    [user_id] => 851
+    [cid] => 108958
+    [redeem_points] => 0.0
+    [customer_id] => 108958
+    [discount] => 0.0
+)
+
+2019-09-03 10:03:26 - 
+2019-09-03 10:03:26 - Array
+(
+    [YTo0OntzOjEwOiJwcm9kdWN0X2lkIjtpOjM1MzQ7czo4OiJiaWxsdHlwZSI7aToxO3M6NToicHJpY2UiO2Q6OTUxLjQyODU3MTQyODU2OTk3O3M6MTE6ImNhdGVnb3J5X2lkIjtpOjA7fQ==] => Array
+        (
+            [key] => YTo0OntzOjEwOiJwcm9kdWN0X2lkIjtpOjM1MzQ7czo4OiJiaWxsdHlwZSI7aToxO3M6NToicHJpY2UiO2Q6OTUxLjQyODU3MTQyODU2OTk3O3M6MTE6ImNhdGVnb3J5X2lkIjtpOjA7fQ==
+            [product_id] => 
+            [name] => 
+            [model] => 
+            [shipping] => 
+            [image] => 
+            [category_id] => 0
+            [option] => Array
+                (
+                )
+
+            [download] => 
+            [quantity] => 1
+            [minimum] => 
+            [subtract] => 
+            [stock] => 
+            [price] => 951.42857142857
+            [total] => 951.42857142857
+            [reward] => 0
+            [points] => 0
+            [tax_class_id] => 
+            [weight] => 0
+            [weight_class_id] => 
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 
+            [recurring] => 
+        )
+
+)
+

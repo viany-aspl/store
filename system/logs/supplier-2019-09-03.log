@@ -1,0 +1,510 @@
+2019-09-03 11:58:20 - getlist called
+2019-09-03 11:58:20 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 11:58:20 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 11:58:57 - update_supplier called
+2019-09-03 11:58:57 - Array
+(
+    [bankaddress] => a441e67ade15241a23e862d32d0ee823
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [supplier_group_name] => d3ce3412d5a287250c1994fabd71b3ef5c94a9e32e030d8d7a520ca1c77ed408
+    [group_id] => 2c25f51d1c1180de08f7af66422c06dc
+    [supplier_group_id] => ae383e324303fd3ab6ea0f8a3948ff28
+    [ifsc] => b35d918ecee6afcf66d741e180108505
+    [email] => 9c1d8c40e164964e43757eb82f08447c93143001e8f860703ae99057b46df3d0
+    [pan] => 634bf135686bfa74b36d55b3edbecbfc
+    [supplier_id] => ea81ddabfdcb0434ac99584baf2a84c2
+    [firstname] => e13f59f76c2d187ba97e9aad80711a4c
+    [bid] => 709f831168ee98f1945013fa65812488
+    [gst] => 5bf469c0c3e300a44c0f6a2ca54b9dff
+    [district_id] => 6a7125b5befe7c586745e7b31745a111
+    [state_id] => 80d85a9504fc2092bfe936464bc583a0
+    [location] => a441e67ade15241a23e862d32d0ee823
+    [bank] => db46a12b91eec63089c3e4d3e8a35ec0
+    [telephone] => 04346aed77b2472f764e29db9a4ad892
+    [state_name] => 159fcdd226207c15398f20d61e59171a
+    [district] => 91f7fd3116da635c6b46b57d1b4e8a07
+    [lastname] => cf8def9c3171b16e90ba7919ccb7708a
+    [account] => 8b2412c9fa482eda7f0f86c42c348121
+    [user_id] => 6718f9dd327f24bf625ad466343773ac
+)
+
+2019-09-03 11:58:57 - Array
+(
+    [store_id] => Array
+        (
+            [0] => 541
+        )
+
+    [supplier_group_name] => Basic Nutrition Solutions
+    [supplier_group_id] => 19
+    [email] => test12@gmail.com
+    [pan] => 6776678GHGH
+    [bid] => 3
+    [gst] => 989898
+    [district_id] => 123
+    [state_id] => 9
+    [location] => Delhi
+    [telephone] => 7065196342
+    [state_name] => UTTAR PRADESH
+    [district] => AZAMGARH
+    [user_id] => 851
+    [first_name] => MyStore1
+    [last_name] => Tushar
+    [ACC_ID] => 324343197632
+    [ADDRESS] => Delhi
+    [BANK_NAME] => 0
+    [IFSC_CODE] => 0
+    [status] => 1
+    [fax] => AZAMGARH
+    [pre_mongified_id] => 104
+    [user_group_id] => 11
+    [delete_bit] => 0
+)
+
+2019-09-03 11:58:57 - First name can not be empty
+2019-09-03 11:59:08 - getlist called
+2019-09-03 11:59:08 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 5e9470fc68748c382703f50d60900d5a
+)
+
+2019-09-03 11:59:08 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 11:59:31 - getlist called
+2019-09-03 11:59:31 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 5e9470fc68748c382703f50d60900d5a
+)
+
+2019-09-03 11:59:31 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 11:59:46 - getlist called
+2019-09-03 11:59:46 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 5e9470fc68748c382703f50d60900d5a
+)
+
+2019-09-03 11:59:46 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:02:08 - add_supplier called
+2019-09-03 12:02:08 - Array
+(
+    [bankaddress] => a441e67ade15241a23e862d32d0ee823
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [supplier_group_name] => d3ce3412d5a287250c1994fabd71b3ef5c94a9e32e030d8d7a520ca1c77ed408
+    [group_id] => 2c25f51d1c1180de08f7af66422c06dc
+    [supplier_group_id] => ae383e324303fd3ab6ea0f8a3948ff28
+    [ifsc] => 442ef7ceca528e244767888fa794215e
+    [email] => d1bc043b3c0dfdd1b3f39807a2335a0c
+    [pan] => 632915534d5074217f0f26efec5061db
+    [firstname] => dcb04fe7f2da4b89959ba1358cd1def9
+    [bid] => be958741deecb5ceb32b755d1dc88e43
+    [gst] => 802135539c97f4fcbcb6bd5aafc893d3
+    [district_id] => 6a7125b5befe7c586745e7b31745a111
+    [state_id] => 80d85a9504fc2092bfe936464bc583a0
+    [location] => d031e18d412b0b79d53e9bbfd10db5b9
+    [bank] => 60028a753e4fb0baff0ff0d1ef12ad4d
+    [telephone] => 224ffb308f0f2c87c21de4469a8d5961
+    [state_name] => 159fcdd226207c15398f20d61e59171a
+    [district] => 91f7fd3116da635c6b46b57d1b4e8a07
+    [lastname] => 272652d0a4f299d5678e3a38b4233ded
+    [account] => eff2b3bed1eeca71e1b6ccf0c8cebdb3
+    [user_id] => 6718f9dd327f24bf625ad466343773ac
+)
+
+2019-09-03 12:02:08 - Array
+(
+    [bankaddress] => Delhi
+    [store_id] => 541
+    [supplier_group_name] => Basic Nutrition Solutions
+    [group_id] => 11
+    [supplier_group_id] => 19
+    [ifsc] => IND00003
+    [email] => r@mail.com
+    [pan] => 232FSaded
+    [firstname] => Company
+    [bid] => 8
+    [gst] => 9095412
+    [district_id] => 123
+    [state_id] => 9
+    [location] => delhi
+    [bank] => Andhra Bank
+    [telephone] => 1555512123
+    [state_name] => UTTAR PRADESH
+    [district] => AZAMGARH
+    [lastname] => test
+    [account] => 1111
+    [user_id] => 851
+    [fax] => AZAMGARH
+)
+
+2019-09-03 12:02:08 - check supplier
+2019-09-03 12:02:08 - in model get_supplier_by_gst
+2019-09-03 12:02:08 - 9095412
+2019-09-03 12:02:08 - Array
+(
+    [gst] => 9095412
+)
+
+2019-09-03 12:02:08 - stdClass Object
+(
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+    [num_rows] => 0
+    [total_rows] => 0
+)
+
+2019-09-03 12:02:08 - 1
+2019-09-03 12:02:11 - getlist called
+2019-09-03 12:02:11 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 5e9470fc68748c382703f50d60900d5a
+)
+
+2019-09-03 12:02:11 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:04:18 - getlist called
+2019-09-03 12:04:18 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 709f831168ee98f1945013fa65812488
+)
+
+2019-09-03 12:04:18 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:04:45 - getlist called
+2019-09-03 12:04:45 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 709f831168ee98f1945013fa65812488
+)
+
+2019-09-03 12:04:45 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:05:26 - getlist called
+2019-09-03 12:05:26 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 709f831168ee98f1945013fa65812488
+)
+
+2019-09-03 12:05:26 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:06:17 - getlist called
+2019-09-03 12:06:17 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 709f831168ee98f1945013fa65812488
+)
+
+2019-09-03 12:06:17 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:07:14 - getlist called
+2019-09-03 12:07:14 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 709f831168ee98f1945013fa65812488
+)
+
+2019-09-03 12:07:14 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:07:38 - getlist called
+2019-09-03 12:07:38 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 12:07:38 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:08:24 - getlist called
+2019-09-03 12:08:24 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 709f831168ee98f1945013fa65812488
+)
+
+2019-09-03 12:08:24 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:09:06 - getlist called
+2019-09-03 12:09:06 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 12:09:06 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:09:28 - getlist called
+2019-09-03 12:09:28 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 12:09:28 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:10:36 - getlist called
+2019-09-03 12:10:36 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 12:10:36 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:12:23 - getlist called
+2019-09-03 12:12:23 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 709f831168ee98f1945013fa65812488
+)
+
+2019-09-03 12:12:23 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:13:57 - getlist called
+2019-09-03 12:13:57 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 12:13:57 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:17:21 - getlist called
+2019-09-03 12:17:21 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 709f831168ee98f1945013fa65812488
+)
+
+2019-09-03 12:17:21 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:17:48 - getlist called
+2019-09-03 12:17:48 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 709f831168ee98f1945013fa65812488
+)
+
+2019-09-03 12:17:48 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:17:59 - getlist called
+2019-09-03 12:17:59 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 709f831168ee98f1945013fa65812488
+)
+
+2019-09-03 12:17:59 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:18:11 - getlist called
+2019-09-03 12:18:11 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 709f831168ee98f1945013fa65812488
+)
+
+2019-09-03 12:18:11 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+
+2019-09-03 12:18:39 - getlist called
+2019-09-03 12:18:39 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [name] => 
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [page] => 709f831168ee98f1945013fa65812488
+)
+
+2019-09-03 12:18:39 - Array
+(
+    [start] => 
+    [limit] => 
+    [store_id] => 541
+    [name] => 
+)
+

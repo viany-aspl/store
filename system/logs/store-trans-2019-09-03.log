@@ -1,0 +1,20 @@
+2019-09-03 10:03:27 - Array
+(
+    [amount] => 951.42857142857
+    [store_id] => 541
+    [user_id] => 851
+    [tr_type] => CR
+    [order_id] => 14221
+    [payment_method] => Cash
+    [total_amount] => 951.42857142857
+    [updated_credit] => 
+    [updated_cash] => 
+    [remarks] => 
+    [trans_time] => MongoDate Object
+        (
+            [sec] => 1567505007
+            [usec] => 0
+        )
+
+)
+

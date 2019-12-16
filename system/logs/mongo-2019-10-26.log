@@ -1,0 +1,56 @@
+2019-10-26 9:55:11 - 
+2019-10-26 9:55:11 - select call
+2019-10-26 9:55:11 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-10-26 9:55:11 - 
+2019-10-26 9:55:11 - select call
+2019-10-26 9:55:11 - Array
+(
+)
+
+2019-10-26 9:55:11 - 
+2019-10-26 9:55:11 - select call
+2019-10-26 9:55:11 - Array
+(
+)
+
+2019-10-26 9:55:11 - pass_array
+2019-10-26 9:55:11 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-10-26 9:55:11 - count_array
+2019-10-26 9:55:11 - []
+2019-10-26 9:55:11 - pass_array
+2019-10-26 9:55:11 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-10-26 9:55:11 - count_array
+2019-10-26 9:55:11 - []
+2019-10-26 9:55:11 - 
+2019-10-26 9:55:11 - select call
+2019-10-26 9:55:11 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-10-26 9:55:11 - 
+2019-10-26 9:55:11 - select call
+2019-10-26 9:55:11 - Array
+(
+)
+

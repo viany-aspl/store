@@ -1,0 +1,62 @@
+2019-09-21 7:16:50 - in model
+2019-09-21 7:16:50 - Array
+(
+    [filter_date_start] => 2019-09-01
+    [filter_date_end] => 2019-09-21
+    [filter_supplier] => 
+    [filter_status] => 
+    [start] => 0
+    [limit] => 20
+)
+
+2019-09-21 7:16:50 - Array
+(
+    [create_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567296000
+                    [usec] => 0
+                )
+
+            [$lte] => MongoDate Object
+                (
+                    [sec] => 1569110400
+                    [usec] => 0
+                )
+
+        )
+
+)
+
+2019-09-21 7:23:28 - in model
+2019-09-21 7:23:28 - Array
+(
+    [filter_date_start] => 2019-09-01
+    [filter_date_end] => 2019-09-21
+    [filter_supplier] => 
+    [filter_status] => 
+    [start] => 0
+    [limit] => 20
+)
+
+2019-09-21 7:23:28 - Array
+(
+    [create_date] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567296000
+                    [usec] => 0
+                )
+
+            [$lte] => MongoDate Object
+                (
+                    [sec] => 1569110400
+                    [usec] => 0
+                )
+
+        )
+
+)
+

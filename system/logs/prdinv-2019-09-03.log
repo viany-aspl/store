@@ -1,0 +1,377 @@
+2019-09-03 9:42:19 - in model for getTotalInventoryAmount
+2019-09-03 9:42:19 - generated where 
+2019-09-03 9:42:19 - Array
+(
+    [store_id] => 541
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [mitra_quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-03 9:45:45 - in model for getTotalInventoryAmount
+2019-09-03 9:45:45 - generated where 
+2019-09-03 9:45:45 - Array
+(
+    [store_id] => 541
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [mitra_quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-03 9:52:31 - in model for getTotalInventoryAmount
+2019-09-03 9:52:31 - generated where 
+2019-09-03 9:52:31 - Array
+(
+    [store_id] => 541
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [mitra_quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-03 9:55:49 - in model for getTotalInventoryAmount
+2019-09-03 9:55:49 - generated where 
+2019-09-03 9:55:49 - Array
+(
+    [store_id] => 541
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [mitra_quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-03 9:57:46 - in model for getTotalInventoryAmount
+2019-09-03 9:57:46 - generated where 
+2019-09-03 9:57:46 - Array
+(
+    [store_id] => 541
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [mitra_quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-03 9:59:50 - in model for getTotalInventoryAmount
+2019-09-03 9:59:50 - generated where 
+2019-09-03 9:59:50 - Array
+(
+    [store_id] => 541
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [mitra_quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-03 10:14:39 - in model for getTotalInventoryAmount
+2019-09-03 10:14:39 - generated where 
+2019-09-03 10:14:39 - Array
+(
+    [store_id] => 541
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [mitra_quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-03 10:14:43 - in model for getTotalInventoryAmount
+2019-09-03 10:14:43 - generated where 
+2019-09-03 10:14:43 - Array
+(
+    [store_id] => 541
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [mitra_quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-03 10:14:46 - in model for getTotalInventoryAmount
+2019-09-03 10:14:46 - generated where 
+2019-09-03 10:14:46 - Array
+(
+    [store_id] => 541
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [mitra_quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-03 11:22:55 - in model for getTotalInventoryAmount
+2019-09-03 11:22:55 - generated where 
+2019-09-03 11:22:55 - Array
+(
+    [store_id] => 541
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [mitra_quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-03 11:23:34 - in model for getTotalInventoryAmount
+2019-09-03 11:23:34 - generated where 
+2019-09-03 11:23:34 - Array
+(
+    [store_id] => 541
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [mitra_quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-03 11:34:13 - in model for getTotalInventoryAmount
+2019-09-03 11:34:13 - generated where 
+2019-09-03 11:34:13 - Array
+(
+    [store_id] => 541
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [mitra_quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+        )
+
+)
+
+2019-09-03 11:58:16 - in model for getTotalInventoryAmount
+2019-09-03 11:58:16 - generated where 
+2019-09-03 11:58:16 - Array
+(
+    [store_id] => 541
+    [$or] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [mitra_quantity] => Array
+                        (
+                            [$gt] => 0
+                        )
+
+                )
+
+        )
+
+)
+

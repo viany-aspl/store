@@ -1,0 +1,73 @@
+2019-09-03 10:03:27 - stdClass Object
+(
+    [row] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5d6e39907f8b9a771e320b7e
+                )
+
+            [product_id] => 3534
+            [store_id] => 541
+            [manage_inv] => 1
+            [quantity] => 0
+            [store_price] => 951.42857142857
+            [store_tax_type] => 
+            [store_tax_amt] => 47.571428571429
+            [MOD_DATE] => MongoDate Object
+                (
+                    [sec] => 1567504784
+                    [usec] => 0
+                )
+
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5d6e39907f8b9a771e320b7e
+                        )
+
+                    [product_id] => 3534
+                    [store_id] => 541
+                    [manage_inv] => 1
+                    [quantity] => 0
+                    [store_price] => 951.42857142857
+                    [store_tax_type] => 
+                    [store_tax_amt] => 47.571428571429
+                    [MOD_DATE] => MongoDate Object
+                        (
+                            [sec] => 1567504784
+                            [usec] => 0
+                        )
+
+                )
+
+        )
+
+    [num_rows] => 1
+    [total_rows] => 0
+)
+
+2019-09-03 10:03:27 - Array
+(
+    [store_id] => 541
+    [product_id] => 3534
+    [quantity] => 1
+    [order_id] => 14221
+    [cr_db] => DB
+    [trans_type] => OPEN BILLING
+    [current_quantity] => 0
+    [current_mitra_quantity] => 0
+    [billtype] => 1
+    [trans_time] => MongoDate Object
+        (
+            [sec] => 1567505007
+            [usec] => 0
+        )
+
+)
+

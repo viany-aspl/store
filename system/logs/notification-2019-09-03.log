@@ -1,0 +1,87 @@
+2019-09-03 11:23:41 - getnotifications called
+2019-09-03 11:23:41 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+)
+
+2019-09-03 11:23:41 - Array
+(
+    [route] => mpos/customer/getnotifications
+)
+
+2019-09-03 16:53:41 - 
+2019-09-03 16:53:41 - 851
+2019-09-03 16:53:41 - getnotifications called in model
+2019-09-03 16:53:41 - Array
+(
+    [validDate] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567449000
+                    [usec] => 0
+                )
+
+        )
+
+    [userID] => 851
+)
+
+2019-09-03 11:23:41 - getnotifications called
+2019-09-03 11:23:41 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+)
+
+2019-09-03 11:23:41 - Array
+(
+    [route] => mpos/customer/getnotifications
+)
+
+2019-09-03 16:53:41 - 
+2019-09-03 16:53:41 - 851
+2019-09-03 16:53:41 - getnotifications called in model
+2019-09-03 16:53:41 - Array
+(
+    [validDate] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567449000
+                    [usec] => 0
+                )
+
+        )
+
+    [userID] => 851
+)
+
+2019-09-03 11:23:44 - getnotifications called
+2019-09-03 11:23:44 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+)
+
+2019-09-03 11:23:44 - Array
+(
+    [route] => mpos/customer/getnotifications
+)
+
+2019-09-03 16:53:44 - 
+2019-09-03 16:53:44 - 851
+2019-09-03 16:53:44 - getnotifications called in model
+2019-09-03 16:53:44 - Array
+(
+    [validDate] => Array
+        (
+            [$gte] => MongoDate Object
+                (
+                    [sec] => 1567449000
+                    [usec] => 0
+                )
+
+        )
+
+    [userID] => 851
+)
+

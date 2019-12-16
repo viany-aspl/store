@@ -1,0 +1,176 @@
+2019-09-21 6:08:02 - in model getProducts for 
+2019-09-21 6:08:02 - Array
+(
+    [filter_name] => dfh
+    [filter_tag] => dfh
+    [filter_description] => 
+    [filter_category_id] => 0
+    [filter_sub_category] => 
+    [sort] => p.sort_order
+    [order] => ASC
+    [start] => 0
+    [limit] => 
+)
+
+2019-09-21 6:08:02 - generated where in model
+2019-09-21 6:08:02 - Array
+(
+    [status] => 1
+    [pd.store_id] => 0
+)
+
+2019-09-21 6:08:02 - {"status":true,"pd.store_id":0}
+2019-09-21 6:15:51 - in model getProducts for 
+2019-09-21 6:15:51 - Array
+(
+    [filter_name] => s
+    [filter_tag] => s
+    [filter_description] => 
+    [filter_category_id] => 0
+    [filter_sub_category] => 
+    [sort] => p.sort_order
+    [order] => ASC
+    [start] => 0
+    [limit] => 
+)
+
+2019-09-21 6:15:51 - generated where in model
+2019-09-21 6:15:51 - Array
+(
+    [status] => 1
+    [pd.store_id] => 0
+)
+
+2019-09-21 6:15:51 - {"status":true,"pd.store_id":0}
+2019-09-21 6:16:17 - in model getProducts for 
+2019-09-21 6:16:17 - Array
+(
+    [filter_name] => s
+    [filter_tag] => s
+    [filter_description] => 
+    [filter_category_id] => 0
+    [filter_sub_category] => 
+    [sort] => p.sort_order
+    [order] => ASC
+    [start] => 0
+    [limit] => 
+)
+
+2019-09-21 6:16:17 - generated where in model
+2019-09-21 6:16:17 - Array
+(
+    [status] => 1
+    [pd.store_id] => 0
+)
+
+2019-09-21 6:16:17 - {"status":true,"pd.store_id":0}
+2019-09-21 6:16:45 - in model getProducts for 
+2019-09-21 6:16:45 - Array
+(
+    [filter_name] => s
+    [filter_tag] => s
+    [filter_description] => 
+    [filter_category_id] => 0
+    [filter_sub_category] => 
+    [sort] => p.sort_order
+    [order] => ASC
+    [start] => 0
+    [limit] => 
+)
+
+2019-09-21 6:16:45 - generated where in model
+2019-09-21 6:16:45 - Array
+(
+    [status] => 1
+    [pd.store_id] => 0
+)
+
+2019-09-21 6:16:45 - {"status":true,"pd.store_id":0}
+2019-09-21 6:16:54 - in model getProducts for 
+2019-09-21 6:16:54 - Array
+(
+    [filter_name] => u
+    [filter_tag] => u
+    [filter_description] => 
+    [filter_category_id] => 0
+    [filter_sub_category] => 
+    [sort] => p.sort_order
+    [order] => ASC
+    [start] => 0
+    [limit] => 
+)
+
+2019-09-21 6:16:54 - generated where in model
+2019-09-21 6:16:54 - Array
+(
+    [status] => 1
+    [pd.store_id] => 0
+)
+
+2019-09-21 6:16:54 - {"status":true,"pd.store_id":0}
+2019-09-21 6:17:00 - in model getProducts for 
+2019-09-21 6:17:00 - Array
+(
+    [filter_name] => utyyyyyyyyyyyy
+    [filter_tag] => utyyyyyyyyyyyy
+    [filter_description] => 
+    [filter_category_id] => 0
+    [filter_sub_category] => 
+    [sort] => p.sort_order
+    [order] => ASC
+    [start] => 0
+    [limit] => 
+)
+
+2019-09-21 6:17:00 - generated where in model
+2019-09-21 6:17:00 - Array
+(
+    [status] => 1
+    [pd.store_id] => 0
+)
+
+2019-09-21 6:17:00 - {"status":true,"pd.store_id":0}
+2019-09-21 6:17:04 - in model getProducts for 
+2019-09-21 6:17:04 - Array
+(
+    [filter_name] => utyyyyyyyyyyyy
+    [filter_tag] => utyyyyyyyyyyyy
+    [filter_description] => 
+    [filter_category_id] => 0
+    [filter_sub_category] => 
+    [sort] => p.sort_order
+    [order] => ASC
+    [start] => 0
+    [limit] => 
+)
+
+2019-09-21 6:17:04 - generated where in model
+2019-09-21 6:17:04 - Array
+(
+    [status] => 1
+    [pd.store_id] => 0
+)
+
+2019-09-21 6:17:04 - {"status":true,"pd.store_id":0}
+2019-09-21 6:18:28 - in model getProducts for 
+2019-09-21 6:18:28 - Array
+(
+    [filter_name] => sdff
+    [filter_tag] => sdff
+    [filter_description] => 
+    [filter_category_id] => 0
+    [filter_sub_category] => 
+    [sort] => p.sort_order
+    [order] => ASC
+    [start] => 0
+    [limit] => 
+)
+
+2019-09-21 6:18:28 - generated where in model
+2019-09-21 6:18:28 - Array
+(
+    [status] => 1
+    [pd.store_id] => 0
+)
+
+2019-09-21 6:18:28 - {"status":true,"pd.store_id":0}

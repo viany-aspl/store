@@ -1,0 +1,418 @@
+2019-12-05 6:44:01 - 
+2019-12-05 6:44:01 - select call
+2019-12-05 6:44:01 - Array
+(
+)
+
+2019-12-05 6:44:01 - 
+2019-12-05 6:44:01 - select call
+2019-12-05 6:44:01 - Array
+(
+)
+
+2019-12-05 6:44:01 - pass_array
+2019-12-05 6:44:01 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 6:44:01 - count_array
+2019-12-05 6:44:01 - []
+2019-12-05 6:44:02 - 
+2019-12-05 6:44:02 - select call
+2019-12-05 6:44:02 - Array
+(
+)
+
+2019-12-05 6:44:07 - 
+2019-12-05 6:44:07 - select call
+2019-12-05 6:44:07 - Array
+(
+)
+
+2019-12-05 6:44:07 - 
+2019-12-05 6:44:07 - select call
+2019-12-05 6:44:07 - Array
+(
+)
+
+2019-12-05 6:44:07 - pass_array
+2019-12-05 6:44:07 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 6:44:07 - count_array
+2019-12-05 6:44:07 - []
+2019-12-05 6:44:07 - 
+2019-12-05 6:44:07 - select call
+2019-12-05 6:44:07 - Array
+(
+)
+
+2019-12-05 6:44:11 - 
+2019-12-05 6:44:11 - select call
+2019-12-05 6:44:11 - Array
+(
+)
+
+2019-12-05 6:44:11 - 
+2019-12-05 6:44:11 - select call
+2019-12-05 6:44:11 - Array
+(
+)
+
+2019-12-05 6:44:11 - pass_array
+2019-12-05 6:44:11 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 6:44:11 - count_array
+2019-12-05 6:44:11 - []
+2019-12-05 6:44:11 - 
+2019-12-05 6:44:11 - select call
+2019-12-05 6:44:11 - Array
+(
+)
+
+2019-12-05 6:44:16 - 
+2019-12-05 6:44:16 - select call
+2019-12-05 6:44:16 - Array
+(
+)
+
+2019-12-05 6:44:16 - 
+2019-12-05 6:44:16 - select call
+2019-12-05 6:44:16 - Array
+(
+)
+
+2019-12-05 6:44:16 - pass_array
+2019-12-05 6:44:16 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 6:44:16 - count_array
+2019-12-05 6:44:16 - []
+2019-12-05 6:44:16 - 
+2019-12-05 6:44:16 - select call
+2019-12-05 6:44:16 - Array
+(
+)
+
+2019-12-05 6:44:22 - 
+2019-12-05 6:44:22 - select call
+2019-12-05 6:44:22 - Array
+(
+)
+
+2019-12-05 6:44:22 - 
+2019-12-05 6:44:22 - select call
+2019-12-05 6:44:22 - Array
+(
+)
+
+2019-12-05 6:44:22 - pass_array
+2019-12-05 6:44:22 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 6:44:22 - count_array
+2019-12-05 6:44:22 - []
+2019-12-05 6:44:22 - 
+2019-12-05 6:44:22 - select call
+2019-12-05 6:44:22 - Array
+(
+)
+
+2019-12-05 6:44:27 - 
+2019-12-05 6:44:27 - select call
+2019-12-05 6:44:27 - Array
+(
+)
+
+2019-12-05 6:44:27 - 
+2019-12-05 6:44:27 - select call
+2019-12-05 6:44:27 - Array
+(
+)
+
+2019-12-05 6:44:27 - pass_array
+2019-12-05 6:44:27 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 6:44:27 - count_array
+2019-12-05 6:44:27 - []
+2019-12-05 6:44:27 - 
+2019-12-05 6:44:27 - select call
+2019-12-05 6:44:27 - Array
+(
+)
+
+2019-12-05 6:44:34 - 
+2019-12-05 6:44:34 - select call
+2019-12-05 6:44:34 - Array
+(
+)
+
+2019-12-05 6:44:34 - 
+2019-12-05 6:44:34 - select call
+2019-12-05 6:44:34 - Array
+(
+)
+
+2019-12-05 6:44:34 - pass_array
+2019-12-05 6:44:34 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 6:44:34 - count_array
+2019-12-05 6:44:34 - []
+2019-12-05 6:44:34 - 
+2019-12-05 6:44:34 - select call
+2019-12-05 6:44:34 - Array
+(
+)
+
+2019-12-05 6:47:34 - 
+2019-12-05 6:47:34 - select call
+2019-12-05 6:47:34 - Array
+(
+)
+
+2019-12-05 6:47:34 - 
+2019-12-05 6:47:34 - select call
+2019-12-05 6:47:34 - Array
+(
+)
+
+2019-12-05 6:47:34 - pass_array
+2019-12-05 6:47:34 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 6:47:34 - count_array
+2019-12-05 6:47:34 - []
+2019-12-05 6:47:34 - 
+2019-12-05 6:47:34 - select call
+2019-12-05 6:47:34 - Array
+(
+)
+
+2019-12-05 6:47:53 - 
+2019-12-05 6:47:53 - select call
+2019-12-05 6:47:53 - Array
+(
+)
+
+2019-12-05 6:47:53 - 
+2019-12-05 6:47:53 - select call
+2019-12-05 6:47:53 - Array
+(
+)
+
+2019-12-05 6:47:53 - pass_array
+2019-12-05 6:47:53 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 6:47:53 - count_array
+2019-12-05 6:47:53 - []
+2019-12-05 6:47:53 - 
+2019-12-05 6:47:53 - select call
+2019-12-05 6:47:53 - Array
+(
+)
+
+2019-12-05 6:50:12 - 
+2019-12-05 6:50:12 - select call
+2019-12-05 6:50:12 - Array
+(
+)
+
+2019-12-05 6:50:12 - 
+2019-12-05 6:50:12 - select call
+2019-12-05 6:50:12 - Array
+(
+)
+
+2019-12-05 6:50:12 - pass_array
+2019-12-05 6:50:12 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 6:50:12 - count_array
+2019-12-05 6:50:12 - []
+2019-12-05 6:50:12 - 
+2019-12-05 6:50:12 - select call
+2019-12-05 6:50:12 - Array
+(
+)
+
+2019-12-05 6:50:47 - 
+2019-12-05 6:50:47 - select call
+2019-12-05 6:50:47 - Array
+(
+)
+
+2019-12-05 6:50:47 - 
+2019-12-05 6:50:47 - select call
+2019-12-05 6:50:47 - Array
+(
+)
+
+2019-12-05 6:50:47 - pass_array
+2019-12-05 6:50:47 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 6:50:47 - count_array
+2019-12-05 6:50:47 - []
+2019-12-05 6:50:47 - 
+2019-12-05 6:50:47 - select call
+2019-12-05 6:50:47 - Array
+(
+)
+
+2019-12-05 6:57:28 - 
+2019-12-05 6:57:28 - select call
+2019-12-05 6:57:28 - Array
+(
+)
+
+2019-12-05 6:57:28 - 
+2019-12-05 6:57:28 - select call
+2019-12-05 6:57:28 - Array
+(
+)
+
+2019-12-05 6:57:28 - pass_array
+2019-12-05 6:57:28 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 6:57:28 - count_array
+2019-12-05 6:57:28 - []
+2019-12-05 6:57:28 - 
+2019-12-05 6:57:28 - select call
+2019-12-05 6:57:28 - Array
+(
+)
+
+2019-12-05 6:57:48 - 
+2019-12-05 6:57:48 - select call
+2019-12-05 6:57:48 - Array
+(
+)
+
+2019-12-05 6:57:48 - 
+2019-12-05 6:57:48 - select call
+2019-12-05 6:57:48 - Array
+(
+)
+
+2019-12-05 6:57:48 - pass_array
+2019-12-05 6:57:48 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 6:57:48 - count_array
+2019-12-05 6:57:48 - []
+2019-12-05 6:57:48 - 
+2019-12-05 6:57:48 - select call
+2019-12-05 6:57:48 - Array
+(
+)
+
+2019-12-05 7:02:06 - 
+2019-12-05 7:02:06 - select call
+2019-12-05 7:02:06 - Array
+(
+)
+
+2019-12-05 7:02:06 - 
+2019-12-05 7:02:06 - select call
+2019-12-05 7:02:06 - Array
+(
+)
+
+2019-12-05 7:02:06 - pass_array
+2019-12-05 7:02:06 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 7:02:06 - count_array
+2019-12-05 7:02:06 - []
+2019-12-05 7:02:06 - 
+2019-12-05 7:02:06 - select call
+2019-12-05 7:02:06 - Array
+(
+)
+
+2019-12-05 7:04:28 - 
+2019-12-05 7:04:28 - select call
+2019-12-05 7:04:28 - Array
+(
+)
+
+2019-12-05 7:04:28 - 
+2019-12-05 7:04:28 - select call
+2019-12-05 7:04:28 - Array
+(
+)
+
+2019-12-05 7:04:28 - pass_array
+2019-12-05 7:04:28 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 7:04:28 - count_array
+2019-12-05 7:04:28 - []
+2019-12-05 7:04:28 - 
+2019-12-05 7:04:28 - select call
+2019-12-05 7:04:28 - Array
+(
+)
+
+2019-12-05 7:06:29 - 
+2019-12-05 7:06:29 - select call
+2019-12-05 7:06:29 - Array
+(
+)
+
+2019-12-05 7:06:29 - 
+2019-12-05 7:06:29 - select call
+2019-12-05 7:06:29 - Array
+(
+)
+
+2019-12-05 7:06:29 - pass_array
+2019-12-05 7:06:29 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 7:06:29 - count_array
+2019-12-05 7:06:29 - []
+2019-12-05 7:06:29 - 
+2019-12-05 7:06:29 - select call
+2019-12-05 7:06:29 - Array
+(
+)
+
+2019-12-05 7:06:33 - 
+2019-12-05 7:06:33 - select call
+2019-12-05 7:06:33 - Array
+(
+)
+
+2019-12-05 7:06:33 - 
+2019-12-05 7:06:33 - select call
+2019-12-05 7:06:33 - Array
+(
+)
+
+2019-12-05 7:06:33 - pass_array
+2019-12-05 7:06:33 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 7:06:33 - count_array
+2019-12-05 7:06:33 - []
+2019-12-05 7:06:33 - 
+2019-12-05 7:06:33 - select call
+2019-12-05 7:06:33 - Array
+(
+)
+
+2019-12-05 7:58:13 - 
+2019-12-05 7:58:13 - select call
+2019-12-05 7:58:13 - Array
+(
+)
+
+2019-12-05 7:58:13 - 
+2019-12-05 7:58:13 - select call
+2019-12-05 7:58:13 - Array
+(
+)
+
+2019-12-05 7:58:13 - pass_array
+2019-12-05 7:58:13 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 7:58:13 - count_array
+2019-12-05 7:58:13 - []
+2019-12-05 7:58:13 - 
+2019-12-05 7:58:13 - select call
+2019-12-05 7:58:13 - Array
+(
+)
+
+2019-12-05 7:58:17 - 
+2019-12-05 7:58:17 - select call
+2019-12-05 7:58:17 - Array
+(
+)
+
+2019-12-05 7:58:17 - 
+2019-12-05 7:58:17 - select call
+2019-12-05 7:58:17 - Array
+(
+)
+
+2019-12-05 7:58:17 - pass_array
+2019-12-05 7:58:17 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-12-05 7:58:17 - count_array
+2019-12-05 7:58:17 - []
+2019-12-05 7:58:17 - 
+2019-12-05 7:58:17 - select call
+2019-12-05 7:58:17 - Array
+(
+)
+

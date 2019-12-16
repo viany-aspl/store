@@ -1,0 +1,3906 @@
+2019-09-24 4:52:21 - stdClass Object
+(
+    [row] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [num_rows] => 8
+    [total_rows] => 8
+)
+
+2019-09-24 5:42:03 - stdClass Object
+(
+    [row] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [num_rows] => 8
+    [total_rows] => 8
+)
+
+2019-09-24 6:57:59 - stdClass Object
+(
+    [row] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [num_rows] => 8
+    [total_rows] => 8
+)
+
+2019-09-24 6:58:02 - stdClass Object
+(
+    [row] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [num_rows] => 8
+    [total_rows] => 8
+)
+
+2019-09-24 6:58:08 - stdClass Object
+(
+    [row] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [num_rows] => 8
+    [total_rows] => 8
+)
+
+2019-09-24 6:58:08 - stdClass Object
+(
+    [row] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [num_rows] => 8
+    [total_rows] => 8
+)
+
+2019-09-24 6:58:12 - stdClass Object
+(
+    [row] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac86
+                        )
+
+                    [tax_rule_id] => 134
+                    [tax_class_id] => 11
+                    [tax_rate_id] => 86
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-DAP-VAT
+                            [rate] => 6.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1299705430
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930830
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac87
+                        )
+
+                    [tax_rule_id] => 133
+                    [tax_class_id] => 9
+                    [tax_rate_id] => 87
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1316641763
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1482930857
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac88
+                        )
+
+                    [tax_rule_id] => 135
+                    [tax_class_id] => 13
+                    [tax_rate_id] => 88
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => UP-VAT-FORMULA
+                            [rate] => 14.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1485617145
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac89
+                        )
+
+                    [tax_rule_id] => 136
+                    [tax_class_id] => 14
+                    [tax_rate_id] => 89
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@5%
+                            [rate] => 5.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093371
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8a
+                        )
+
+                    [tax_rule_id] => 137
+                    [tax_class_id] => 15
+                    [tax_rate_id] => 90
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@12%
+                            [rate] => 12.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093389
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8b
+                        )
+
+                    [tax_rule_id] => 138
+                    [tax_class_id] => 16
+                    [tax_rate_id] => 91
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@18%
+                            [rate] => 18.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1499093410
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8c
+                        )
+
+                    [tax_rule_id] => 139
+                    [tax_class_id] => 17
+                    [tax_rate_id] => 92
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => GST@28%
+                            [rate] => 28.0
+                            [type] => P
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1509121687
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5b166745e13823201e16ac8d
+                        )
+
+                    [tax_rule_id] => 140
+                    [tax_class_id] => 12
+                    [tax_rate_id] => 93
+                    [based] => store
+                    [priority] => 0
+                    [tr2] => Array
+                        (
+                            [geo_zone_id] => 5
+                            [name] => NO-TAX
+                            [rate] => 0.0
+                            [type] => F
+                            [date_added] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                            [date_modified] => MongoDate Object
+                                (
+                                    [sec] => 1510573579
+                                    [usec] => 0
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [num_rows] => 8
+    [total_rows] => 8
+)
+

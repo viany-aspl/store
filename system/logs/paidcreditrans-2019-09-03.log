@@ -1,0 +1,420 @@
+2019-09-03 10:03:53 - getpaidcreditrans called
+2019-09-03 10:03:53 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [user_id] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 10:03:53 - 541
+2019-09-03 10:03:53 - 108958
+2019-09-03 10:03:53 - in model for getpaidcredit
+2019-09-03 10:03:53 - Array
+(
+    [customer_id] => 108958
+    [store_id] => 541
+)
+
+2019-09-03 10:03:53 - Array
+(
+    [paiddtl] => Array
+        (
+            [0] => Array
+                (
+                    [credit_amount] => 1a10b641c2bdc33ce9f6141c573bbbea
+                    [discount] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [invoice_no] => ab5a019ae40bbbb77ea40592954d62d1
+                    [dat] => 436815b62f44a8f11f65fbcc1adb345e
+                    [transaction_type] => a6c6d7330f9992177635848bbd300e26
+                    [total_credit] => 2c25f51d1c1180de08f7af66422c06dc
+                )
+
+        )
+
+)
+
+2019-09-03 10:04:01 - getpaidcreditrans called
+2019-09-03 10:04:01 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [user_id] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 10:04:01 - 541
+2019-09-03 10:04:01 - 108958
+2019-09-03 10:04:01 - in model for getpaidcredit
+2019-09-03 10:04:01 - Array
+(
+    [customer_id] => 108958
+    [store_id] => 541
+)
+
+2019-09-03 10:04:01 - Array
+(
+    [paiddtl] => Array
+        (
+            [0] => Array
+                (
+                    [credit_amount] => 1a10b641c2bdc33ce9f6141c573bbbea
+                    [discount] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [invoice_no] => ab5a019ae40bbbb77ea40592954d62d1
+                    [dat] => 436815b62f44a8f11f65fbcc1adb345e
+                    [transaction_type] => a6c6d7330f9992177635848bbd300e26
+                    [total_credit] => 2c25f51d1c1180de08f7af66422c06dc
+                )
+
+        )
+
+)
+
+2019-09-03 10:05:32 - getpaidcreditrans called
+2019-09-03 10:05:32 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [user_id] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 10:05:32 - 541
+2019-09-03 10:05:32 - 108958
+2019-09-03 10:05:32 - in model for getpaidcredit
+2019-09-03 10:05:32 - Array
+(
+    [customer_id] => 108958
+    [store_id] => 541
+)
+
+2019-09-03 10:05:32 - Array
+(
+    [paiddtl] => Array
+        (
+            [0] => Array
+                (
+                    [credit_amount] => 1a10b641c2bdc33ce9f6141c573bbbea
+                    [discount] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [invoice_no] => ab5a019ae40bbbb77ea40592954d62d1
+                    [dat] => 436815b62f44a8f11f65fbcc1adb345e
+                    [transaction_type] => a6c6d7330f9992177635848bbd300e26
+                    [total_credit] => 2c25f51d1c1180de08f7af66422c06dc
+                )
+
+        )
+
+)
+
+2019-09-03 10:06:51 - getpaidcreditrans called
+2019-09-03 10:06:51 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [user_id] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 10:06:51 - 541
+2019-09-03 10:06:51 - 108958
+2019-09-03 10:06:51 - in model for getpaidcredit
+2019-09-03 10:06:51 - Array
+(
+    [customer_id] => 108958
+    [store_id] => 541
+)
+
+2019-09-03 10:06:51 - Array
+(
+    [paiddtl] => Array
+        (
+            [0] => Array
+                (
+                    [credit_amount] => 1a10b641c2bdc33ce9f6141c573bbbea
+                    [discount] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [invoice_no] => ab5a019ae40bbbb77ea40592954d62d1
+                    [dat] => 436815b62f44a8f11f65fbcc1adb345e
+                    [transaction_type] => a6c6d7330f9992177635848bbd300e26
+                    [total_credit] => 2c25f51d1c1180de08f7af66422c06dc
+                )
+
+        )
+
+)
+
+2019-09-03 10:13:59 - getpaidcreditrans called
+2019-09-03 10:13:59 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [user_id] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 10:13:59 - 541
+2019-09-03 10:13:59 - 108958
+2019-09-03 10:13:59 - in model for getpaidcredit
+2019-09-03 10:13:59 - Array
+(
+    [customer_id] => 108958
+    [store_id] => 541
+)
+
+2019-09-03 10:13:59 - Array
+(
+    [paiddtl] => Array
+        (
+            [0] => Array
+                (
+                    [credit_amount] => 1a10b641c2bdc33ce9f6141c573bbbea
+                    [discount] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [invoice_no] => ab5a019ae40bbbb77ea40592954d62d1
+                    [dat] => 436815b62f44a8f11f65fbcc1adb345e
+                    [transaction_type] => a6c6d7330f9992177635848bbd300e26
+                    [total_credit] => 2c25f51d1c1180de08f7af66422c06dc
+                )
+
+        )
+
+)
+
+2019-09-03 10:14:10 - getpaidcreditrans called
+2019-09-03 10:14:10 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [user_id] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 10:14:10 - 541
+2019-09-03 10:14:10 - 108958
+2019-09-03 10:14:10 - in model for getpaidcredit
+2019-09-03 10:14:10 - Array
+(
+    [customer_id] => 108958
+    [store_id] => 541
+)
+
+2019-09-03 10:14:10 - Array
+(
+    [paiddtl] => Array
+        (
+            [0] => Array
+                (
+                    [credit_amount] => 1a10b641c2bdc33ce9f6141c573bbbea
+                    [discount] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [invoice_no] => ab5a019ae40bbbb77ea40592954d62d1
+                    [dat] => 436815b62f44a8f11f65fbcc1adb345e
+                    [transaction_type] => a6c6d7330f9992177635848bbd300e26
+                    [total_credit] => 2c25f51d1c1180de08f7af66422c06dc
+                )
+
+        )
+
+)
+
+2019-09-03 10:14:50 - getpaidcreditrans called
+2019-09-03 10:14:50 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [user_id] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 10:14:50 - 541
+2019-09-03 10:14:50 - 108958
+2019-09-03 10:14:50 - in model for getpaidcredit
+2019-09-03 10:14:50 - Array
+(
+    [customer_id] => 108958
+    [store_id] => 541
+)
+
+2019-09-03 10:14:50 - Array
+(
+    [paiddtl] => Array
+        (
+            [0] => Array
+                (
+                    [credit_amount] => 1a10b641c2bdc33ce9f6141c573bbbea
+                    [discount] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [invoice_no] => ab5a019ae40bbbb77ea40592954d62d1
+                    [dat] => 436815b62f44a8f11f65fbcc1adb345e
+                    [transaction_type] => a6c6d7330f9992177635848bbd300e26
+                    [total_credit] => 2c25f51d1c1180de08f7af66422c06dc
+                )
+
+        )
+
+)
+
+2019-09-03 10:14:57 - getpaidcreditrans called
+2019-09-03 10:14:57 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [user_id] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 10:14:57 - 541
+2019-09-03 10:14:57 - 108958
+2019-09-03 10:14:57 - in model for getpaidcredit
+2019-09-03 10:14:57 - Array
+(
+    [customer_id] => 108958
+    [store_id] => 541
+)
+
+2019-09-03 10:14:57 - Array
+(
+    [paiddtl] => Array
+        (
+            [0] => Array
+                (
+                    [credit_amount] => 1a10b641c2bdc33ce9f6141c573bbbea
+                    [discount] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [invoice_no] => ab5a019ae40bbbb77ea40592954d62d1
+                    [dat] => 436815b62f44a8f11f65fbcc1adb345e
+                    [transaction_type] => a6c6d7330f9992177635848bbd300e26
+                    [total_credit] => 2c25f51d1c1180de08f7af66422c06dc
+                )
+
+        )
+
+)
+
+2019-09-03 11:20:18 - getpaidcreditrans called
+2019-09-03 11:20:18 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [user_id] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 11:20:18 - 541
+2019-09-03 11:20:18 - 108958
+2019-09-03 11:20:18 - in model for getpaidcredit
+2019-09-03 11:20:18 - Array
+(
+    [customer_id] => 108958
+    [store_id] => 541
+)
+
+2019-09-03 11:20:18 - Array
+(
+    [paiddtl] => Array
+        (
+            [0] => Array
+                (
+                    [credit_amount] => 1a10b641c2bdc33ce9f6141c573bbbea
+                    [discount] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [invoice_no] => ab5a019ae40bbbb77ea40592954d62d1
+                    [dat] => 436815b62f44a8f11f65fbcc1adb345e
+                    [transaction_type] => a6c6d7330f9992177635848bbd300e26
+                    [total_credit] => 2c25f51d1c1180de08f7af66422c06dc
+                )
+
+        )
+
+)
+
+2019-09-03 11:20:23 - getpaidcreditrans called
+2019-09-03 11:20:23 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [user_id] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 11:20:23 - 541
+2019-09-03 11:20:23 - 108958
+2019-09-03 11:20:23 - in model for getpaidcredit
+2019-09-03 11:20:23 - Array
+(
+    [customer_id] => 108958
+    [store_id] => 541
+)
+
+2019-09-03 11:20:23 - Array
+(
+    [paiddtl] => Array
+        (
+            [0] => Array
+                (
+                    [credit_amount] => 1a10b641c2bdc33ce9f6141c573bbbea
+                    [discount] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [invoice_no] => ab5a019ae40bbbb77ea40592954d62d1
+                    [dat] => 436815b62f44a8f11f65fbcc1adb345e
+                    [transaction_type] => a6c6d7330f9992177635848bbd300e26
+                    [total_credit] => 2c25f51d1c1180de08f7af66422c06dc
+                )
+
+        )
+
+)
+
+2019-09-03 11:23:54 - getpaidcreditrans called
+2019-09-03 11:23:54 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [user_id] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 11:23:54 - 541
+2019-09-03 11:23:54 - 108958
+2019-09-03 11:23:54 - in model for getpaidcredit
+2019-09-03 11:23:54 - Array
+(
+    [customer_id] => 108958
+    [store_id] => 541
+)
+
+2019-09-03 11:23:54 - Array
+(
+    [paiddtl] => Array
+        (
+            [0] => Array
+                (
+                    [credit_amount] => 1a10b641c2bdc33ce9f6141c573bbbea
+                    [discount] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [invoice_no] => ab5a019ae40bbbb77ea40592954d62d1
+                    [dat] => 436815b62f44a8f11f65fbcc1adb345e
+                    [transaction_type] => a6c6d7330f9992177635848bbd300e26
+                    [total_credit] => 2c25f51d1c1180de08f7af66422c06dc
+                )
+
+        )
+
+)
+
+2019-09-03 11:23:57 - getpaidcreditrans called
+2019-09-03 11:23:57 - Array
+(
+    [username] => 6718f9dd327f24bf625ad466343773ac
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [user_id] => fbf3333d6a1292472b9d44e9582e7500
+)
+
+2019-09-03 11:23:57 - 541
+2019-09-03 11:23:57 - 108958
+2019-09-03 11:23:57 - in model for getpaidcredit
+2019-09-03 11:23:57 - Array
+(
+    [customer_id] => 108958
+    [store_id] => 541
+)
+
+2019-09-03 11:23:57 - Array
+(
+    [paiddtl] => Array
+        (
+            [0] => Array
+                (
+                    [credit_amount] => 1a10b641c2bdc33ce9f6141c573bbbea
+                    [discount] => e6d1fddb49fe8ec10b97972c354f18ac
+                    [invoice_no] => ab5a019ae40bbbb77ea40592954d62d1
+                    [dat] => 436815b62f44a8f11f65fbcc1adb345e
+                    [transaction_type] => a6c6d7330f9992177635848bbd300e26
+                    [total_credit] => 2c25f51d1c1180de08f7af66422c06dc
+                )
+
+        )
+
+)
+

@@ -1,0 +1,530 @@
+2019-09-03 10:03:25 - Add order Call
+2019-09-03 10:03:25 - Array
+(
+    [aadhar_number] => c9077f6e42258698c30af0f72da0ef8e
+    [store_id] => 12e0c696a9dc0a65b2b4ddc2257bf96d
+    [customer_mob] => eca584cbbd5ee3c74b9bbb840ebd7fe6
+    [discount] => fe9eb967040b8c28ab866a9bedda471b
+    [growername] => c2ce375cd851a8bf9afcd6f9b0665ce3
+    [credit_amount] => 9ea96d1fcaf8dd2c2448ce1aa93d603d
+    [amtcash] => 1a10b641c2bdc33ce9f6141c573bbbea
+    [prddtl] => 06446db836f93553b8b87281b0e525cb1f467f19b2bdf4ad17af83cf8112546da332785cbdd3a64fbe1d4c751e98b13012fb90adb8ea371b246ce5e414d8a1e814b2c774faa73e9d4303f961362b893b267b5c7ba838ea17aa908be4af7c1ddc850a6f8b649f381247a57bd20b990b92964645dd51600ffa98ffaa4ce3771e5841e51afe738a85277deb4d6d678f531cbd0772715d09b859557b1b78918c415e35401f84f9c6d8d691af07fbbbb4e4468fe09e24ab4cfc10c5f84f683d86ed8bde7fb800c06c08893037b3d54af6ba424bafe649694e1fe27c22c0245448482ef8a53a762d6434a61cdefe27947a0415ee08bc9f7cd1065240feee788b7b69bf3ab4d1ef59b6a9c4aa33720b7d5e4ca29df18a5ae2e0afa22b4d962d93c63a1672ba598e8bf9d0d3d6973f5930a02152e1cba7d8570f0251b6ae3c7f5c236016aca7dde488d1d0edb1a2f1b7972c36f027591a718d9dd27bd4a5eeae9f30e78842a240162409e89733a0c98b6cfa0457c6780b9d446cc4d1d322eb661aea36d6d53e5bc6bfd93e5d8392af70289fef70a4dbbbf34f061a8af1987c25b8fd168e1c53532cc846d37f51450346c33ff5bf5d15e72a7952136ec5a7f04add280b9ded808f063285e905a7284c907f85b73d
+    [transid] => 79b760f5d8e0e66d657b22282700995aef53e57f727ef320c1373c26a3fe02f04d3232a71cf10d94ae574436ce3ced61
+    [billtype] => e6d1fddb49fe8ec10b97972c354f18ac
+    [payment_method] => 43383a14b8580d9d6ea067161988f76e
+    [eid] => e6d1fddb49fe8ec10b97972c354f18ac
+    [reward] => fe9eb967040b8c28ab866a9bedda471b
+    [utype] => 2c25f51d1c1180de08f7af66422c06dc
+    [user_id] => 6718f9dd327f24bf625ad466343773ac
+    [affiliate_id] => e6d1fddb49fe8ec10b97972c354f18ac
+)
+
+2019-09-03 10:03:25 - Array
+(
+    [_id] => MongoId Object
+        (
+            [$id] => 5d6e0ffc7f8b9a060e320be1
+        )
+
+    [user_id] => 851
+    [username] => 7065196342
+    [user_group_id] => 11
+    [salt] => e213eb02d
+    [password] => 8dec12c985d9b767e875152cecbea46be80e184f
+    [firstname] => MYSTORE
+    [lastname] => 
+    [email] => sharma.13tushar@gmail.com
+    [company_id] => 
+    [image] => profile/949-1.jpg
+    [images] => Array
+        (
+            [0] => profile/949-1.jpg
+            [1] => profile/949-2.jpg
+        )
+
+    [status] => 1
+    [store_id] => 541
+    [State_Code] => 9
+    [State_Name] => UTTAR PRADESH
+    [Dist_Code] => 121
+    [Dist_Name] => AMBEDKAR NAGAR
+    [token] => eBRVZNNNJgw:APA91bEnBTNW2LdjyeHeYkhojo3uPzfiJMvyHDIYbMsCwLhXQexsllJgzb10KcqFZFeh5weV9E93hd_DwM8XiWQhAvPJreDbfJ-G_ZHTR6BZ16592XqGCnbE-2PrS9a15lChej7AZFHH
+    [date_added] => MongoDate Object
+        (
+            [sec] => 1567494140
+            [usec] => 0
+        )
+
+)
+
+2019-09-03 10:03:25 - before check transid
+2019-09-03 10:03:25 - d1abe66c-2a2c-4ae2-8229-7778f59269a0
+2019-09-03 10:03:26 - 
+2019-09-03 10:03:26 - After Decrypt
+2019-09-03 10:03:26 - Array
+(
+    [aadhar_number] => c9077f6e42258698c30af0f72da0ef8e
+    [store_id] => 541
+    [customer_mob] => 7056196342
+    [discount] => 0.0
+    [growername] => c2ce375cd851a8bf9afcd6f9b0665ce3
+    [credit_amount] => 11.0
+    [amtcash] => 988
+    [prddtl] => [{"product_quantity":"1","product_id":"3534","product_reward":"0","product_tax_per":"{\"89\":{\"tax_rate_id\":89,\"name\":\"GST@5%\",\"rate\":\"5.0\",\"type\":\"P\",\"amount\":47.571428571429}}","product_hstn":"31023000","product_inventory":"1","product_tax":"47.571428571429","product_name":"MY","product_avqnty":"0","product_sku":"99","product_price":"951.42857142857","product_mitra":"0","category_id":"819822f3303731fc83bb6ed610478c31","product_subsidy":"0"}]
+    [transid] => d1abe66c-2a2c-4ae2-8229-7778f59269a0
+    [billtype] => 0
+    [payment_method] => Cash
+    [eid] => e6d1fddb49fe8ec10b97972c354f18ac
+    [reward] => 0.0
+    [utype] => 2c25f51d1c1180de08f7af66422c06dc
+    [user_id] => 851
+    [affiliate_id] => 0
+    [customer_id] => 
+    [customer_mobile] => 
+    [subcash] => 
+    [sub] => 
+    [docs] => 
+    [doc_number] => 
+    [comment] => 
+    [stock_fm] => 
+    [coupon] => 
+)
+
+2019-09-03 10:03:26 - After  Print  Decrypted value
+2019-09-03 10:03:26 - init user-
+2019-09-03 10:03:26 - user phone= 7056196342
+2019-09-03 10:03:26 - user id in customer_mob -7056196342
+2019-09-03 10:03:26 - user id in store_id -541
+2019-09-03 10:03:26 - 
+2019-09-03 10:03:26 - in customer add
+2019-09-03 10:03:26 - user= 108958
+2019-09-03 10:03:26 - customer_id- 108958
+2019-09-03 10:03:26 - customer_r
+2019-09-03 10:03:26 - Array
+(
+    [_id] => MongoId Object
+        (
+            [$id] => 5d6e3a6e7f8b9aa91c320b7a
+        )
+
+    [customer_id] => 108958
+    [customer_group_id] => 1
+    [firstname] => TUSHAR
+    [lastname] => 
+    [email] => 7056196342
+    [telephone] => 7056196342
+    [fax] => 7056196342
+    [custom_field] => 
+    [newsletter] => 0
+    [salt] => b0c1463e3
+    [password] => d80c94f547b98d3e939fe5e6d82bf24f1ccebeb5
+    [status] => 1
+    [approved] => 1
+    [safe] => 1
+    [store_id] => Array
+        (
+            [0] => 541
+        )
+
+    [card] => 0
+    [date_added] => MongoDate Object
+        (
+            [sec] => 1567505006
+            [usec] => 0
+        )
+
+    [addedby] => 
+    [aadhar] => 000000000000
+    [otp] => 
+    [ip] => 
+    [imei] => 
+    [scheme] => 
+    [state_code] => 
+    [state_name] => 
+    [dist_code] => 
+    [dist_name] => 
+    [village] => 
+    [card_number] => 
+    [unnati_mitra] => 0
+    [reward] => 0
+    [credit] => 0
+)
+
+2019-09-03 10:03:26 - session_reward
+2019-09-03 10:03:26 - 
+2019-09-03 10:03:26 - product data 
+2019-09-03 10:03:26 - 3534
+2019-09-03 10:03:26 - product_tax_per 
+2019-09-03 10:03:26 - Array
+(
+    [89] => Array
+        (
+            [tax_rate_id] => 89
+            [name] => GST@5%
+            [rate] => 5.0
+            [type] => P
+            [amount] => 47.571428571429
+        )
+
+)
+
+2019-09-03 10:03:26 - Array
+(
+    [tax_rate_id] => 89
+    [name] => GST@5%
+    [rate] => 5.0
+    [type] => P
+    [amount] => 47.571428571429
+)
+
+2019-09-03 10:03:26 - in product loop category_id 44
+2019-09-03 10:03:26 - user tax
+2019-09-03 10:03:26 - 951.42857142857
+2019-09-03 10:03:26 - 14
+2019-09-03 10:03:26 - 47.571428571429
+2019-09-03 10:03:26 - customer is not unnati mitra
+2019-09-03 10:03:26 - points
+2019-09-03 10:03:26 - 0
+2019-09-03 10:03:26 - final product data 
+2019-09-03 10:03:26 - Array
+(
+    [0] => Array
+        (
+            [subtract] => 1
+            [product_id] => 3534
+            [name] => MY
+            [model] => MY
+            [quantity] => 1
+            [product_mitra] => 0
+            [price] => 951.42857142857
+            [total] => 951.42857142857
+            [tax] => 47.571428571428
+            [reward] => 0
+            [tax_class_id] => 14
+            [tax_class_name] => GST@5%
+            [tax_class_rate] => 5.0
+            [order_option] => Array
+                (
+                )
+
+            [category_id] => 44
+        )
+
+)
+
+2019-09-03 10:03:26 - redeem_points
+2019-09-03 10:03:26 - 0.0
+2019-09-03 10:03:26 - after product submit
+2019-09-03 10:03:26 - payment_method
+2019-09-03 10:03:26 - Cash
+2019-09-03 10:03:26 - data
+2019-09-03 10:03:26 - user id
+2019-09-03 10:03:26 - 108958
+2019-09-03 10:03:26 - false
+2019-09-03 10:03:26 - Array
+(
+    [_id] => MongoId Object
+        (
+            [$id] => 5d6e3a6e7f8b9aa91c320b7a
+        )
+
+    [customer_id] => 108958
+    [customer_group_id] => 1
+    [firstname] => TUSHAR
+    [lastname] => 
+    [email] => 7056196342
+    [telephone] => 7056196342
+    [fax] => 7056196342
+    [custom_field] => 
+    [newsletter] => 0
+    [salt] => b0c1463e3
+    [password] => d80c94f547b98d3e939fe5e6d82bf24f1ccebeb5
+    [status] => 1
+    [approved] => 1
+    [safe] => 1
+    [store_id] => Array
+        (
+            [0] => 541
+        )
+
+    [card] => 0
+    [date_added] => MongoDate Object
+        (
+            [sec] => 1567505006
+            [usec] => 0
+        )
+
+    [addedby] => 
+    [aadhar] => 000000000000
+    [otp] => 
+    [ip] => 
+    [imei] => 
+    [scheme] => 
+    [state_code] => 
+    [state_name] => 
+    [dist_code] => 
+    [dist_name] => 
+    [village] => 
+    [card_number] => 
+    [unnati_mitra] => 0
+    [reward] => 0
+    [credit] => 0
+)
+
+2019-09-03 10:03:26 - after getTaxes
+2019-09-03 10:03:26 - Array
+(
+)
+
+2019-09-03 10:03:26 - before order total loop
+2019-09-03 10:03:26 - Array
+(
+    [0] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5b1662c7e13823201e0567fa
+                )
+
+            [extension_id] => 22
+            [type] => total
+            [code] => shipping
+        )
+
+    [1] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5b1662c7e13823201e056800
+                )
+
+            [extension_id] => 390
+            [type] => total
+            [code] => credit
+        )
+
+    [2] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5b1662c7e13823201e056802
+                )
+
+            [extension_id] => 349
+            [type] => total
+            [code] => handling
+        )
+
+    [3] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5b1662c7e13823201e056803
+                )
+
+            [extension_id] => 350
+            [type] => total
+            [code] => low_order_fee
+        )
+
+    [4] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5b1662c7e13823201e056804
+                )
+
+            [extension_id] => 389
+            [type] => total
+            [code] => coupon
+        )
+
+    [5] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5b1662c7e13823201e056807
+                )
+
+            [extension_id] => 393
+            [type] => total
+            [code] => reward
+        )
+
+    [6] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5b1662c7e13823201e056808
+                )
+
+            [extension_id] => 398
+            [type] => total
+            [code] => voucher
+        )
+
+    [7] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5b6445ca7f8b9a6f228b4567
+                )
+
+            [extension_id] => 
+            [type] => total
+            [code] => klarna_fee
+        )
+
+    [8] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5b1662c7e13823201e0567fb
+                )
+
+            [extension_id] => 57
+            [type] => total
+            [code] => sub_total
+        )
+
+    [9] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5b1662c7e13823201e0567fc
+                )
+
+            [extension_id] => 58
+            [type] => total
+            [code] => tax
+        )
+
+    [10] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5baf1eeb49171d75518b4567
+                )
+
+            [extension_id] => 
+            [type] => total
+            [code] => discount
+        )
+
+    [11] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5b1662c7e13823201e0567fd
+                )
+
+            [extension_id] => 59
+            [type] => total
+            [code] => total
+        )
+
+)
+
+2019-09-03 10:03:26 - sub_total
+2019-09-03 10:03:26 - after get value
+2019-09-03 10:03:26 - sub_total
+2019-09-03 10:03:26 - tax
+2019-09-03 10:03:26 - after get value
+2019-09-03 10:03:26 - tax
+2019-09-03 10:03:26 - discount
+2019-09-03 10:03:26 - after get value
+2019-09-03 10:03:26 - discount
+2019-09-03 10:03:26 - total
+2019-09-03 10:03:26 - after get value
+2019-09-03 10:03:26 - total
+2019-09-03 10:03:26 - final total data 
+2019-09-03 10:03:26 - Array
+(
+    [0] => Array
+        (
+            [code] => sub_total
+            [title] => Sub total
+            [text] => 951
+            [value] => 951.43
+            [sort_order] => 1
+        )
+
+    [1] => Array
+        (
+            [code] => discount
+            [title] => Discount
+            [text] => 0
+            [value] => 0
+            [sort_order] => 6
+        )
+
+    [2] => Array
+        (
+            [code] => total
+            [title] => Total
+            [text] => 951
+            [value] => 951.42857142857
+            [sort_order] => 9
+        )
+
+)
+
+2019-09-03 10:03:26 - Array
+(
+    [customer_name] => TUSHAR 
+)
+
+2019-09-03 10:03:27 - addOrderOpen end
+2019-09-03 10:03:27 - databypos
+2019-09-03 10:03:27 - Array
+(
+    [order_id] => 14221
+    [inv_no] => INV-2019-001
+    [total] => 999
+)
+
+2019-09-03 10:03:27 - Payment Method is: Cash
+2019-09-03 10:03:27 - Array
+(
+    [user_id] => 851
+    [cash] => 951.42857142857
+    [card] => 0
+    [store_id] => 541
+    [order_id] => 14221
+    [payment_method] => Cash
+    [total] => 951.42857142857
+)
+
+2019-09-03 10:03:27 - Genereted Invoice number - 14221
+2019-09-03 10:03:27 - done----108958
+2019-09-03 10:03:27 - Array
+(
+    [customer_name] => TUSHAR 
+    [order_id] => 14221
+    [cash] => 0
+    [card] => 0
+    [invoice_no] => INV-2019-001
+    [success] => New order placed
+    [orddate] => 2019-09-03 10:03:27 AM
+)
+
+2019-09-03 10:03:27 - before call to get_order_total
+2019-09-03 10:03:27 - after call to get_order_total
+2019-09-03 10:03:27 - [{"_id":"","order_total_id":0,"order_id":14221,"code":"tax","title":"no tax","value":0,"sort_order":1}]
+2019-09-03 10:03:27 - 48f92d5de3a7208f298c35004f593bd0a4e1eb4303eb7faffc97e1e19ea5e5ab5177b6b80aa9b5151151a6d5a3c4bc6213780161069afbbb531ab85f6417ab6f48422a5ce6cb9bf40f1a39056667fab7ace75eed49bdc633a890c284ad9b97a8eeb56ae3b48860139027cc2aba2b08c0
+2019-09-03 10:03:27 - before sending sms
+2019-09-03 10:03:28 - after sending sms
+2019-09-03 10:03:28 - Array
+(
+    [customer_name] => TUSHAR 
+    [order_id] => 14221
+    [cash] => 0
+    [card] => 0
+    [invoice_no] => INV-2019-001
+    [success] => New order placed
+    [orddate] => 2019-09-03 10:03:27 AM
+    [coupon_discount] => 0
+    [gtax] => 48f92d5de3a7208f298c35004f593bd0a4e1eb4303eb7faffc97e1e19ea5e5ab5177b6b80aa9b5151151a6d5a3c4bc6213780161069afbbb531ab85f6417ab6f48422a5ce6cb9bf40f1a39056667fab7ace75eed49bdc633a890c284ad9b97a8eeb56ae3b48860139027cc2aba2b08c0
+)
+
+2019-09-03 10:03:28 - complete

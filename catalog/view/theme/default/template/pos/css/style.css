@@ -1,0 +1,354 @@
+/*---body {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+	margin:0px;
+	padding:0px;
+    color: #444444;
+    background-color: #fff;
+}
+
+h1, h2, h3, h4, h5{
+	font-family: "Poppins", sans-serifs;
+}
+
+a {
+	text-decoration: none;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+
+a:hover , a:active, a:focus{
+	text-decoration: none;
+	outline:none;
+}
+
+.mt_10{margin-top:10px;} .mt_20{margin-top:20px;}  .mt_30{margin-top:30px;} .mt_40{margin-top:40px;} .mt_50{margin-top:50px;} .mt_60{margin-top:60px;}
+.mb_10{margin-bottom:10px;} .mb_20{margin-bottom:20px;}  .mb_30{margin-bottom:30px;}  .mb_40{margin-bottom:40px;} .mb_50{margin-bottom:50px;} .mb_60{margin-bottom:60px;}
+.-mt_20{margin-top:-20px;} .-mt_10{margin-top:-12px;} .-mt_5{margin-top:-5px;} 
+
+
+.important_do{
+	width:100%;
+	float:left;
+	margin-bottom:60px;
+}
+.important_do h3{
+	margin-top: 30px;
+    border-bottom: 1px solid #efefef;
+    margin-bottom: 20px;
+}
+.overview ul{
+display:block;
+}
+.overview li{
+	list-style-type:decimal;
+	margin: 10px 0;
+}
+
+.simple li{
+	list-style:none;
+	margin:15px 0;
+}
+
+.inner_content ul{
+	display:block;
+}
+.inner_content li{
+	list-style-type:circle;
+	margin-bottom:0px;
+}
+
+.table_con ul{
+	display:block;
+}
+.table_con li{
+	list-style-type:none;
+	margin-bottom:10px;
+}
+.table_con_inner ul{
+	display:block;
+}
+.table_con_inner li{
+	list-style-type:none;
+	margin-bottom:10px;
+}
+
+@media only screen and (max-width: 768px){
+.-m_left{
+	margin-left:0px;
+}
+.m_left{
+	margin-left:15px;
+	padding-left: 30px;
+    padding-right: 30px;
+}
+.-m_left_5{
+	margin-left:-8px;
+}
+.tab_m5{
+margin-top:5px;
+}
+} 
+
+@media only screen and (max-width:480px){
+h2 {
+    font-size: 22px;
+}
+
+.important_do h3 {
+    margin-top: 20px;
+    border-bottom: 1px solid #efefef;
+    margin-bottom: 10px;
+    color: #252525;
+}
+p{
+	font-size:14px;
+}
+.overview li{
+	font-size:14px;
+}
+
+.inner_content li{
+	font-size:14px;
+}
+}-*/
+
+body{
+	background:#e6e6e6;
+	color:#111111;
+	margin:0px;
+	padding:0px;
+	line-height:10px;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+a {
+	color:#215784;
+	text-decoration: none;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+
+a:hover , a:active, a:focus{
+	text-decoration: none;
+	outline:none;
+	color:#215784;
+}
+h1, h2, h3, h4, h5{
+	font-family: "Poppins", sans-serifs;
+}
+h4{
+	font-size:32px;
+}
+
+.no_space{
+	padding:0px;
+	margin:0px;
+}
+.inner_space{
+	width:100%;
+	display:block;
+	background:#fff;
+	margin-top:40px;
+	padding:30px;
+	box-shadow:1px 3px 5px 4px rgba(0,0,0,0.1);
+	-webkit-box-shadow:1px 3px 5px 4px rgba(0,0,0,0.1);
+	-moz-box-shadow:1px 3px 5px 4px rgba(0,0,0,0.1);
+	-o-box-shadow:1px 3px 5px 4px rgba(0,0,0,0.1);
+}
+.logo{
+	width:100%;
+	float:left;
+	margin:0px;
+	padding:0px;
+}
+.invoice_from{
+	text-align:right;
+	padding:0px;
+	margin:0px;
+	letter-spacing:1px;
+}
+.invoice_to{
+	text-align:left;
+	padding:0px;
+	margin:0px;
+	letter-spacing:1px;
+}
+.invoice_box{
+	width:100%;
+	display:block;
+	margin:15px 0px 30px;
+}
+.grey_box{
+background:#efefef;
+display:block;
+text-align:center;
+padding: 15px 0px;
+margin-bottom:20px;
+}
+
+.dark_blue{
+	background: #ffe4b5;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 32px;
+    letter-spacing: 2px;
+    padding: 6px 0;
+}
+
+.product_table{
+	width:100%;
+	display:block;
+	margin:20px 0px;
+}
+.tax_des{
+	width:100%;
+}
+.invoice_footer{
+	width:100%;
+	display:block;
+	border-top:1px solid #cdcdcd;
+	padding:20px 0;
+}
+.invoice_footer span .icon{
+	transform: scale(0.8);
+}
+.table > thead:first-child > tr:first-child > th {
+    border-top: 0;
+    background: #ffe4b5;
+}
+.text_block{
+	display:inline-block:
+}
+.m_20{
+	margin:20px 0;
+}
+.footer_right{
+	text-align:right;
+}
+.footer_left{
+	text-align:left;
+}
+
+@media (max-width:992px){
+	.invoice_from{
+	text-align:right;
+	padding:20px 0;
+}
+.invoice_to{
+	text-align:left;
+	padding:20px 0;
+}
+.grey_box h3{
+	font-size: 20px;
+}
+
+.inner_space {
+    padding: 15px;
+}
+p{
+	font-size:12px;
+}
+.invoice_box{
+	margin:-15px 0px 15px;
+}
+.table > tbody > tr > td{
+	font-size:11px;
+}
+.logo{
+	margin-top:15px;
+}
+}
+
+@media (max-width:767px){
+	.invoice_from{
+	text-align:right;
+	padding:20px 0;
+}
+.invoice_to{
+	text-align:left;
+	padding:20px 0;
+}
+.inner_space {
+    padding: 15px;
+}
+.invoice_box {
+    margin: -15px 0px 15px;
+}
+p{
+	font-size:10px;
+}
+.table > tbody > tr > td{
+	font-size:11px;
+}
+
+
+}
+
+
+@media (max-width:480px){
+	.logo{
+	margin-top:0px;
+}
+.invoice_from{
+	text-align:right;
+	padding:0px;
+	letter-spacing:0px;
+}
+.invoice_to{
+	text-align:left;
+	padding:0px;
+	letter-spacing:0px;
+}
+.inner_space {
+    padding:15px;
+}
+.invoice_box {
+    margin: -15px 0px 15px 0;
+}
+h2 {
+    font-size: 20px;
+}
+p{
+	font-size:8px;
+}
+a{
+	font-size:10px;
+}
+.table > thead:first-child > tr:first-child > th {
+    border-top: 0;
+    background: #ffe4b5;
+}
+.table > thead > tr > th{
+	font-size:10px;
+}
+.table > tbody > tr > td{
+	font-size:10px;
+}
+/*--.text_block{
+	display:block;
+}----*/
+
+.footer_right{
+	text-align:center;
+}
+.footer_left{
+	text-align:center;
+}
+.footer_right a{
+	display:block;
+}
+.footer_left a{
+	display:block;
+}
+
+
+}

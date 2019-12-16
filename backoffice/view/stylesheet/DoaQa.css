@@ -1,0 +1,13 @@
+
+table {
+}
+td, th {
+    border: 1px solid;
+    padding: 5px;
+}
+th {
+    background: #888 none repeat scroll 0 0;
+    border: 1px solid #000;
+    color: #fff;
+}
+S

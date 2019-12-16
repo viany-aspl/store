@@ -1,0 +1,134 @@
+2019-09-25 5:16:16 - 
+2019-09-25 5:16:16 - select call
+2019-09-25 5:16:16 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-25 5:16:17 - 
+2019-09-25 5:16:17 - select call
+2019-09-25 5:16:17 - Array
+(
+)
+
+2019-09-25 5:16:17 - 
+2019-09-25 5:16:17 - select call
+2019-09-25 5:16:17 - Array
+(
+)
+
+2019-09-25 5:16:17 - pass_array
+2019-09-25 5:16:17 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-25 5:16:17 - count_array
+2019-09-25 5:16:17 - []
+2019-09-25 5:16:17 - pass_array
+2019-09-25 5:16:17 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-25 5:16:17 - count_array
+2019-09-25 5:16:17 - []
+2019-09-25 5:16:17 - 
+2019-09-25 5:16:17 - select call
+2019-09-25 5:16:17 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-25 5:16:17 - 
+2019-09-25 5:16:17 - select call
+2019-09-25 5:16:17 - Array
+(
+)
+
+2019-09-25 5:16:59 - 
+2019-09-25 5:16:59 - select call
+2019-09-25 5:16:59 - Array
+(
+)
+
+2019-09-25 5:16:59 - 
+2019-09-25 5:16:59 - select call
+2019-09-25 5:16:59 - Array
+(
+)
+
+2019-09-25 5:16:59 - pass_array
+2019-09-25 5:16:59 - [{"$lookup":{"from":"oc_tax_rate","localField":"tax_rate_id","foreignField":"tax_rate_id","as":"tr2"}},{"$unwind":"$tr2"},{"$match":{"based":"store"}},{"$project":{"tax_rule_id":1,"tax_class_id":1,"tax_rate_id":1,"based":1,"priority":1,"tr2.geo_zone_id":1,"tr2.name":1,"tr2.rate":1,"tr2.type":1,"tr2.date_added":1,"tr2.date_modified":1}}]
+2019-09-25 5:16:59 - count_array
+2019-09-25 5:16:59 - []
+2019-09-25 5:16:59 - 
+2019-09-25 5:16:59 - select call
+2019-09-25 5:16:59 - Array
+(
+)
+
+2019-09-25 5:37:46 - 
+2019-09-25 5:37:46 - select call
+2019-09-25 5:37:46 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [store_id] => 0
+                )
+
+        )
+
+)
+
+2019-09-25 5:37:46 - 
+2019-09-25 5:37:46 - select call
+2019-09-25 5:37:46 - Array
+(
+)
+
+2019-09-25 5:37:46 - 
+2019-09-25 5:37:46 - select call
+2019-09-25 5:37:46 - Array
+(
+)
+
+2019-09-25 5:37:46 - pass_array
+2019-09-25 5:37:46 - [{"$lookup":{"from":"oc_weight_class_description","localField":"weight_class_id","foreignField":"weight_class_id","as":"wcd"}},{"$unwind":"$wcd"},{"$match":{"language_id":1}}]
+2019-09-25 5:37:46 - count_array
+2019-09-25 5:37:46 - []
+2019-09-25 5:37:46 - pass_array
+2019-09-25 5:37:46 - [{"$lookup":{"from":"oc_length_class_description","localField":"length_class_id","foreignField":"length_class_id","as":"mcd"}},{"$unwind":"$mcd"},{"$match":{"language_id":1}}]
+2019-09-25 5:37:46 - count_array
+2019-09-25 5:37:46 - []
+2019-09-25 5:37:46 - 
+2019-09-25 5:37:46 - select call
+2019-09-25 5:37:46 - Array
+(
+    [$and] => Array
+        (
+            [0] => Array
+                (
+                    [type] => openbay
+                )
+
+        )
+
+)
+
+2019-09-25 5:37:46 - 
+2019-09-25 5:37:46 - select call
+2019-09-25 5:37:46 - Array
+(
+)
+

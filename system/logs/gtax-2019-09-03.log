@@ -1,0 +1,58 @@
+2019-09-03 10:03:27 - stdClass Object
+(
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+    [num_rows] => 0
+    [total_rows] => 0
+)
+
+2019-09-03 10:03:27 - Array
+(
+    [0] => Array
+        (
+            [_id] => 
+            [order_total_id] => 0
+            [order_id] => 14221
+            [code] => tax
+            [title] => no tax
+            [value] => 0
+            [sort_order] => 1
+        )
+
+)
+
+2019-09-03 10:03:28 - stdClass Object
+(
+    [row] => Array
+        (
+        )
+
+    [rows] => Array
+        (
+        )
+
+    [num_rows] => 0
+    [total_rows] => 0
+)
+
+2019-09-03 10:03:28 - Array
+(
+    [0] => Array
+        (
+            [_id] => 
+            [order_total_id] => 0
+            [order_id] => 14221
+            [code] => tax
+            [title] => no tax
+            [value] => 0
+            [sort_order] => 1
+        )
+
+)
+

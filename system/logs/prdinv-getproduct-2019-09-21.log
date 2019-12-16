@@ -1,0 +1,360 @@
+2019-09-21 6:16:07 - 675
+2019-09-21 6:16:07 - {"product_id":675,"opst.store_id":0}
+2019-09-21 6:16:07 - {"product_id":675}
+2019-09-21 6:16:07 - stdClass Object
+(
+    [row] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5ba32abd49171d85478b46b3
+                        )
+
+                    [product_id] => 675
+                    [HSTN] => 1234
+                    [price_tax] => 2
+                    [name] => 2.4 D AGAN
+                    [model] => 2.4 D AGAN
+                    [sku] => 0
+                    [upc] => 0
+                    [ean] => 0
+                    [jan] => 0
+                    [isbn] => 0
+                    [mpn] => 0
+                    [location] => 
+                    [quantity] => 250
+                    [minimum] => 0
+                    [subtract] => 0
+                    [stock_status_id] => 5
+                    [date_available] => MongoDate Object
+                        (
+                            [sec] => -19800
+                            [usec] => 0
+                        )
+
+                    [manufacturer_id] => 80
+                    [shipping] => 0
+                    [price] => 1
+                    [points] => 0
+                    [weight] => 0
+                    [weight_class_id] => 2
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [length_class_id] => 1
+                    [status] => 1
+                    [tax_class_id] => 12
+                    [tax_class_name] => NO-TAX
+                    [sort_order] => 0
+                    [category_ids] => Array
+                        (
+                            [0] => 8
+                            [1] => 44
+                            [2] => 44
+                            [3] => 44
+                            [4] => 44
+                            [5] => 44
+                            [6] => 44
+                            [7] => 44
+                            [8] => 44
+                        )
+
+                    [category_name] => Array
+                        (
+                            [0] => HERBICIDE
+                            [1] => MY SHOP
+                            [2] => MY SHOP
+                            [3] => MY SHOP
+                            [4] => MY SHOP
+                            [5] => MY SHOP
+                            [6] => MY SHOP
+                            [7] => MY SHOP
+                            [8] => MY SHOP
+                        )
+
+                    [product_description] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [name] => 2.4 D AGAN
+                                    [meta_title] => 2.4 D AGAN
+                                    [description] => 2.4 D AGAN
+                                    [meta_description] => 2.4 D AGAN
+                                    [meta_keyword] => 2.4 D AGAN
+                                    [tag] => 2.4 D AGAN
+                                )
+
+                        )
+
+                    [date_added] => MongoDate Object
+                        (
+                            [sec] => 1537419965
+                            [usec] => 0
+                        )
+
+                    [date_modified] => MongoDate Object
+                        (
+                            [sec] => 1544392025
+                            [usec] => 0
+                        )
+
+                    [image] => 
+                    [opst] => Array
+                        (
+                            [_id] => MongoId Object
+                                (
+                                    [$id] => 5ba32abd49171d85478b46b5
+                                )
+
+                            [product_id] => 675
+                            [store_id] => 0
+                            [quantity] => 0
+                            [store_price] => 10
+                            [store_tax_amt] => 
+                            [store_tax_type] => 
+                            [mitra_quantity] => 250
+                        )
+
+                )
+
+        )
+
+    [rows] => Array
+        (
+            [0] => Array
+                (
+                    [_id] => MongoId Object
+                        (
+                            [$id] => 5ba32abd49171d85478b46b3
+                        )
+
+                    [product_id] => 675
+                    [HSTN] => 1234
+                    [price_tax] => 2
+                    [name] => 2.4 D AGAN
+                    [model] => 2.4 D AGAN
+                    [sku] => 0
+                    [upc] => 0
+                    [ean] => 0
+                    [jan] => 0
+                    [isbn] => 0
+                    [mpn] => 0
+                    [location] => 
+                    [quantity] => 250
+                    [minimum] => 0
+                    [subtract] => 0
+                    [stock_status_id] => 5
+                    [date_available] => MongoDate Object
+                        (
+                            [sec] => -19800
+                            [usec] => 0
+                        )
+
+                    [manufacturer_id] => 80
+                    [shipping] => 0
+                    [price] => 1
+                    [points] => 0
+                    [weight] => 0
+                    [weight_class_id] => 2
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [length_class_id] => 1
+                    [status] => 1
+                    [tax_class_id] => 12
+                    [tax_class_name] => NO-TAX
+                    [sort_order] => 0
+                    [category_ids] => Array
+                        (
+                            [0] => 8
+                            [1] => 44
+                            [2] => 44
+                            [3] => 44
+                            [4] => 44
+                            [5] => 44
+                            [6] => 44
+                            [7] => 44
+                            [8] => 44
+                        )
+
+                    [category_name] => Array
+                        (
+                            [0] => HERBICIDE
+                            [1] => MY SHOP
+                            [2] => MY SHOP
+                            [3] => MY SHOP
+                            [4] => MY SHOP
+                            [5] => MY SHOP
+                            [6] => MY SHOP
+                            [7] => MY SHOP
+                            [8] => MY SHOP
+                        )
+
+                    [product_description] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [name] => 2.4 D AGAN
+                                    [meta_title] => 2.4 D AGAN
+                                    [description] => 2.4 D AGAN
+                                    [meta_description] => 2.4 D AGAN
+                                    [meta_keyword] => 2.4 D AGAN
+                                    [tag] => 2.4 D AGAN
+                                )
+
+                        )
+
+                    [date_added] => MongoDate Object
+                        (
+                            [sec] => 1537419965
+                            [usec] => 0
+                        )
+
+                    [date_modified] => MongoDate Object
+                        (
+                            [sec] => 1544392025
+                            [usec] => 0
+                        )
+
+                    [image] => 
+                    [opst] => Array
+                        (
+                            [_id] => MongoId Object
+                                (
+                                    [$id] => 5ba32abd49171d85478b46b5
+                                )
+
+                            [product_id] => 675
+                            [store_id] => 0
+                            [quantity] => 0
+                            [store_price] => 10
+                            [store_tax_amt] => 
+                            [store_tax_type] => 
+                            [mitra_quantity] => 250
+                        )
+
+                )
+
+        )
+
+    [num_rows] => 1
+    [total_rows] => 1
+)
+
+2019-09-21 6:16:07 - in
+2019-09-21 6:16:07 - Array
+(
+    [_id] => MongoId Object
+        (
+            [$id] => 5ba32abd49171d85478b46b3
+        )
+
+    [product_id] => 675
+    [HSTN] => 1234
+    [price_tax] => 2
+    [name] => 2.4 D AGAN
+    [model] => 2.4 D AGAN
+    [sku] => 0
+    [upc] => 0
+    [ean] => 0
+    [jan] => 0
+    [isbn] => 0
+    [mpn] => 0
+    [location] => 
+    [quantity] => 250
+    [minimum] => 0
+    [subtract] => 0
+    [stock_status_id] => 5
+    [date_available] => MongoDate Object
+        (
+            [sec] => -19800
+            [usec] => 0
+        )
+
+    [manufacturer_id] => 80
+    [shipping] => 0
+    [price] => 1
+    [points] => 0
+    [weight] => 0
+    [weight_class_id] => 2
+    [length] => 0
+    [width] => 0
+    [height] => 0
+    [length_class_id] => 1
+    [status] => 1
+    [tax_class_id] => 12
+    [tax_class_name] => NO-TAX
+    [sort_order] => 0
+    [category_ids] => Array
+        (
+            [0] => 8
+            [1] => 44
+            [2] => 44
+            [3] => 44
+            [4] => 44
+            [5] => 44
+            [6] => 44
+            [7] => 44
+            [8] => 44
+        )
+
+    [category_name] => Array
+        (
+            [0] => HERBICIDE
+            [1] => MY SHOP
+            [2] => MY SHOP
+            [3] => MY SHOP
+            [4] => MY SHOP
+            [5] => MY SHOP
+            [6] => MY SHOP
+            [7] => MY SHOP
+            [8] => MY SHOP
+        )
+
+    [product_description] => Array
+        (
+            [1] => Array
+                (
+                    [name] => 2.4 D AGAN
+                    [meta_title] => 2.4 D AGAN
+                    [description] => 2.4 D AGAN
+                    [meta_description] => 2.4 D AGAN
+                    [meta_keyword] => 2.4 D AGAN
+                    [tag] => 2.4 D AGAN
+                )
+
+        )
+
+    [date_added] => MongoDate Object
+        (
+            [sec] => 1537419965
+            [usec] => 0
+        )
+
+    [date_modified] => MongoDate Object
+        (
+            [sec] => 1544392025
+            [usec] => 0
+        )
+
+    [image] => 
+    [opst] => Array
+        (
+            [_id] => MongoId Object
+                (
+                    [$id] => 5ba32abd49171d85478b46b5
+                )
+
+            [product_id] => 675
+            [store_id] => 0
+            [quantity] => 0
+            [store_price] => 10
+            [store_tax_amt] => 
+            [store_tax_type] => 
+            [mitra_quantity] => 250
+        )
+
+)
+
